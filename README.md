@@ -1,0 +1,1 @@
+Replication codes for the paper Krisztin, Tamás, Philipp Piribauer, and Michael Wögerer. "The spatial econometrics of the coronavirus pandemic." Letters in spatial and resource sciences 13 (2020): 209-218. [10.1007/s12076-020-00254-1](https://doi.org/10.1007/s12076-020-00254-1)

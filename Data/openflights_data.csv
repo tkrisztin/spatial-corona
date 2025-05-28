@@ -1,0 +1,4559 @@
+"source_iso2","destination_iso2","source","destination","nr_flights"
+"AZ","AF","Azerbaijan","Afghanistan",1
+"IN","AF","India","Afghanistan",7
+"IR","AF","Iran","Afghanistan",5
+"KW","AF","Kuwait","Afghanistan",1
+"PK","AF","Pakistan","Afghanistan",4
+"TR","AF","Turkey","Afghanistan",2
+"AE","AF","United Arab Emirates","Afghanistan",7
+"AT","AL","Austria","Albania",1
+"DE","AL","Germany","Albania",2
+"GR","AL","Greece","Albania",2
+"IT","AL","Italy","Albania",27
+"SI","AL","Slovenia","Albania",1
+"TR","AL","Turkey","Albania",2
+"GB","AL","United Kingdom","Albania",1
+"AT","DZ","Austria","Algeria",1
+"BE","DZ","Belgium","Algeria",1
+"BF","DZ","Burkina Faso","Algeria",1
+"CA","DZ","Canada","Algeria",1
+"CN","DZ","China","Algeria",1
+"CI","DZ","Cote d'Ivoire","Algeria",1
+"EG","DZ","Egypt","Algeria",2
+"FR","DZ","France","Algeria",67
+"DE","DZ","Germany","Algeria",3
+"IT","DZ","Italy","Algeria",4
+"JO","DZ","Jordan","Algeria",2
+"LB","DZ","Lebanon","Algeria",1
+"LY","DZ","Libya","Algeria",2
+"ML","DZ","Mali","Algeria",1
+"MT","DZ","Malta","Algeria",1
+"MA","DZ","Morocco","Algeria",3
+"NE","DZ","Niger","Algeria",1
+"PT","DZ","Portugal","Algeria",2
+"QA","DZ","Qatar","Algeria",1
+"RU","DZ","Russia","Algeria",1
+"SA","DZ","Saudi Arabia","Algeria",2
+"SN","DZ","Senegal","Algeria",1
+"ES","DZ","Spain","Algeria",14
+"CH","DZ","Switzerland","Algeria",1
+"TN","DZ","Tunisia","Algeria",3
+"TR","DZ","Turkey","Algeria",6
+"AE","DZ","United Arab Emirates","Algeria",2
+"GB","DZ","United Kingdom","Algeria",3
+"US","AS","United States","American Samoa",1
+"BE","AO","Belgium","Angola",4
+"BR","AO","Brazil","Angola",2
+"CN","AO","China","Angola",1
+NA,"AO","Congo (Brazzaville)","Angola",1
+"CU","AO","Cuba","Angola",1
+"ET","AO","Ethiopia","Angola",2
+"FR","AO","France","Angola",1
+"DE","AO","Germany","Angola",1
+"KE","AO","Kenya","Angola",1
+"MA","AO","Morocco","Angola",1
+"MZ","AO","Mozambique","Angola",1
+NA,"AO","Namibia","Angola",3
+"NL","AO","Netherlands","Angola",1
+"PT","AO","Portugal","Angola",3
+"ST","AO","Sao Tome and Principe","Angola",1
+"ZA","AO","South Africa","Angola",3
+"ES","AO","Spain","Angola",1
+"AE","AO","United Arab Emirates","Angola",2
+"GB","AO","United Kingdom","Angola",1
+"ZM","AO","Zambia","Angola",1
+"AG","AI","Antigua and Barbuda","Anguilla",1
+"AN","AI","Netherlands Antilles","Anguilla",2
+"PR","AI","Puerto Rico","Anguilla",2
+NA,"AI","Virgin Islands","Anguilla",1
+"AI","AG","Anguilla","Antigua and Barbuda",1
+"BB","AG","Barbados","Antigua and Barbuda",2
+"CA","AG","Canada","Antigua and Barbuda",2
+"DM","AG","Dominica","Antigua and Barbuda",1
+"DO","AG","Dominican Republic","Antigua and Barbuda",4
+"FR","AG","France","Antigua and Barbuda",2
+"GP","AG","Guadeloupe","Antigua and Barbuda",2
+"JM","AG","Jamaica","Antigua and Barbuda",1
+"AN","AG","Netherlands Antilles","Antigua and Barbuda",1
+"PR","AG","Puerto Rico","Antigua and Barbuda",1
+NA,"AG","Saint Kitts and Nevis","Antigua and Barbuda",4
+NA,"AG","Saint Lucia","Antigua and Barbuda",2
+"TT","AG","Trinidad and Tobago","Antigua and Barbuda",1
+"GB","AG","United Kingdom","Antigua and Barbuda",3
+"US","AG","United States","Antigua and Barbuda",7
+"BO","AR","Bolivia","Argentina",2
+"BR","AR","Brazil","Argentina",29
+"CL","AR","Chile","Argentina",10
+"CO","AR","Colombia","Argentina",2
+"CU","AR","Cuba","Argentina",1
+"DO","AR","Dominican Republic","Argentina",1
+"EC","AR","Ecuador","Argentina",1
+"FR","AR","France","Argentina",2
+"DE","AR","Germany","Argentina",1
+"IT","AR","Italy","Argentina",2
+"MX","AR","Mexico","Argentina",2
+"NL","AR","Netherlands","Argentina",1
+"PA","AR","Panama","Argentina",2
+"PY","AR","Paraguay","Argentina",4
+"PE","AR","Peru","Argentina",4
+"ES","AR","Spain","Argentina",4
+"GB","AR","United Kingdom","Argentina",1
+"US","AR","United States","Argentina",10
+"UY","AR","Uruguay","Argentina",9
+"VE","AR","Venezuela","Argentina",2
+"AT","AM","Austria","Armenia",3
+"BY","AM","Belarus","Armenia",1
+"CZ","AM","Czech Republic","Armenia",2
+"FR","AM","France","Armenia",3
+"GR","AM","Greece","Armenia",1
+"IR","AM","Iran","Armenia",1
+"IT","AM","Italy","Armenia",1
+"KZ","AM","Kazakhstan","Armenia",1
+"LB","AM","Lebanon","Armenia",1
+"PL","AM","Poland","Armenia",1
+"RU","AM","Russia","Armenia",27
+"UA","AM","Ukraine","Armenia",2
+"AE","AM","United Arab Emirates","Armenia",2
+"CA","AW","Canada","Aruba",2
+"CO","AW","Colombia","Aruba",2
+"DO","AW","Dominican Republic","Aruba",2
+"NL","AW","Netherlands","Aruba",2
+"AN","AW","Netherlands Antilles","Aruba",4
+"PA","AW","Panama","Aruba",1
+"SR","AW","Suriname","Aruba",1
+"US","AW","United States","Aruba",21
+"VE","AW","Venezuela","Aruba",11
+NA,"AU","Brunei","Australia",1
+"CA","AU","Canada","Australia",1
+"CL","AU","Chile","Australia",2
+"CN","AU","China","Australia",17
+"CX","AU","Christmas Island","Australia",1
+"CK","AU","Cook Islands","Australia",1
+NA,"AU","East Timor","Australia",2
+"FJ","AU","Fiji","Australia",11
+"GU","AU","Guam","Australia",1
+"HK","AU","Hong Kong","Australia",15
+"IN","AU","India","Australia",2
+"ID","AU","Indonesia","Australia",26
+"JP","AU","Japan","Australia",15
+"MY","AU","Malaysia","Australia",14
+"MU","AU","Mauritius","Australia",1
+"NR","AU","Nauru","Australia",1
+"NC","AU","New Caledonia","Australia",4
+"NZ","AU","New Zealand","Australia",64
+"NF","AU","Norfolk Island","Australia",2
+"PG","AU","Papua New Guinea","Australia",9
+"PH","AU","Philippines","Australia",4
+"QA","AU","Qatar","Australia",2
+"SG","AU","Singapore","Australia",42
+"SB","AU","Solomon Islands","Australia",2
+"ZA","AU","South Africa","Australia",4
+"KR","AU","South Korea","Australia",5
+"TW","AU","Taiwan","Australia",3
+"TH","AU","Thailand","Australia",14
+"TO","AU","Tonga","Australia",1
+"AE","AU","United Arab Emirates","Australia",16
+"US","AU","United States","Australia",26
+"VU","AU","Vanuatu","Australia",7
+"VN","AU","Vietnam","Australia",4
+"AL","AT","Albania","Austria",1
+"DZ","AT","Algeria","Austria",1
+"AM","AT","Armenia","Austria",3
+"AZ","AT","Azerbaijan","Austria",2
+"BY","AT","Belarus","Austria",2
+"BE","AT","Belgium","Austria",2
+"BA","AT","Bosnia and Herzegovina","Austria",1
+"BG","AT","Bulgaria","Austria",3
+"CA","AT","Canada","Austria",3
+"CN","AT","China","Austria",2
+"HR","AT","Croatia","Austria",6
+"CY","AT","Cyprus","Austria",3
+"CZ","AT","Czech Republic","Austria",1
+"DK","AT","Denmark","Austria",5
+"EG","AT","Egypt","Austria",6
+"FI","AT","Finland","Austria",2
+"FR","AT","France","Austria",13
+"GE","AT","Georgia","Austria",2
+"DE","AT","Germany","Austria",67
+"GR","AT","Greece","Austria",36
+"HU","AT","Hungary","Austria",1
+"IN","AT","India","Austria",2
+"IR","AT","Iran","Austria",2
+"IQ","AT","Iraq","Austria",1
+"IE","AT","Ireland","Austria",1
+"IL","AT","Israel","Austria",3
+"IT","AT","Italy","Austria",28
+"JP","AT","Japan","Austria",2
+"JO","AT","Jordan","Austria",3
+"KZ","AT","Kazakhstan","Austria",2
+"LV","AT","Latvia","Austria",2
+"LT","AT","Lithuania","Austria",1
+"LU","AT","Luxembourg","Austria",2
+"MK","AT","Macedonia","Austria",1
+"MT","AT","Malta","Austria",4
+"MD","AT","Moldova","Austria",1
+"ME","AT","Montenegro","Austria",2
+"NL","AT","Netherlands","Austria",5
+"NO","AT","Norway","Austria",2
+"PL","AT","Poland","Austria",4
+"PT","AT","Portugal","Austria",6
+"QA","AT","Qatar","Austria",1
+"RO","AT","Romania","Austria",8
+"RU","AT","Russia","Austria",13
+"RS","AT","Serbia","Austria",3
+"SK","AT","Slovakia","Austria",1
+"SI","AT","Slovenia","Austria",2
+"KR","AT","South Korea","Austria",1
+"ES","AT","Spain","Austria",40
+"SE","AT","Sweden","Austria",4
+"CH","AT","Switzerland","Austria",11
+"TW","AT","Taiwan","Austria",1
+"TH","AT","Thailand","Austria",3
+"TN","AT","Tunisia","Austria",1
+"TR","AT","Turkey","Austria",19
+"UA","AT","Ukraine","Austria",10
+"AE","AT","United Arab Emirates","Austria",2
+"GB","AT","United Kingdom","Austria",11
+"US","AT","United States","Austria",6
+"AF","AZ","Afghanistan","Azerbaijan",1
+"AT","AZ","Austria","Azerbaijan",2
+"BY","AZ","Belarus","Azerbaijan",1
+"CN","AZ","China","Azerbaijan",2
+"CZ","AZ","Czech Republic","Azerbaijan",2
+"FR","AZ","France","Azerbaijan",2
+"GE","AZ","Georgia","Azerbaijan",2
+"DE","AZ","Germany","Azerbaijan",3
+"HU","AZ","Hungary","Azerbaijan",1
+"IR","AZ","Iran","Azerbaijan",3
+"IL","AZ","Israel","Azerbaijan",1
+"IT","AZ","Italy","Azerbaijan",4
+"KZ","AZ","Kazakhstan","Azerbaijan",4
+"LV","AZ","Latvia","Azerbaijan",2
+"QA","AZ","Qatar","Azerbaijan",2
+"RU","AZ","Russia","Azerbaijan",21
+"TR","AZ","Turkey","Azerbaijan",7
+"TM","AZ","Turkmenistan","Azerbaijan",2
+"UA","AZ","Ukraine","Azerbaijan",3
+"AE","AZ","United Arab Emirates","Azerbaijan",2
+"GB","AZ","United Kingdom","Azerbaijan",2
+"UZ","AZ","Uzbekistan","Azerbaijan",1
+"CA","BS","Canada","Bahamas",4
+"KY","BS","Cayman Islands","Bahamas",1
+"CU","BS","Cuba","Bahamas",2
+"JM","BS","Jamaica","Bahamas",1
+"PA","BS","Panama","Bahamas",1
+NA,"BS","Saint Kitts and Nevis","Bahamas",1
+"TC","BS","Turks and Caicos Islands","Bahamas",3
+"GB","BS","United Kingdom","Bahamas",1
+"US","BS","United States","Bahamas",72
+"CY","BH","Cyprus","Bahrain",1
+"EG","BH","Egypt","Bahrain",2
+"ET","BH","Ethiopia","Bahrain",1
+"FR","BH","France","Bahrain",1
+"DE","BH","Germany","Bahrain",1
+"IN","BH","India","Bahrain",8
+"IR","BH","Iran","Bahrain",3
+"IQ","BH","Iraq","Bahrain",2
+"JO","BH","Jordan","Bahrain",2
+"KW","BH","Kuwait","Bahrain",4
+"LB","BH","Lebanon","Bahrain",1
+"OM","BH","Oman","Bahrain",3
+"PK","BH","Pakistan","Bahrain",6
+"PH","BH","Philippines","Bahrain",2
+"QA","BH","Qatar","Bahrain",12
+"SA","BH","Saudi Arabia","Bahrain",8
+"LK","BH","Sri Lanka","Bahrain",2
+"SD","BH","Sudan","Bahrain",1
+"TH","BH","Thailand","Bahrain",3
+"TR","BH","Turkey","Bahrain",2
+"AE","BH","United Arab Emirates","Bahrain",15
+"GB","BH","United Kingdom","Bahrain",4
+"YE","BH","Yemen","Bahrain",2
+"BT","BD","Bhutan","Bangladesh",1
+NA,"BD","Burma","Bangladesh",1
+"CN","BD","China","Bangladesh",2
+"HK","BD","Hong Kong","Bangladesh",3
+"IN","BD","India","Bangladesh",12
+"IT","BD","Italy","Bangladesh",1
+"KW","BD","Kuwait","Bangladesh",3
+"MY","BD","Malaysia","Bangladesh",6
+"NP","BD","Nepal","Bangladesh",4
+"OM","BD","Oman","Bangladesh",4
+"PK","BD","Pakistan","Bangladesh",1
+"QA","BD","Qatar","Bangladesh",1
+"SA","BD","Saudi Arabia","Bangladesh",7
+"SG","BD","Singapore","Bangladesh",4
+"LK","BD","Sri Lanka","Bangladesh",2
+"TH","BD","Thailand","Bangladesh",7
+"TR","BD","Turkey","Bangladesh",1
+"AE","BD","United Arab Emirates","Bangladesh",10
+"GB","BD","United Kingdom","Bangladesh",2
+"AG","BB","Antigua and Barbuda","Barbados",2
+"BR","BB","Brazil","Barbados",1
+"CA","BB","Canada","Barbados",2
+"DM","BB","Dominica","Barbados",1
+"GD","BB","Grenada","Barbados",1
+"GY","BB","Guyana","Barbados",1
+"JM","BB","Jamaica","Barbados",1
+"MQ","BB","Martinique","Barbados",1
+"AN","BB","Netherlands Antilles","Barbados",1
+NA,"BB","Saint Lucia","Barbados",2
+NA,"BB","Saint Vincent and the Grenadines","Barbados",1
+"TT","BB","Trinidad and Tobago","Barbados",2
+"GB","BB","United Kingdom","Barbados",4
+"US","BB","United States","Barbados",3
+"AM","BY","Armenia","Belarus",1
+"AT","BY","Austria","Belarus",2
+"AZ","BY","Azerbaijan","Belarus",1
+"CY","BY","Cyprus","Belarus",1
+"CZ","BY","Czech Republic","Belarus",2
+"FI","BY","Finland","Belarus",2
+"FR","BY","France","Belarus",2
+"GE","BY","Georgia","Belarus",3
+"DE","BY","Germany","Belarus",4
+"HU","BY","Hungary","Belarus",1
+"IR","BY","Iran","Belarus",1
+"IL","BY","Israel","Belarus",1
+"IT","BY","Italy","Belarus",2
+"KZ","BY","Kazakhstan","Belarus",1
+"LV","BY","Latvia","Belarus",2
+"LB","BY","Lebanon","Belarus",1
+"LT","BY","Lithuania","Belarus",1
+"NL","BY","Netherlands","Belarus",1
+"PL","BY","Poland","Belarus",2
+"RU","BY","Russia","Belarus",12
+"ES","BY","Spain","Belarus",1
+"SE","BY","Sweden","Belarus",1
+"CH","BY","Switzerland","Belarus",1
+"TR","BY","Turkey","Belarus",2
+"TM","BY","Turkmenistan","Belarus",1
+"UA","BY","Ukraine","Belarus",2
+"AE","BY","United Arab Emirates","Belarus",2
+"GB","BY","United Kingdom","Belarus",1
+"DZ","BE","Algeria","Belgium",1
+"AT","BE","Austria","Belgium",2
+"BG","BE","Bulgaria","Belgium",4
+"BF","BE","Burkina Faso","Belgium",4
+"CM","BE","Cameroon","Belgium",9
+"CA","BE","Canada","Belgium",6
+"CN","BE","China","Belgium",2
+NA,"BE","Congo (Kinshasa)","Belgium",4
+"CI","BE","Cote d'Ivoire","Belgium",4
+"HR","BE","Croatia","Belgium",5
+"CY","BE","Cyprus","Belgium",2
+"CZ","BE","Czech Republic","Belgium",4
+"DK","BE","Denmark","Belgium",5
+"EG","BE","Egypt","Belgium",2
+"EE","BE","Estonia","Belgium",2
+"FI","BE","Finland","Belgium",1
+"FR","BE","France","Belgium",36
+"DE","BE","Germany","Belgium",15
+"GR","BE","Greece","Belgium",18
+"HU","BE","Hungary","Belgium",3
+"IS","BE","Iceland","Belgium",1
+"IN","BE","India","Belgium",5
+"IE","BE","Ireland","Belgium",3
+"IL","BE","Israel","Belgium",2
+"IT","BE","Italy","Belgium",45
+"KE","BE","Kenya","Belgium",4
+"LV","BE","Latvia","Belgium",2
+"LB","BE","Lebanon","Belgium",1
+"LR","BE","Liberia","Belgium",3
+"LT","BE","Lithuania","Belgium",5
+"MK","BE","Macedonia","Belgium",1
+"MT","BE","Malta","Belgium",2
+"ME","BE","Montenegro","Belgium",2
+"MA","BE","Morocco","Belgium",21
+"NL","BE","Netherlands","Belgium",1
+"NO","BE","Norway","Belgium",3
+"PL","BE","Poland","Belgium",6
+"PT","BE","Portugal","Belgium",18
+"QA","BE","Qatar","Belgium",1
+"RO","BE","Romania","Belgium",4
+"RU","BE","Russia","Belgium",2
+"RW","BE","Rwanda","Belgium",1
+"SN","BE","Senegal","Belgium",5
+"RS","BE","Serbia","Belgium",2
+"SK","BE","Slovakia","Belgium",1
+"SI","BE","Slovenia","Belgium",3
+"ES","BE","Spain","Belgium",60
+"SE","BE","Sweden","Belgium",6
+"CH","BE","Switzerland","Belgium",6
+"TH","BE","Thailand","Belgium",2
+"TG","BE","Togo","Belgium",3
+"TN","BE","Tunisia","Belgium",4
+"TR","BE","Turkey","Belgium",8
+"UG","BE","Uganda","Belgium",4
+"UA","BE","Ukraine","Belgium",2
+"AE","BE","United Arab Emirates","Belgium",3
+"GB","BE","United Kingdom","Belgium",17
+"US","BE","United States","Belgium",21
+"SV","BZ","El Salvador","Belize",1
+"GT","BZ","Guatemala","Belize",2
+"HN","BZ","Honduras","Belize",2
+"MX","BZ","Mexico","Belize",2
+"US","BZ","United States","Belize",10
+"BE","BJ","Belgium","Benin",4
+"BF","BJ","Burkina Faso","Benin",1
+"CM","BJ","Cameroon","Benin",4
+NA,"BJ","Congo (Brazzaville)","Benin",7
+"CI","BJ","Cote d'Ivoire","Benin",3
+"GQ","BJ","Equatorial Guinea","Benin",2
+"ET","BJ","Ethiopia","Benin",1
+"FR","BJ","France","Benin",1
+"GA","BJ","Gabon","Benin",3
+"GH","BJ","Ghana","Benin",1
+"ML","BJ","Mali","Benin",3
+"MA","BJ","Morocco","Benin",1
+"NE","BJ","Niger","Benin",1
+"NG","BJ","Nigeria","Benin",3
+"SN","BJ","Senegal","Benin",2
+"TG","BJ","Togo","Benin",2
+"CA","BM","Canada","Bermuda",2
+"GB","BM","United Kingdom","Bermuda",2
+"US","BM","United States","Bermuda",11
+"BD","BT","Bangladesh","Bhutan",1
+"IN","BT","India","Bhutan",3
+"NP","BT","Nepal","Bhutan",1
+"AR","BO","Argentina","Bolivia",2
+"BR","BO","Brazil","Bolivia",3
+"CL","BO","Chile","Bolivia",3
+"CO","BO","Colombia","Bolivia",1
+"PA","BO","Panama","Bolivia",1
+"PY","BO","Paraguay","Bolivia",2
+"PE","BO","Peru","Bolivia",8
+"ES","BO","Spain","Bolivia",2
+"US","BO","United States","Bolivia",2
+"AT","BA","Austria","Bosnia and Herzegovina",1
+"HR","BA","Croatia","Bosnia and Herzegovina",1
+"DK","BA","Denmark","Bosnia and Herzegovina",1
+"DE","BA","Germany","Bosnia and Herzegovina",4
+"IT","BA","Italy","Bosnia and Herzegovina",1
+"RS","BA","Serbia","Bosnia and Herzegovina",3
+"SI","BA","Slovenia","Bosnia and Herzegovina",1
+"SE","BA","Sweden","Bosnia and Herzegovina",1
+"CH","BA","Switzerland","Bosnia and Herzegovina",1
+"TR","BA","Turkey","Bosnia and Herzegovina",4
+"KE","BW","Kenya","Botswana",1
+NA,"BW","Namibia","Botswana",1
+"ZA","BW","South Africa","Botswana",9
+"ZM","BW","Zambia","Botswana",1
+"ZW","BW","Zimbabwe","Botswana",2
+"AO","BR","Angola","Brazil",2
+"AR","BR","Argentina","Brazil",28
+"BB","BR","Barbados","Brazil",1
+"BO","BR","Bolivia","Brazil",2
+"CA","BR","Canada","Brazil",2
+NA,"BR","Cape Verde","Brazil",1
+"CL","BR","Chile","Brazil",6
+"CO","BR","Colombia","Brazil",4
+"DO","BR","Dominican Republic","Brazil",4
+"EC","BR","Ecuador","Brazil",1
+"FR","BR","France","Brazil",4
+"GF","BR","French Guiana","Brazil",1
+"DE","BR","Germany","Brazil",8
+"IT","BR","Italy","Brazil",4
+"MX","BR","Mexico","Brazil",2
+"MA","BR","Morocco","Brazil",1
+"NL","BR","Netherlands","Brazil",2
+"PA","BR","Panama","Brazil",7
+"PY","BR","Paraguay","Brazil",5
+"PE","BR","Peru","Brazil",10
+"PT","BR","Portugal","Brazil",12
+"QA","BR","Qatar","Brazil",1
+"ZA","BR","South Africa","Brazil",2
+"ES","BR","Spain","Brazil",8
+"SR","BR","Suriname","Brazil",1
+"CH","BR","Switzerland","Brazil",1
+"TG","BR","Togo","Brazil",1
+"TR","BR","Turkey","Brazil",1
+"AE","BR","United Arab Emirates","Brazil",3
+"GB","BR","United Kingdom","Brazil",3
+"US","BR","United States","Brazil",57
+"UY","BR","Uruguay","Brazil",9
+"VE","BR","Venezuela","Brazil",3
+"DM","VG","Dominica","British Virgin Islands",2
+"AN","VG","Netherlands Antilles","British Virgin Islands",4
+"PR","VG","Puerto Rico","British Virgin Islands",7
+NA,"VG","Virgin Islands","British Virgin Islands",3
+"AU",NA,"Australia","Brunei",1
+"CN",NA,"China","Brunei",1
+"HK",NA,"Hong Kong","Brunei",2
+"ID",NA,"Indonesia","Brunei",4
+"MY",NA,"Malaysia","Brunei",7
+"PH",NA,"Philippines","Brunei",2
+"SA",NA,"Saudi Arabia","Brunei",1
+"SG",NA,"Singapore","Brunei",2
+"TH",NA,"Thailand","Brunei",2
+"AE",NA,"United Arab Emirates","Brunei",1
+"AT","BG","Austria","Bulgaria",3
+"BE","BG","Belgium","Bulgaria",4
+"CY","BG","Cyprus","Bulgaria",4
+"CZ","BG","Czech Republic","Bulgaria",2
+"DK","BG","Denmark","Bulgaria",1
+"FI","BG","Finland","Bulgaria",1
+"FR","BG","France","Bulgaria",3
+"DE","BG","Germany","Bulgaria",11
+"GR","BG","Greece","Bulgaria",4
+"IE","BG","Ireland","Bulgaria",1
+"IL","BG","Israel","Bulgaria",2
+"IT","BG","Italy","Bulgaria",7
+"LU","BG","Luxembourg","Bulgaria",1
+"NL","BG","Netherlands","Bulgaria",2
+"NO","BG","Norway","Bulgaria",1
+"PL","BG","Poland","Bulgaria",2
+"RO","BG","Romania","Bulgaria",3
+"RU","BG","Russia","Bulgaria",8
+"RS","BG","Serbia","Bulgaria",2
+"ES","BG","Spain","Bulgaria",8
+"CH","BG","Switzerland","Bulgaria",1
+"TR","BG","Turkey","Bulgaria",1
+"AE","BG","United Arab Emirates","Bulgaria",1
+"GB","BG","United Kingdom","Bulgaria",10
+"DZ","BF","Algeria","Burkina Faso",1
+"BE","BF","Belgium","Burkina Faso",4
+"BJ","BF","Benin","Burkina Faso",1
+"CI","BF","Cote d'Ivoire","Burkina Faso",8
+"ET","BF","Ethiopia","Burkina Faso",1
+"FR","BF","France","Burkina Faso",1
+"GH","BF","Ghana","Burkina Faso",1
+"ML","BF","Mali","Burkina Faso",3
+"MA","BF","Morocco","Burkina Faso",1
+"NE","BF","Niger","Burkina Faso",8
+"SN","BF","Senegal","Burkina Faso",1
+"TG","BF","Togo","Burkina Faso",2
+"TN","BF","Tunisia","Burkina Faso",1
+"BD",NA,"Bangladesh","Burma",1
+"KH",NA,"Cambodia","Burma",1
+"CN",NA,"China","Burma",8
+"HK",NA,"Hong Kong","Burma",1
+"IN",NA,"India","Burma",1
+"JP",NA,"Japan","Burma",1
+"MY",NA,"Malaysia","Burma",3
+"QA",NA,"Qatar","Burma",1
+"SG",NA,"Singapore","Burma",6
+"KR",NA,"South Korea","Burma",3
+"TW",NA,"Taiwan","Burma",1
+"TH",NA,"Thailand","Burma",12
+"VN",NA,"Vietnam","Burma",2
+"BE","BI","Belgium","Burundi",4
+"KE","BI","Kenya","Burundi",2
+"RW","BI","Rwanda","Burundi",7
+"UG","BI","Uganda","Burundi",1
+NA,"KH","Burma","Cambodia",1
+"CN","KH","China","Cambodia",11
+"HK","KH","Hong Kong","Cambodia",2
+"LA","KH","Laos","Cambodia",5
+"MY","KH","Malaysia","Cambodia",4
+"PH","KH","Philippines","Cambodia",1
+"SG","KH","Singapore","Cambodia",8
+"KR","KH","South Korea","Cambodia",8
+"TW","KH","Taiwan","Cambodia",3
+"TH","KH","Thailand","Cambodia",8
+"VN","KH","Vietnam","Cambodia",14
+"BE","CM","Belgium","Cameroon",9
+"BJ","CM","Benin","Cameroon",4
+"CF","CM","Central African Republic","Cameroon",2
+"TD","CM","Chad","Cameroon",3
+NA,"CM","Congo (Brazzaville)","Cameroon",4
+NA,"CM","Congo (Kinshasa)","Cameroon",5
+"CI","CM","Cote d'Ivoire","Cameroon",1
+"GQ","CM","Equatorial Guinea","Cameroon",5
+"ET","CM","Ethiopia","Cameroon",2
+"FR","CM","France","Cameroon",4
+"GA","CM","Gabon","Cameroon",4
+"KE","CM","Kenya","Cameroon",2
+"MA","CM","Morocco","Cameroon",2
+"NG","CM","Nigeria","Cameroon",2
+"SN","CM","Senegal","Cameroon",1
+"TG","CM","Togo","Cameroon",1
+"TR","CM","Turkey","Cameroon",2
+"DZ","CA","Algeria","Canada",1
+"AG","CA","Antigua and Barbuda","Canada",2
+"AW","CA","Aruba","Canada",2
+"AU","CA","Australia","Canada",1
+"AT","CA","Austria","Canada",3
+"BS","CA","Bahamas","Canada",3
+"BB","CA","Barbados","Canada",2
+"BE","CA","Belgium","Canada",7
+"BM","CA","Bermuda","Canada",2
+"BR","CA","Brazil","Canada",2
+"KY","CA","Cayman Islands","Canada",2
+"CL","CA","Chile","Canada",1
+"CN","CA","China","Canada",15
+"CO","CA","Colombia","Canada",2
+"CR","CA","Costa Rica","Canada",3
+"CU","CA","Cuba","Canada",29
+"DK","CA","Denmark","Canada",3
+"DO","CA","Dominican Republic","Canada",17
+"EG","CA","Egypt","Canada",1
+"SV","CA","El Salvador","Canada",1
+"FR","CA","France","Canada",19
+"DE","CA","Germany","Canada",19
+"GR","CA","Greece","Canada",2
+"GD","CA","Grenada","Canada",2
+"GP","CA","Guadeloupe","Canada",1
+"GY","CA","Guyana","Canada",2
+"HT","CA","Haiti","Canada",1
+"HK","CA","Hong Kong","Canada",4
+"IS","CA","Iceland","Canada",2
+"IE","CA","Ireland","Canada",3
+"IL","CA","Israel","Canada",3
+"IT","CA","Italy","Canada",8
+"JM","CA","Jamaica","Canada",12
+"JP","CA","Japan","Canada",10
+"JO","CA","Jordan","Canada",3
+"MQ","CA","Martinique","Canada",1
+"MX","CA","Mexico","Canada",30
+"MA","CA","Morocco","Canada",1
+"NL","CA","Netherlands","Canada",10
+"AN","CA","Netherlands Antilles","Canada",1
+"PK","CA","Pakistan","Canada",3
+"PA","CA","Panama","Canada",1
+"PE","CA","Peru","Canada",1
+"PH","CA","Philippines","Canada",1
+"PL","CA","Poland","Canada",2
+"PT","CA","Portugal","Canada",8
+"PR","CA","Puerto Rico","Canada",1
+"QA","CA","Qatar","Canada",1
+"RU","CA","Russia","Canada",2
+NA,"CA","Saint Lucia","Canada",2
+NA,"CA","Saint Pierre and Miquelon","Canada",3
+"SA","CA","Saudi Arabia","Canada",1
+"KR","CA","South Korea","Canada",4
+"ES","CA","Spain","Canada",4
+"CH","CA","Switzerland","Canada",8
+"TW","CA","Taiwan","Canada",3
+"TT","CA","Trinidad and Tobago","Canada",2
+"TR","CA","Turkey","Canada",2
+"TC","CA","Turks and Caicos Islands","Canada",3
+"AE","CA","United Arab Emirates","Canada",3
+"GB","CA","United Kingdom","Canada",42
+"US","CA","United States","Canada",364
+"BR",NA,"Brazil","Cape Verde",1
+"FR",NA,"France","Cape Verde",4
+"GM",NA,"Gambia","Cape Verde",1
+"DE",NA,"Germany","Cape Verde",5
+"GW",NA,"Guinea-Bissau","Cape Verde",1
+"LU",NA,"Luxembourg","Cape Verde",1
+"MA",NA,"Morocco","Cape Verde",1
+"NL",NA,"Netherlands","Cape Verde",1
+"PT",NA,"Portugal","Cape Verde",9
+"ST",NA,"Sao Tome and Principe","Cape Verde",1
+"SN",NA,"Senegal","Cape Verde",2
+"ES",NA,"Spain","Cape Verde",1
+"GB",NA,"United Kingdom","Cape Verde",9
+"US",NA,"United States","Cape Verde",1
+"BS","KY","Bahamas","Cayman Islands",1
+"CA","KY","Canada","Cayman Islands",2
+"CU","KY","Cuba","Cayman Islands",1
+"HN","KY","Honduras","Cayman Islands",2
+"JM","KY","Jamaica","Cayman Islands",2
+"US","KY","United States","Cayman Islands",17
+"CM","CF","Cameroon","Central African Republic",2
+"FR","CF","France","Central African Republic",1
+"CM","TD","Cameroon","Chad",3
+"ET","TD","Ethiopia","Chad",1
+"FR","TD","France","Chad",1
+"NE","TD","Niger","Chad",1
+"NG","TD","Nigeria","Chad",2
+"SA","TD","Saudi Arabia","Chad",1
+"SD","TD","Sudan","Chad",1
+"AR","CL","Argentina","Chile",9
+"AU","CL","Australia","Chile",2
+"BO","CL","Bolivia","Chile",3
+"BR","CL","Brazil","Chile",6
+"CA","CL","Canada","Chile",1
+"CO","CL","Colombia","Chile",2
+"DO","CL","Dominican Republic","Chile",1
+"EC","CL","Ecuador","Chile",1
+"FK","CL","Falkland Islands","Chile",1
+"FR","CL","France","Chile",2
+"PF","CL","French Polynesia","Chile",1
+"MX","CL","Mexico","Chile",3
+"NZ","CL","New Zealand","Chile",2
+"PA","CL","Panama","Chile",1
+"PY","CL","Paraguay","Chile",2
+"PE","CL","Peru","Chile",7
+"ES","CL","Spain","Chile",2
+"US","CL","United States","Chile",10
+"UY","CL","Uruguay","Chile",2
+"VE","CL","Venezuela","Chile",1
+"DZ","CN","Algeria","China",1
+"AO","CN","Angola","China",1
+"AU","CN","Australia","China",17
+"AT","CN","Austria","China",2
+"AZ","CN","Azerbaijan","China",2
+"BD","CN","Bangladesh","China",2
+"BE","CN","Belgium","China",2
+NA,"CN","Brunei","China",1
+NA,"CN","Burma","China",8
+"KH","CN","Cambodia","China",10
+"CA","CN","Canada","China",15
+"DK","CN","Denmark","China",3
+"EG","CN","Egypt","China",4
+"ET","CN","Ethiopia","China",6
+"FI","CN","Finland","China",6
+"FR","CN","France","China",10
+"GE","CN","Georgia","China",1
+"DE","CN","Germany","China",19
+"HK","CN","Hong Kong","China",117
+"IN","CN","India","China",6
+"ID","CN","Indonesia","China",13
+"IR","CN","Iran","China",4
+"IL","CN","Israel","China",2
+"IT","CN","Italy","China",5
+"JP","CN","Japan","China",140
+"KZ","CN","Kazakhstan","China",7
+"KE","CN","Kenya","China",2
+NA,"CN","Kyrgyzstan","China",5
+"LA","CN","Laos","China",5
+NA,"CN","Macau","China",46
+"MY","CN","Malaysia","China",29
+"MV","CN","Maldives","China",4
+"MU","CN","Mauritius","China",2
+"MX","CN","Mexico","China",1
+"MN","CN","Mongolia","China",4
+"NP","CN","Nepal","China",4
+"NL","CN","Netherlands","China",13
+"NZ","CN","New Zealand","China",3
+"KP","CN","North Korea","China",3
+"MP","CN","Northern Mariana Islands","China",3
+"PK","CN","Pakistan","China",4
+"PH","CN","Philippines","China",13
+"PL","CN","Poland","China",2
+"QA","CN","Qatar","China",6
+"RU","CN","Russia","China",48
+"SA","CN","Saudi Arabia","China",2
+"SG","CN","Singapore","China",44
+"KR","CN","South Korea","China",151
+"ES","CN","Spain","China",2
+"LK","CN","Sri Lanka","China",5
+"SE","CN","Sweden","China",2
+"CH","CN","Switzerland","China",3
+"TW","CN","Taiwan","China",191
+"TJ","CN","Tajikistan","China",4
+"TH","CN","Thailand","China",72
+"TR","CN","Turkey","China",7
+"TM","CN","Turkmenistan","China",1
+"AE","CN","United Arab Emirates","China",16
+"GB","CN","United Kingdom","China",11
+"US","CN","United States","China",59
+"UZ","CN","Uzbekistan","China",4
+"VN","CN","Vietnam","China",23
+"AU","CX","Australia","Christmas Island",1
+"CC","CX","Cocos (Keeling) Islands","Christmas Island",1
+"CX","CC","Christmas Island","Cocos (Keeling) Islands",1
+"AR","CO","Argentina","Colombia",2
+"AW","CO","Aruba","Colombia",2
+"BO","CO","Bolivia","Colombia",1
+"BR","CO","Brazil","Colombia",4
+"CA","CO","Canada","Colombia",2
+"CL","CO","Chile","Colombia",2
+"CR","CO","Costa Rica","Colombia",1
+"CU","CO","Cuba","Colombia",3
+"DO","CO","Dominican Republic","Colombia",3
+"EC","CO","Ecuador","Colombia",11
+"SV","CO","El Salvador","Colombia",3
+"FR","CO","France","Colombia",1
+"DE","CO","Germany","Colombia",2
+"GT","CO","Guatemala","Colombia",1
+"MX","CO","Mexico","Colombia",6
+"AN","CO","Netherlands Antilles","Colombia",2
+"PA","CO","Panama","Colombia",10
+"PE","CO","Peru","Colombia",4
+"PR","CO","Puerto Rico","Colombia",1
+"ES","CO","Spain","Colombia",5
+"US","CO","United States","Colombia",49
+"VE","CO","Venezuela","Colombia",5
+"DJ","KM","Djibouti","Comoros",1
+"KE","KM","Kenya","Comoros",1
+"MG","KM","Madagascar","Comoros",1
+"YT","KM","Mayotte","Comoros",5
+"RE","KM","Reunion","Comoros",1
+"TZ","KM","Tanzania","Comoros",1
+"AO",NA,"Angola","Congo (Brazzaville)",1
+"BJ",NA,"Benin","Congo (Brazzaville)",7
+"CM",NA,"Cameroon","Congo (Brazzaville)",5
+NA,NA,"Congo (Kinshasa)","Congo (Brazzaville)",4
+"ET",NA,"Ethiopia","Congo (Brazzaville)",1
+"FR",NA,"France","Congo (Brazzaville)",4
+"GA",NA,"Gabon","Congo (Brazzaville)",6
+"KE",NA,"Kenya","Congo (Brazzaville)",2
+"MA",NA,"Morocco","Congo (Brazzaville)",2
+"RW",NA,"Rwanda","Congo (Brazzaville)",1
+"ZA",NA,"South Africa","Congo (Brazzaville)",2
+"AO",NA,"Angola","Congo (Kinshasa)",4
+"BE",NA,"Belgium","Congo (Kinshasa)",1
+"CM",NA,"Cameroon","Congo (Kinshasa)",4
+NA,NA,"Congo (Brazzaville)","Congo (Kinshasa)",3
+"ET",NA,"Ethiopia","Congo (Kinshasa)",2
+"FR",NA,"France","Congo (Kinshasa)",1
+"GA",NA,"Gabon","Congo (Kinshasa)",1
+"KE",NA,"Kenya","Congo (Kinshasa)",4
+"MA",NA,"Morocco","Congo (Kinshasa)",1
+"ZA",NA,"South Africa","Congo (Kinshasa)",3
+"TR",NA,"Turkey","Congo (Kinshasa)",1
+"ZM",NA,"Zambia","Congo (Kinshasa)",2
+"AU","CK","Australia","Cook Islands",1
+"PF","CK","French Polynesia","Cook Islands",2
+"NZ","CK","New Zealand","Cook Islands",2
+"US","CK","United States","Cook Islands",2
+"CA","CR","Canada","Costa Rica",3
+"CO","CR","Colombia","Costa Rica",1
+"DO","CR","Dominican Republic","Costa Rica",1
+"SV","CR","El Salvador","Costa Rica",2
+"GT","CR","Guatemala","Costa Rica",2
+"HN","CR","Honduras","Costa Rica",5
+"MX","CR","Mexico","Costa Rica",3
+"NI","CR","Nicaragua","Costa Rica",4
+"PA","CR","Panama","Costa Rica",7
+"PE","CR","Peru","Costa Rica",1
+"ES","CR","Spain","Costa Rica",1
+"US","CR","United States","Costa Rica",34
+"DZ","CI","Algeria","Cote d'Ivoire",1
+"BE","CI","Belgium","Cote d'Ivoire",3
+"BJ","CI","Benin","Cote d'Ivoire",8
+"BF","CI","Burkina Faso","Cote d'Ivoire",8
+"CM","CI","Cameroon","Cote d'Ivoire",1
+"FR","CI","France","Cote d'Ivoire",3
+"GA","CI","Gabon","Cote d'Ivoire",1
+"GH","CI","Ghana","Cote d'Ivoire",8
+"GN","CI","Guinea","Cote d'Ivoire",2
+"KE","CI","Kenya","Cote d'Ivoire",1
+"LR","CI","Liberia","Cote d'Ivoire",1
+"ML","CI","Mali","Cote d'Ivoire",3
+"MA","CI","Morocco","Cote d'Ivoire",1
+"NG","CI","Nigeria","Cote d'Ivoire",4
+"SN","CI","Senegal","Cote d'Ivoire",3
+"SL","CI","Sierra Leone","Cote d'Ivoire",1
+"TG","CI","Togo","Cote d'Ivoire",2
+"TN","CI","Tunisia","Cote d'Ivoire",1
+"AT","HR","Austria","Croatia",6
+"BE","HR","Belgium","Croatia",5
+"BA","HR","Bosnia and Herzegovina","Croatia",1
+"CZ","HR","Czech Republic","Croatia",1
+"DK","HR","Denmark","Croatia",6
+"EE","HR","Estonia","Croatia",1
+"FI","HR","Finland","Croatia",3
+"FR","HR","France","Croatia",12
+"DE","HR","Germany","Croatia",57
+"GR","HR","Greece","Croatia",2
+"HU","HR","Hungary","Croatia",1
+"IE","HR","Ireland","Croatia",3
+"IT","HR","Italy","Croatia",5
+"LU","HR","Luxembourg","Croatia",1
+"MK","HR","Macedonia","Croatia",1
+"NL","HR","Netherlands","Croatia",3
+"NO","HR","Norway","Croatia",9
+"PL","HR","Poland","Croatia",3
+"RU","HR","Russia","Croatia",2
+"RS","HR","Serbia","Croatia",2
+"ES","HR","Spain","Croatia",5
+"SE","HR","Sweden","Croatia",9
+"CH","HR","Switzerland","Croatia",8
+"TR","HR","Turkey","Croatia",2
+"GB","HR","United Kingdom","Croatia",35
+"AO","CU","Angola","Cuba",1
+"AR","CU","Argentina","Cuba",1
+"BS","CU","Bahamas","Cuba",2
+"CA","CU","Canada","Cuba",27
+"KY","CU","Cayman Islands","Cuba",1
+"CO","CU","Colombia","Cuba",3
+"DO","CU","Dominican Republic","Cuba",2
+"EC","CU","Ecuador","Cuba",1
+"SV","CU","El Salvador","Cuba",1
+"FR","CU","France","Cuba",2
+"DE","CU","Germany","Cuba",4
+"IT","CU","Italy","Cuba",3
+"MQ","CU","Martinique","Cuba",1
+"MX","CU","Mexico","Cuba",5
+"NL","CU","Netherlands","Cuba",3
+"PA","CU","Panama","Cuba",2
+"PE","CU","Peru","Cuba",2
+"RU","CU","Russia","Cuba",3
+"ES","CU","Spain","Cuba",3
+"CH","CU","Switzerland","Cuba",1
+"GB","CU","United Kingdom","Cuba",2
+"VE","CU","Venezuela","Cuba",3
+"AT","CY","Austria","Cyprus",3
+"BH","CY","Bahrain","Cyprus",1
+"BY","CY","Belarus","Cyprus",1
+"BE","CY","Belgium","Cyprus",2
+"BG","CY","Bulgaria","Cyprus",4
+"EG","CY","Egypt","Cyprus",2
+"FR","CY","France","Cyprus",3
+"DE","CY","Germany","Cyprus",8
+"GR","CY","Greece","Cyprus",11
+"HU","CY","Hungary","Cyprus",1
+"IL","CY","Israel","Cyprus",3
+"IT","CY","Italy","Cyprus",1
+"JO","CY","Jordan","Cyprus",1
+"LV","CY","Latvia","Cyprus",1
+"LB","CY","Lebanon","Cyprus",2
+"LT","CY","Lithuania","Cyprus",1
+"MT","CY","Malta","Cyprus",2
+"MD","CY","Moldova","Cyprus",1
+"NL","CY","Netherlands","Cyprus",3
+"NO","CY","Norway","Cyprus",1
+"PL","CY","Poland","Cyprus",2
+"QA","CY","Qatar","Cyprus",1
+"RO","CY","Romania","Cyprus",3
+"RU","CY","Russia","Cyprus",11
+"RS","CY","Serbia","Cyprus",2
+"SE","CY","Sweden","Cyprus",2
+"CH","CY","Switzerland","Cyprus",3
+"TR","CY","Turkey","Cyprus",14
+"UA","CY","Ukraine","Cyprus",6
+"AE","CY","United Arab Emirates","Cyprus",3
+"GB","CY","United Kingdom","Cyprus",55
+"AM","CZ","Armenia","Czech Republic",2
+"AT","CZ","Austria","Czech Republic",1
+"AZ","CZ","Azerbaijan","Czech Republic",2
+"BY","CZ","Belarus","Czech Republic",2
+"BE","CZ","Belgium","Czech Republic",4
+"BG","CZ","Bulgaria","Czech Republic",2
+"HR","CZ","Croatia","Czech Republic",2
+"DK","CZ","Denmark","Czech Republic",4
+"FI","CZ","Finland","Czech Republic",3
+"FR","CZ","France","Czech Republic",16
+"DE","CZ","Germany","Czech Republic",14
+"GR","CZ","Greece","Czech Republic",4
+"HU","CZ","Hungary","Czech Republic",2
+"IE","CZ","Ireland","Czech Republic",2
+"IL","CZ","Israel","Czech Republic",4
+"IT","CZ","Italy","Czech Republic",19
+"KZ","CZ","Kazakhstan","Czech Republic",1
+"LV","CZ","Latvia","Czech Republic",2
+"LT","CZ","Lithuania","Czech Republic",1
+"MT","CZ","Malta","Czech Republic",2
+"NL","CZ","Netherlands","Czech Republic",5
+"NO","CZ","Norway","Czech Republic",3
+"PL","CZ","Poland","Czech Republic",3
+"PT","CZ","Portugal","Czech Republic",2
+"RO","CZ","Romania","Czech Republic",5
+"RU","CZ","Russia","Czech Republic",24
+"RS","CZ","Serbia","Czech Republic",1
+"SK","CZ","Slovakia","Czech Republic",5
+"SI","CZ","Slovenia","Czech Republic",1
+"KR","CZ","South Korea","Czech Republic",2
+"ES","CZ","Spain","Czech Republic",16
+"SE","CZ","Sweden","Czech Republic",4
+"CH","CZ","Switzerland","Czech Republic",4
+"TR","CZ","Turkey","Czech Republic",2
+"UA","CZ","Ukraine","Czech Republic",3
+"AE","CZ","United Arab Emirates","Czech Republic",2
+"GB","CZ","United Kingdom","Czech Republic",16
+"UZ","CZ","Uzbekistan","Czech Republic",2
+"AT","DK","Austria","Denmark",5
+"BE","DK","Belgium","Denmark",5
+"BA","DK","Bosnia and Herzegovina","Denmark",1
+"BG","DK","Bulgaria","Denmark",1
+"CA","DK","Canada","Denmark",3
+"CN","DK","China","Denmark",3
+"HR","DK","Croatia","Denmark",6
+"CZ","DK","Czech Republic","Denmark",4
+"EG","DK","Egypt","Denmark",2
+"EE","DK","Estonia","Denmark",2
+NA,"DK","Faroe Islands","Denmark",2
+"FI","DK","Finland","Denmark",4
+"FR","DK","France","Denmark",12
+"DE","DK","Germany","Denmark",27
+"GR","DK","Greece","Denmark",7
+"GL","DK","Greenland","Denmark",1
+"HU","DK","Hungary","Denmark",3
+"IS","DK","Iceland","Denmark",4
+"IE","DK","Ireland","Denmark",3
+"IL","DK","Israel","Denmark",2
+"IT","DK","Italy","Denmark",21
+"JP","DK","Japan","Denmark",1
+"LV","DK","Latvia","Denmark",4
+"LT","DK","Lithuania","Denmark",3
+"LU","DK","Luxembourg","Denmark",2
+"MT","DK","Malta","Denmark",2
+"MA","DK","Morocco","Denmark",1
+"NL","DK","Netherlands","Denmark",11
+"NO","DK","Norway","Denmark",29
+"PK","DK","Pakistan","Denmark",1
+"PL","DK","Poland","Denmark",8
+"PT","DK","Portugal","Denmark",5
+"QA","DK","Qatar","Denmark",1
+"RO","DK","Romania","Denmark",1
+"RU","DK","Russia","Denmark",3
+"RS","DK","Serbia","Denmark",2
+"SG","DK","Singapore","Denmark",2
+"SI","DK","Slovenia","Denmark",2
+"ES","DK","Spain","Denmark",31
+"SE","DK","Sweden","Denmark",9
+"CH","DK","Switzerland","Denmark",7
+"TH","DK","Thailand","Denmark",2
+"TR","DK","Turkey","Denmark",10
+"AE","DK","United Arab Emirates","Denmark",2
+"GB","DK","United Kingdom","Denmark",22
+"US","DK","United States","Denmark",7
+"KM","DJ","Comoros","Djibouti",1
+"ET","DJ","Ethiopia","Djibouti",5
+"FR","DJ","France","Djibouti",1
+"KE","DJ","Kenya","Djibouti",2
+"SO","DJ","Somalia","Djibouti",4
+"TR","DJ","Turkey","Djibouti",1
+"AE","DJ","United Arab Emirates","Djibouti",1
+"YE","DJ","Yemen","Djibouti",2
+"AG","DM","Antigua and Barbuda","Dominica",1
+"BB","DM","Barbados","Dominica",1
+"VG","DM","British Virgin Islands","Dominica",2
+"GP","DM","Guadeloupe","Dominica",3
+"AN","DM","Netherlands Antilles","Dominica",5
+"PR","DM","Puerto Rico","Dominica",4
+NA,"DM","Saint Lucia","Dominica",1
+NA,"DM","Virgin Islands","Dominica",1
+"AG","DO","Antigua and Barbuda","Dominican Republic",3
+"AR","DO","Argentina","Dominican Republic",1
+"AW","DO","Aruba","Dominican Republic",2
+"BR","DO","Brazil","Dominican Republic",4
+"CA","DO","Canada","Dominican Republic",14
+"CL","DO","Chile","Dominican Republic",1
+"CO","DO","Colombia","Dominican Republic",3
+"CR","DO","Costa Rica","Dominican Republic",1
+"CU","DO","Cuba","Dominican Republic",2
+"FR","DO","France","Dominican Republic",5
+"DE","DO","Germany","Dominican Republic",7
+"GP","DO","Guadeloupe","Dominican Republic",3
+"HT","DO","Haiti","Dominican Republic",3
+"IT","DO","Italy","Dominican Republic",3
+"JM","DO","Jamaica","Dominican Republic",1
+"MQ","DO","Martinique","Dominican Republic",2
+"NL","DO","Netherlands","Dominican Republic",2
+"AN","DO","Netherlands Antilles","Dominican Republic",6
+"PA","DO","Panama","Dominican Republic",4
+"PE","DO","Peru","Dominican Republic",2
+"PR","DO","Puerto Rico","Dominican Republic",9
+"RU","DO","Russia","Dominican Republic",4
+"ES","DO","Spain","Dominican Republic",5
+"CH","DO","Switzerland","Dominican Republic",1
+"TC","DO","Turks and Caicos Islands","Dominican Republic",3
+"GB","DO","United Kingdom","Dominican Republic",3
+"US","DO","United States","Dominican Republic",61
+"VE","DO","Venezuela","Dominican Republic",1
+"AU",NA,"Australia","East Timor",2
+"ID",NA,"Indonesia","East Timor",1
+"SG",NA,"Singapore","East Timor",1
+"AR","EC","Argentina","Ecuador",1
+"BR","EC","Brazil","Ecuador",1
+"CL","EC","Chile","Ecuador",2
+"CO","EC","Colombia","Ecuador",11
+"CU","EC","Cuba","Ecuador",1
+"SV","EC","El Salvador","Ecuador",2
+"MX","EC","Mexico","Ecuador",1
+"NL","EC","Netherlands","Ecuador",2
+"PA","EC","Panama","Ecuador",3
+"PE","EC","Peru","Ecuador",6
+"ES","EC","Spain","Ecuador",4
+"US","EC","United States","Ecuador",8
+"VE","EC","Venezuela","Ecuador",1
+"DZ","EG","Algeria","Egypt",2
+"AT","EG","Austria","Egypt",6
+"BH","EG","Bahrain","Egypt",2
+"BE","EG","Belgium","Egypt",2
+"CA","EG","Canada","Egypt",1
+"CN","EG","China","Egypt",4
+"CY","EG","Cyprus","Egypt",2
+"DK","EG","Denmark","Egypt",2
+"ER","EG","Eritrea","Egypt",1
+"ET","EG","Ethiopia","Egypt",2
+"FR","EG","France","Egypt",5
+"DE","EG","Germany","Egypt",18
+"GH","EG","Ghana","Egypt",1
+"GR","EG","Greece","Egypt",4
+"HU","EG","Hungary","Egypt",1
+"IN","EG","India","Egypt",2
+"ID","EG","Indonesia","Egypt",1
+"IQ","EG","Iraq","Egypt",2
+"IL","EG","Israel","Egypt",1
+"IT","EG","Italy","Egypt",6
+"JO","EG","Jordan","Egypt",5
+"KE","EG","Kenya","Egypt",1
+"KW","EG","Kuwait","Egypt",16
+"LB","EG","Lebanon","Egypt",3
+"LY","EG","Libya","Egypt",10
+"MA","EG","Morocco","Egypt",2
+"NL","EG","Netherlands","Egypt",2
+"NG","EG","Nigeria","Egypt",3
+"OM","EG","Oman","Egypt",2
+"QA","EG","Qatar","Egypt",4
+"RU","EG","Russia","Egypt",11
+"SA","EG","Saudi Arabia","Egypt",54
+"ZA","EG","South Africa","Egypt",2
+"SS","EG","South Sudan","Egypt",2
+"ES","EG","Spain","Egypt",2
+"SD","EG","Sudan","Egypt",3
+"CH","EG","Switzerland","Egypt",10
+"TZ","EG","Tanzania","Egypt",1
+"TH","EG","Thailand","Egypt",3
+"TN","EG","Tunisia","Egypt",2
+"TR","EG","Turkey","Egypt",8
+"UG","EG","Uganda","Egypt",1
+"AE","EG","United Arab Emirates","Egypt",11
+"GB","EG","United Kingdom","Egypt",33
+"US","EG","United States","Egypt",2
+"YE","EG","Yemen","Egypt",6
+"BZ","SV","Belize","El Salvador",1
+"CA","SV","Canada","El Salvador",1
+"CO","SV","Colombia","El Salvador",3
+"CR","SV","Costa Rica","El Salvador",2
+"CU","SV","Cuba","El Salvador",1
+"EC","SV","Ecuador","El Salvador",2
+"GT","SV","Guatemala","El Salvador",3
+"HN","SV","Honduras","El Salvador",3
+"MX","SV","Mexico","El Salvador",3
+"NI","SV","Nicaragua","El Salvador",2
+"PA","SV","Panama","El Salvador",2
+"PE","SV","Peru","El Salvador",1
+"US","SV","United States","El Salvador",28
+"BJ","GQ","Benin","Equatorial Guinea",2
+"CM","GQ","Cameroon","Equatorial Guinea",5
+"ET","GQ","Ethiopia","Equatorial Guinea",2
+"GA","GQ","Gabon","Equatorial Guinea",1
+"MA","GQ","Morocco","Equatorial Guinea",1
+"NG","GQ","Nigeria","Equatorial Guinea",2
+"ES","GQ","Spain","Equatorial Guinea",1
+"EG","ER","Egypt","Eritrea",1
+"KE","ER","Kenya","Eritrea",1
+"SA","ER","Saudi Arabia","Eritrea",1
+"SD","ER","Sudan","Eritrea",1
+"UG","ER","Uganda","Eritrea",1
+"YE","ER","Yemen","Eritrea",2
+"BE","EE","Belgium","Estonia",2
+"HR","EE","Croatia","Estonia",1
+"DK","EE","Denmark","Estonia",2
+"FI","EE","Finland","Estonia",3
+"FR","EE","France","Estonia",1
+"DE","EE","Germany","Estonia",2
+"GR","EE","Greece","Estonia",1
+"IT","EE","Italy","Estonia",1
+"LV","EE","Latvia","Estonia",1
+"LT","EE","Lithuania","Estonia",3
+"NL","EE","Netherlands","Estonia",2
+"NO","EE","Norway","Estonia",6
+"PL","EE","Poland","Estonia",1
+"RU","EE","Russia","Estonia",3
+"ES","EE","Spain","Estonia",1
+"SE","EE","Sweden","Estonia",4
+"TR","EE","Turkey","Estonia",1
+"UA","EE","Ukraine","Estonia",1
+"GB","EE","United Kingdom","Estonia",3
+"AO","ET","Angola","Ethiopia",2
+"BH","ET","Bahrain","Ethiopia",1
+"BJ","ET","Benin","Ethiopia",1
+"BF","ET","Burkina Faso","Ethiopia",1
+"CM","ET","Cameroon","Ethiopia",2
+"CA","ET","Canada","Ethiopia",1
+"TD","ET","Chad","Ethiopia",1
+"CN","ET","China","Ethiopia",6
+NA,"ET","Congo (Brazzaville)","Ethiopia",2
+"DJ","ET","Djibouti","Ethiopia",5
+"EG","ET","Egypt","Ethiopia",2
+"GQ","ET","Equatorial Guinea","Ethiopia",2
+"FR","ET","France","Ethiopia",1
+"GA","ET","Gabon","Ethiopia",1
+"DE","ET","Germany","Ethiopia",2
+"GH","ET","Ghana","Ethiopia",1
+"HK","ET","Hong Kong","Ethiopia",1
+"IN","ET","India","Ethiopia",4
+"IL","ET","Israel","Ethiopia",1
+"IT","ET","Italy","Ethiopia",1
+"KE","ET","Kenya","Ethiopia",6
+"KW","ET","Kuwait","Ethiopia",3
+"LB","ET","Lebanon","Ethiopia",1
+"MW","ET","Malawi","Ethiopia",1
+"ML","ET","Mali","Ethiopia",2
+"MZ","ET","Mozambique","Ethiopia",1
+"NE","ET","Niger","Ethiopia",1
+"NG","ET","Nigeria","Ethiopia",3
+"OM","ET","Oman","Ethiopia",2
+"QA","ET","Qatar","Ethiopia",1
+"RW","ET","Rwanda","Ethiopia",2
+"SA","ET","Saudi Arabia","Ethiopia",9
+"SO","ET","Somalia","Ethiopia",1
+"ZA","ET","South Africa","Ethiopia",2
+"SS","ET","South Sudan","Ethiopia",2
+"SD","ET","Sudan","Ethiopia",2
+"SE","ET","Sweden","Ethiopia",2
+"TZ","ET","Tanzania","Ethiopia",4
+"TH","ET","Thailand","Ethiopia",2
+"TG","ET","Togo","Ethiopia",1
+"TR","ET","Turkey","Ethiopia",1
+"UG","ET","Uganda","Ethiopia",1
+"AE","ET","United Arab Emirates","Ethiopia",3
+"GB","ET","United Kingdom","Ethiopia",1
+"US","ET","United States","Ethiopia",1
+"YE","ET","Yemen","Ethiopia",1
+"ZM","ET","Zambia","Ethiopia",2
+"ZW","ET","Zimbabwe","Ethiopia",2
+"AR","FK","Argentina","Falkland Islands",1
+"DK",NA,"Denmark","Faroe Islands",2
+"NO",NA,"Norway","Faroe Islands",2
+"AU","FJ","Australia","Fiji",11
+"HK","FJ","Hong Kong","Fiji",2
+"KI","FJ","Kiribati","Fiji",3
+"NC","FJ","New Caledonia","Fiji",1
+"NZ","FJ","New Zealand","Fiji",3
+"PG","FJ","Papua New Guinea","Fiji",1
+"WS","FJ","Samoa","Fiji",1
+"SB","FJ","Solomon Islands","Fiji",2
+"KR","FJ","South Korea","Fiji",1
+"TO","FJ","Tonga","Fiji",2
+"TV","FJ","Tuvalu","Fiji",1
+"US","FJ","United States","Fiji",6
+"VU","FJ","Vanuatu","Fiji",2
+NA,"FJ","Wallis and Futuna","Fiji",1
+"AT","FI","Austria","Finland",2
+"BY","FI","Belarus","Finland",2
+"BE","FI","Belgium","Finland",1
+"BG","FI","Bulgaria","Finland",1
+"CN","FI","China","Finland",6
+"HR","FI","Croatia","Finland",3
+"CZ","FI","Czech Republic","Finland",3
+"DK","FI","Denmark","Finland",4
+"EE","FI","Estonia","Finland",3
+"FR","FI","France","Finland",6
+"DE","FI","Germany","Finland",19
+"GR","FI","Greece","Finland",2
+"HK","FI","Hong Kong","Finland",1
+"HU","FI","Hungary","Finland",3
+"IS","FI","Iceland","Finland",2
+"IN","FI","India","Finland",1
+"IE","FI","Ireland","Finland",1
+"IL","FI","Israel","Finland",1
+"IT","FI","Italy","Finland",5
+"JP","FI","Japan","Finland",6
+"LV","FI","Latvia","Finland",3
+"LT","FI","Lithuania","Finland",2
+"NL","FI","Netherlands","Finland",4
+"NO","FI","Norway","Finland",3
+"PL","FI","Poland","Finland",5
+"PT","FI","Portugal","Finland",2
+"RU","FI","Russia","Finland",9
+"SG","FI","Singapore","Finland",1
+"SI","FI","Slovenia","Finland",1
+"KR","FI","South Korea","Finland",1
+"ES","FI","Spain","Finland",16
+"SE","FI","Sweden","Finland",22
+"CH","FI","Switzerland","Finland",3
+"TH","FI","Thailand","Finland",1
+"TR","FI","Turkey","Finland",5
+"UA","FI","Ukraine","Finland",1
+"GB","FI","United Kingdom","Finland",9
+"US","FI","United States","Finland",4
+"DZ","FR","Algeria","France",67
+"AO","FR","Angola","France",1
+"AG","FR","Antigua and Barbuda","France",2
+"AR","FR","Argentina","France",2
+"AM","FR","Armenia","France",3
+"AT","FR","Austria","France",13
+"AZ","FR","Azerbaijan","France",2
+"BH","FR","Bahrain","France",1
+"BY","FR","Belarus","France",2
+"BE","FR","Belgium","France",37
+"BJ","FR","Benin","France",1
+"BR","FR","Brazil","France",4
+"BG","FR","Bulgaria","France",3
+"BF","FR","Burkina Faso","France",1
+"CM","FR","Cameroon","France",4
+"CA","FR","Canada","France",19
+NA,"FR","Cape Verde","France",3
+"TD","FR","Chad","France",1
+"CL","FR","Chile","France",2
+"CN","FR","China","France",10
+"CO","FR","Colombia","France",1
+NA,"FR","Congo (Brazzaville)","France",4
+NA,"FR","Congo (Kinshasa)","France",1
+"CI","FR","Cote d'Ivoire","France",3
+"HR","FR","Croatia","France",12
+"CU","FR","Cuba","France",2
+"CY","FR","Cyprus","France",3
+"CZ","FR","Czech Republic","France",16
+"DK","FR","Denmark","France",12
+"DJ","FR","Djibouti","France",1
+"DO","FR","Dominican Republic","France",10
+"EG","FR","Egypt","France",5
+"EE","FR","Estonia","France",1
+"ET","FR","Ethiopia","France",1
+"FI","FR","Finland","France",6
+"GF","FR","French Guiana","France",3
+"GA","FR","Gabon","France",1
+"GE","FR","Georgia","France",2
+"DE","FR","Germany","France",84
+"GR","FR","Greece","France",30
+"GP","FR","Guadeloupe","France",6
+"GG","FR","Guernsey","France",1
+"GN","FR","Guinea","France",1
+"HK","FR","Hong Kong","France",3
+"HU","FR","Hungary","France",5
+"IS","FR","Iceland","France",4
+"IN","FR","India","France",4
+"IR","FR","Iran","France",1
+"IE","FR","Ireland","France",23
+"IL","FR","Israel","France",10
+"IT","FR","Italy","France",148
+"JP","FR","Japan","France",7
+"JE","FR","Jersey","France",1
+"JO","FR","Jordan","France",2
+"KE","FR","Kenya","France",2
+"LV","FR","Latvia","France",3
+"LB","FR","Lebanon","France",2
+"LT","FR","Lithuania","France",3
+"LU","FR","Luxembourg","France",7
+"MG","FR","Madagascar","France",5
+"MY","FR","Malaysia","France",3
+"ML","FR","Mali","France",2
+"MT","FR","Malta","France",11
+"MQ","FR","Martinique","France",4
+"MR","FR","Mauritania","France",1
+"MU","FR","Mauritius","France",3
+"MX","FR","Mexico","France",4
+"MD","FR","Moldova","France",1
+"ME","FR","Montenegro","France",2
+"MA","FR","Morocco","France",80
+"NL","FR","Netherlands","France",34
+"AN","FR","Netherlands Antilles","France",7
+"NE","FR","Niger","France",3
+"NG","FR","Nigeria","France",4
+"NO","FR","Norway","France",15
+"OM","FR","Oman","France",1
+"PK","FR","Pakistan","France",1
+"PA","FR","Panama","France",1
+"PE","FR","Peru","France",2
+"PL","FR","Poland","France",15
+"PT","FR","Portugal","France",51
+"PR","FR","Puerto Rico","France",1
+"QA","FR","Qatar","France",1
+"RE","FR","Reunion","France",5
+"RO","FR","Romania","France",7
+"RU","FR","Russia","France",11
+"SA","FR","Saudi Arabia","France",4
+"SN","FR","Senegal","France",3
+"RS","FR","Serbia","France",4
+"SL","FR","Sierra Leone","France",2
+"SG","FR","Singapore","France",2
+"SK","FR","Slovakia","France",1
+"SI","FR","Slovenia","France",2
+"ZA","FR","South Africa","France",2
+"KR","FR","South Korea","France",3
+"ES","FR","Spain","France",151
+"LK","FR","Sri Lanka","France",1
+"SE","FR","Sweden","France",17
+"CH","FR","Switzerland","France",21
+"TW","FR","Taiwan","France",1
+"TH","FR","Thailand","France",3
+"TG","FR","Togo","France",1
+"TN","FR","Tunisia","France",44
+"TR","FR","Turkey","France",26
+"UA","FR","Ukraine","France",3
+"AE","FR","United Arab Emirates","France",7
+"GB","FR","United Kingdom","France",158
+"US","FR","United States","France",89
+"UZ","FR","Uzbekistan","France",1
+"VE","FR","Venezuela","France",1
+"VN","FR","Vietnam","France",6
+NA,"FR","Virgin Islands","France",1
+"BR","GF","Brazil","French Guiana",1
+"FR","GF","France","French Guiana",3
+"MQ","GF","Martinique","French Guiana",2
+"SR","GF","Suriname","French Guiana",1
+"CL","PF","Chile","French Polynesia",1
+"CK","PF","Cook Islands","French Polynesia",2
+"JP","PF","Japan","French Polynesia",2
+"NC","PF","New Caledonia","French Polynesia",1
+"NZ","PF","New Zealand","French Polynesia",4
+"US","PF","United States","French Polynesia",7
+"BJ","GA","Benin","Gabon",3
+"CM","GA","Cameroon","Gabon",5
+NA,"GA","Congo (Brazzaville)","Gabon",6
+NA,"GA","Congo (Kinshasa)","Gabon",1
+"CI","GA","Cote d'Ivoire","Gabon",1
+"GQ","GA","Equatorial Guinea","Gabon",2
+"ET","GA","Ethiopia","Gabon",1
+"FR","GA","France","Gabon",1
+"MA","GA","Morocco","Gabon",1
+"NG","GA","Nigeria","Gabon",1
+"RW","GA","Rwanda","Gabon",1
+"ZA","GA","South Africa","Gabon",1
+"TG","GA","Togo","Gabon",1
+NA,"GM","Cape Verde","Gambia",1
+"GW","GM","Guinea-Bissau","Gambia",1
+"MA","GM","Morocco","Gambia",1
+"SN","GM","Senegal","Gambia",4
+"SL","GM","Sierra Leone","Gambia",2
+"ES","GM","Spain","Gambia",4
+"AT","GE","Austria","Georgia",2
+"AZ","GE","Azerbaijan","Georgia",2
+"BY","GE","Belarus","Georgia",3
+"CN","GE","China","Georgia",1
+"FR","GE","France","Georgia",2
+"DE","GE","Germany","Georgia",1
+"GR","GE","Greece","Georgia",1
+"IQ","GE","Iraq","Georgia",2
+"IL","GE","Israel","Georgia",3
+"IT","GE","Italy","Georgia",1
+"KZ","GE","Kazakhstan","Georgia",2
+"LV","GE","Latvia","Georgia",2
+"LT","GE","Lithuania","Georgia",1
+"NL","GE","Netherlands","Georgia",2
+"PL","GE","Poland","Georgia",3
+"RU","GE","Russia","Georgia",5
+"TR","GE","Turkey","Georgia",5
+"UA","GE","Ukraine","Georgia",7
+"AE","GE","United Arab Emirates","Georgia",1
+"AL","DE","Albania","Germany",2
+"DZ","DE","Algeria","Germany",3
+"AO","DE","Angola","Germany",1
+"AG","DE","Antigua and Barbuda","Germany",1
+"AR","DE","Argentina","Germany",1
+"AT","DE","Austria","Germany",67
+"AZ","DE","Azerbaijan","Germany",3
+"BH","DE","Bahrain","Germany",1
+"BB","DE","Barbados","Germany",1
+"BY","DE","Belarus","Germany",4
+"BE","DE","Belgium","Germany",15
+"BA","DE","Bosnia and Herzegovina","Germany",4
+"BR","DE","Brazil","Germany",8
+"BG","DE","Bulgaria","Germany",11
+"CA","DE","Canada","Germany",19
+NA,"DE","Cape Verde","Germany",5
+"CN","DE","China","Germany",19
+"CO","DE","Colombia","Germany",2
+"HR","DE","Croatia","Germany",55
+"CU","DE","Cuba","Germany",4
+"CY","DE","Cyprus","Germany",8
+"CZ","DE","Czech Republic","Germany",14
+"DK","DE","Denmark","Germany",26
+"DO","DE","Dominican Republic","Germany",7
+"EG","DE","Egypt","Germany",18
+"EE","DE","Estonia","Germany",2
+"ET","DE","Ethiopia","Germany",2
+"FI","DE","Finland","Germany",19
+"FR","DE","France","Germany",84
+"GE","DE","Georgia","Germany",1
+"GH","DE","Ghana","Germany",1
+"GR","DE","Greece","Germany",166
+"GG","DE","Guernsey","Germany",1
+"HK","DE","Hong Kong","Germany",3
+"HU","DE","Hungary","Germany",12
+"IS","DE","Iceland","Germany",4
+"IN","DE","India","Germany",12
+"IR","DE","Iran","Germany",5
+"IQ","DE","Iraq","Germany",5
+"IE","DE","Ireland","Germany",19
+"IL","DE","Israel","Germany",12
+"IT","DE","Italy","Germany",221
+"JM","DE","Jamaica","Germany",1
+"JP","DE","Japan","Germany",11
+"JE","DE","Jersey","Germany",4
+"JO","DE","Jordan","Germany",7
+"KZ","DE","Kazakhstan","Germany",4
+"KE","DE","Kenya","Germany",1
+"KW","DE","Kuwait","Germany",2
+"LV","DE","Latvia","Germany",14
+"LB","DE","Lebanon","Germany",3
+"LT","DE","Lithuania","Germany",7
+"LU","DE","Luxembourg","Germany",9
+"MK","DE","Macedonia","Germany",5
+"MY","DE","Malaysia","Germany",3
+"MV","DE","Maldives","Germany",1
+"MT","DE","Malta","Germany",8
+"MU","DE","Mauritius","Germany",1
+"MX","DE","Mexico","Germany",4
+"MD","DE","Moldova","Germany",2
+"ME","DE","Montenegro","Germany",2
+"MA","DE","Morocco","Germany",21
+NA,"DE","Namibia","Germany",1
+"NL","DE","Netherlands","Germany",25
+"AN","DE","Netherlands Antilles","Germany",1
+"NG","DE","Nigeria","Germany",4
+"NO","DE","Norway","Germany",26
+"OM","DE","Oman","Germany",2
+"PL","DE","Poland","Germany",44
+"PT","DE","Portugal","Germany",62
+"PR","DE","Puerto Rico","Germany",1
+"QA","DE","Qatar","Germany",9
+"RO","DE","Romania","Germany",16
+"RU","DE","Russia","Germany",47
+"SA","DE","Saudi Arabia","Germany",10
+"RS","DE","Serbia","Germany",25
+"SC","DE","Seychelles","Germany",1
+"SG","DE","Singapore","Germany",7
+"SI","DE","Slovenia","Germany",4
+"ZA","DE","South Africa","Germany",6
+"KR","DE","South Korea","Germany",4
+"ES","DE","Spain","Germany",353
+"LK","DE","Sri Lanka","Germany",1
+"SE","DE","Sweden","Germany",29
+"CH","DE","Switzerland","Germany",42
+"TW","DE","Taiwan","Germany",1
+"TJ","DE","Tajikistan","Germany",1
+"TZ","DE","Tanzania","Germany",1
+"TH","DE","Thailand","Germany",4
+"TN","DE","Tunisia","Germany",32
+"TR","DE","Turkey","Germany",128
+"TM","DE","Turkmenistan","Germany",1
+"UA","DE","Ukraine","Germany",12
+"AE","DE","United Arab Emirates","Germany",23
+"GB","DE","United Kingdom","Germany",103
+"US","DE","United States","Germany",114
+"UZ","DE","Uzbekistan","Germany",1
+"VE","DE","Venezuela","Germany",1
+"VN","DE","Vietnam","Germany",4
+"BJ","GH","Benin","Ghana",1
+"BF","GH","Burkina Faso","Ghana",1
+"CI","GH","Cote d'Ivoire","Ghana",7
+"EG","GH","Egypt","Ghana",1
+"ET","GH","Ethiopia","Ghana",1
+"DE","GH","Germany","Ghana",1
+"KE","GH","Kenya","Ghana",1
+"LB","GH","Lebanon","Ghana",1
+"LR","GH","Liberia","Ghana",5
+NA,"GH","Namibia","Ghana",1
+"NL","GH","Netherlands","Ghana",1
+"NG","GH","Nigeria","Ghana",6
+"PT","GH","Portugal","Ghana",1
+"SN","GH","Senegal","Ghana",3
+"SL","GH","Sierra Leone","Ghana",3
+"ZA","GH","South Africa","Ghana",1
+"ES","GH","Spain","Ghana",1
+"TG","GH","Togo","Ghana",2
+"TR","GH","Turkey","Ghana",1
+"AE","GH","United Arab Emirates","Ghana",1
+"GB","GH","United Kingdom","Ghana",2
+"US","GH","United States","Ghana",1
+"GB","GI","United Kingdom","Gibraltar",6
+"AL","GR","Albania","Greece",2
+"AM","GR","Armenia","Greece",1
+"AT","GR","Austria","Greece",36
+"BE","GR","Belgium","Greece",20
+"BG","GR","Bulgaria","Greece",4
+"CA","GR","Canada","Greece",2
+"HR","GR","Croatia","Greece",2
+"CY","GR","Cyprus","Greece",12
+"CZ","GR","Czech Republic","Greece",5
+"DK","GR","Denmark","Greece",7
+"EG","GR","Egypt","Greece",4
+"EE","GR","Estonia","Greece",1
+"FI","GR","Finland","Greece",2
+"FR","GR","France","Greece",32
+"GE","GR","Georgia","Greece",1
+"DE","GR","Germany","Greece",176
+"HU","GR","Hungary","Greece",2
+"IE","GR","Ireland","Greece",3
+"IL","GR","Israel","Greece",3
+"IT","GR","Italy","Greece",25
+"JO","GR","Jordan","Greece",1
+"LV","GR","Latvia","Greece",2
+"LB","GR","Lebanon","Greece",1
+"LT","GR","Lithuania","Greece",4
+"LU","GR","Luxembourg","Greece",4
+"MT","GR","Malta","Greece",1
+"MD","GR","Moldova","Greece",1
+"NL","GR","Netherlands","Greece",21
+"NO","GR","Norway","Greece",11
+"PL","GR","Poland","Greece",7
+"QA","GR","Qatar","Greece",2
+"RO","GR","Romania","Greece",4
+"RU","GR","Russia","Greece",28
+"RS","GR","Serbia","Greece",4
+"ES","GR","Spain","Greece",7
+"SE","GR","Sweden","Greece",10
+"CH","GR","Switzerland","Greece",9
+"TR","GR","Turkey","Greece",6
+"UA","GR","Ukraine","Greece",5
+"AE","GR","United Arab Emirates","Greece",3
+"GB","GR","United Kingdom","Greece",105
+"US","GR","United States","Greece",3
+"DK","GL","Denmark","Greenland",1
+"IS","GL","Iceland","Greenland",2
+"BB","GD","Barbados","Grenada",1
+"CA","GD","Canada","Grenada",2
+NA,"GD","Saint Lucia","Grenada",3
+NA,"GD","Saint Vincent and the Grenadines","Grenada",1
+"TT","GD","Trinidad and Tobago","Grenada",3
+"US","GD","United States","Grenada",4
+"VE","GD","Venezuela","Grenada",1
+"AG","GP","Antigua and Barbuda","Guadeloupe",2
+"CA","GP","Canada","Guadeloupe",1
+"DM","GP","Dominica","Guadeloupe",3
+"DO","GP","Dominican Republic","Guadeloupe",3
+"FR","GP","France","Guadeloupe",7
+"HT","GP","Haiti","Guadeloupe",2
+"MQ","GP","Martinique","Guadeloupe",4
+"AN","GP","Netherlands Antilles","Guadeloupe",1
+"PR","GP","Puerto Rico","Guadeloupe",2
+"US","GP","United States","Guadeloupe",2
+"AU","GU","Australia","Guam",1
+"HK","GU","Hong Kong","Guam",1
+"JP","GU","Japan","Guam",19
+NA,"GU","Micronesia","Guam",2
+"MP","GU","Northern Mariana Islands","Guam",2
+"PW","GU","Palau","Guam",1
+"PH","GU","Philippines","Guam",2
+"KR","GU","South Korea","Guam",4
+"TW","GU","Taiwan","Guam",2
+"US","GU","United States","Guam",1
+"BZ","GT","Belize","Guatemala",2
+"CO","GT","Colombia","Guatemala",1
+"CR","GT","Costa Rica","Guatemala",4
+"SV","GT","El Salvador","Guatemala",1
+"HN","GT","Honduras","Guatemala",10
+"MX","GT","Mexico","Guatemala",3
+"NI","GT","Nicaragua","Guatemala",1
+"PA","GT","Panama","Guatemala",1
+"ES","GT","Spain","Guatemala",1
+"US","GT","United States","Guatemala",17
+"FR","GG","France","Guernsey",1
+"DE","GG","Germany","Guernsey",2
+"JE","GG","Jersey","Guernsey",3
+"NL","GG","Netherlands","Guernsey",1
+"GB","GG","United Kingdom","Guernsey",11
+"CI","GN","Cote d'Ivoire","Guinea",2
+"FR","GN","France","Guinea",1
+"GW","GN","Guinea-Bissau","Guinea",2
+"ML","GN","Mali","Guinea",2
+"MR","GN","Mauritania","Guinea",1
+"MA","GN","Morocco","Guinea",1
+"SN","GN","Senegal","Guinea",8
+"TG","GN","Togo","Guinea",1
+NA,"GW","Cape Verde","Guinea-Bissau",1
+"GM","GW","Gambia","Guinea-Bissau",1
+"GN","GW","Guinea","Guinea-Bissau",2
+"MA","GW","Morocco","Guinea-Bissau",1
+"SN","GW","Senegal","Guinea-Bissau",2
+"BB","GY","Barbados","Guyana",1
+"CA","GY","Canada","Guyana",2
+"JM","GY","Jamaica","Guyana",1
+"SR","GY","Suriname","Guyana",1
+"TT","GY","Trinidad and Tobago","Guyana",1
+"US","GY","United States","Guyana",2
+"VE","GY","Venezuela","Guyana",1
+"CA","HT","Canada","Haiti",1
+"DO","HT","Dominican Republic","Haiti",2
+"FR","HT","France","Haiti",1
+"GP","HT","Guadeloupe","Haiti",2
+"AN","HT","Netherlands Antilles","Haiti",1
+"PA","HT","Panama","Haiti",2
+"TC","HT","Turks and Caicos Islands","Haiti",3
+"US","HT","United States","Haiti",13
+"BZ","HN","Belize","Honduras",2
+"KY","HN","Cayman Islands","Honduras",2
+"CR","HN","Costa Rica","Honduras",5
+"SV","HN","El Salvador","Honduras",3
+"GT","HN","Guatemala","Honduras",8
+"MX","HN","Mexico","Honduras",1
+"PA","HN","Panama","Honduras",2
+"US","HN","United States","Honduras",19
+"AU","HK","Australia","Hong Kong",16
+"BD","HK","Bangladesh","Hong Kong",3
+NA,"HK","Brunei","Hong Kong",2
+NA,"HK","Burma","Hong Kong",1
+"KH","HK","Cambodia","Hong Kong",2
+"CA","HK","Canada","Hong Kong",4
+"CN","HK","China","Hong Kong",118
+"ET","HK","Ethiopia","Hong Kong",1
+"FJ","HK","Fiji","Hong Kong",2
+"FI","HK","Finland","Hong Kong",1
+"FR","HK","France","Hong Kong",3
+"DE","HK","Germany","Hong Kong",3
+"GU","HK","Guam","Hong Kong",1
+"IN","HK","India","Hong Kong",13
+"ID","HK","Indonesia","Hong Kong",10
+"IL","HK","Israel","Hong Kong",1
+"IT","HK","Italy","Hong Kong",2
+"JP","HK","Japan","Hong Kong",27
+"KZ","HK","Kazakhstan","Hong Kong",1
+"MY","HK","Malaysia","Hong Kong",11
+"MV","HK","Maldives","Hong Kong",2
+"MU","HK","Mauritius","Hong Kong",1
+"MN","HK","Mongolia","Hong Kong",2
+"NP","HK","Nepal","Hong Kong",1
+"NL","HK","Netherlands","Hong Kong",2
+"NZ","HK","New Zealand","Hong Kong",2
+"PG","HK","Papua New Guinea","Hong Kong",1
+"PH","HK","Philippines","Hong Kong",11
+"QA","HK","Qatar","Hong Kong",2
+"RU","HK","Russia","Hong Kong",9
+"SA","HK","Saudi Arabia","Hong Kong",1
+"SG","HK","Singapore","Hong Kong",8
+"ZA","HK","South Africa","Hong Kong",2
+"KR","HK","South Korea","Hong Kong",16
+"CH","HK","Switzerland","Hong Kong",1
+"TW","HK","Taiwan","Hong Kong",13
+"TH","HK","Thailand","Hong Kong",24
+"TR","HK","Turkey","Hong Kong",1
+"AE","HK","United Arab Emirates","Hong Kong",4
+"GB","HK","United Kingdom","Hong Kong",3
+"US","HK","United States","Hong Kong",16
+"VN","HK","Vietnam","Hong Kong",10
+"AT","HU","Austria","Hungary",1
+"AZ","HU","Azerbaijan","Hungary",1
+"BY","HU","Belarus","Hungary",1
+"BE","HU","Belgium","Hungary",3
+"HR","HU","Croatia","Hungary",1
+"CY","HU","Cyprus","Hungary",1
+"CZ","HU","Czech Republic","Hungary",2
+"DK","HU","Denmark","Hungary",3
+"EG","HU","Egypt","Hungary",1
+"FI","HU","Finland","Hungary",3
+"FR","HU","France","Hungary",5
+"DE","HU","Germany","Hungary",11
+"GR","HU","Greece","Hungary",2
+"IE","HU","Ireland","Hungary",2
+"IL","HU","Israel","Hungary",2
+"IT","HU","Italy","Hungary",11
+"LV","HU","Latvia","Hungary",1
+"MT","HU","Malta","Hungary",2
+"NL","HU","Netherlands","Hungary",4
+"NO","HU","Norway","Hungary",1
+"PL","HU","Poland","Hungary",2
+"PT","HU","Portugal","Hungary",1
+"QA","HU","Qatar","Hungary",1
+"RO","HU","Romania","Hungary",1
+"RU","HU","Russia","Hungary",4
+"RS","HU","Serbia","Hungary",2
+"ES","HU","Spain","Hungary",5
+"SE","HU","Sweden","Hungary",4
+"CH","HU","Switzerland","Hungary",2
+"TR","HU","Turkey","Hungary",2
+"UA","HU","Ukraine","Hungary",1
+"AE","HU","United Arab Emirates","Hungary",1
+"GB","HU","United Kingdom","Hungary",15
+"BE","IS","Belgium","Iceland",1
+"CA","IS","Canada","Iceland",2
+"DK","IS","Denmark","Iceland",4
+"FI","IS","Finland","Iceland",2
+"FR","IS","France","Iceland",4
+"DE","IS","Germany","Iceland",4
+"GL","IS","Greenland","Iceland",2
+"NL","IS","Netherlands","Iceland",1
+"NO","IS","Norway","Iceland",6
+"ES","IS","Spain","Iceland",2
+"SE","IS","Sweden","Iceland",1
+"CH","IS","Switzerland","Iceland",1
+"GB","IS","United Kingdom","Iceland",10
+"US","IS","United States","Iceland",7
+"AF","IN","Afghanistan","India",7
+"AU","IN","Australia","India",2
+"AT","IN","Austria","India",2
+"BH","IN","Bahrain","India",7
+"BD","IN","Bangladesh","India",12
+"BE","IN","Belgium","India",4
+"BT","IN","Bhutan","India",3
+NA,"IN","Burma","India",1
+"CN","IN","China","India",6
+"EG","IN","Egypt","India",2
+"ET","IN","Ethiopia","India",4
+"FI","IN","Finland","India",1
+"FR","IN","France","India",4
+"DE","IN","Germany","India",14
+"HK","IN","Hong Kong","India",13
+"IR","IN","Iran","India",2
+"IL","IN","Israel","India",1
+"IT","IN","Italy","India",2
+"JP","IN","Japan","India",5
+"JO","IN","Jordan","India",2
+"KZ","IN","Kazakhstan","India",1
+"KE","IN","Kenya","India",3
+"KW","IN","Kuwait","India",9
+"MY","IN","Malaysia","India",20
+"MV","IN","Maldives","India",5
+"MU","IN","Mauritius","India",6
+"NP","IN","Nepal","India",8
+"NL","IN","Netherlands","India",3
+"OM","IN","Oman","India",22
+"PK","IN","Pakistan","India",3
+"QA","IN","Qatar","India",16
+"RE","IN","Reunion","India",1
+"RU","IN","Russia","India",2
+"SA","IN","Saudi Arabia","India",35
+"SG","IN","Singapore","India",34
+"ZA","IN","South Africa","India",3
+"KR","IN","South Korea","India",3
+"LK","IN","Sri Lanka","India",22
+"CH","IN","Switzerland","India",4
+"TW","IN","Taiwan","India",2
+"TJ","IN","Tajikistan","India",1
+"TH","IN","Thailand","India",17
+"TR","IN","Turkey","India",4
+"TM","IN","Turkmenistan","India",2
+"AE","IN","United Arab Emirates","India",81
+"GB","IN","United Kingdom","India",15
+"US","IN","United States","India",5
+"UZ","IN","Uzbekistan","India",2
+"YE","IN","Yemen","India",1
+"AU","ID","Australia","Indonesia",26
+NA,"ID","Brunei","Indonesia",4
+"CN","ID","China","Indonesia",13
+NA,"ID","East Timor","Indonesia",1
+"EG","ID","Egypt","Indonesia",1
+"HK","ID","Hong Kong","Indonesia",10
+"JP","ID","Japan","Indonesia",13
+"MY","ID","Malaysia","Indonesia",46
+"PG","ID","Papua New Guinea","Indonesia",1
+"PH","ID","Philippines","Indonesia",5
+"QA","ID","Qatar","Indonesia",1
+"SA","ID","Saudi Arabia","Indonesia",6
+"SG","ID","Singapore","Indonesia",62
+"KR","ID","South Korea","Indonesia",6
+"LK","ID","Sri Lanka","Indonesia",2
+"TW","ID","Taiwan","Indonesia",7
+"TH","ID","Thailand","Indonesia",8
+"AE","ID","United Arab Emirates","Indonesia",5
+"VN","ID","Vietnam","Indonesia",1
+"AF","IR","Afghanistan","Iran",5
+"AM","IR","Armenia","Iran",1
+"AT","IR","Austria","Iran",2
+"AZ","IR","Azerbaijan","Iran",3
+"BH","IR","Bahrain","Iran",3
+"BY","IR","Belarus","Iran",1
+"CN","IR","China","Iran",4
+"FR","IR","France","Iran",1
+"DE","IR","Germany","Iran",5
+"IN","IR","India","Iran",2
+"IQ","IR","Iraq","Iran",4
+"IT","IR","Italy","Iran",3
+"KZ","IR","Kazakhstan","Iran",1
+"KW","IR","Kuwait","Iran",10
+"LB","IR","Lebanon","Iran",2
+"MY","IR","Malaysia","Iran",2
+"NL","IR","Netherlands","Iran",1
+"OM","IR","Oman","Iran",3
+"PK","IR","Pakistan","Iran",3
+"QA","IR","Qatar","Iran",5
+"RU","IR","Russia","Iran",2
+"SA","IR","Saudi Arabia","Iran",12
+"SE","IR","Sweden","Iran",3
+"TJ","IR","Tajikistan","Iran",3
+"TH","IR","Thailand","Iran",1
+"TR","IR","Turkey","Iran",14
+"AE","IR","United Arab Emirates","Iran",23
+"GB","IR","United Kingdom","Iran",1
+"UZ","IR","Uzbekistan","Iran",1
+"AT","IQ","Austria","Iraq",1
+"BH","IQ","Bahrain","Iraq",2
+"EG","IQ","Egypt","Iraq",2
+"GE","IQ","Georgia","Iraq",2
+"DE","IQ","Germany","Iraq",5
+"IR","IQ","Iran","Iraq",4
+"JO","IQ","Jordan","Iraq",6
+"KW","IQ","Kuwait","Iraq",2
+"LB","IQ","Lebanon","Iraq",5
+"NL","IQ","Netherlands","Iraq",1
+"QA","IQ","Qatar","Iraq",5
+"SE","IQ","Sweden","Iraq",7
+"TR","IQ","Turkey","Iraq",15
+"AE","IQ","United Arab Emirates","Iraq",15
+"AT","IE","Austria","Ireland",1
+"BE","IE","Belgium","Ireland",3
+"BG","IE","Bulgaria","Ireland",1
+"CA","IE","Canada","Ireland",3
+"HR","IE","Croatia","Ireland",3
+"CZ","IE","Czech Republic","Ireland",2
+"DK","IE","Denmark","Ireland",3
+"FI","IE","Finland","Ireland",1
+"FR","IE","France","Ireland",23
+"DE","IE","Germany","Ireland",19
+"GR","IE","Greece","Ireland",3
+"HU","IE","Hungary","Ireland",2
+"IM","IE","Isle of Man","Ireland",1
+"IT","IE","Italy","Ireland",16
+"JE","IE","Jersey","Ireland",2
+"LV","IE","Latvia","Ireland",1
+"LT","IE","Lithuania","Ireland",4
+"LU","IE","Luxembourg","Ireland",1
+"MT","IE","Malta","Ireland",1
+"MD","IE","Moldova","Ireland",1
+"MA","IE","Morocco","Ireland",1
+"NL","IE","Netherlands","Ireland",4
+"NO","IE","Norway","Ireland",3
+"PL","IE","Poland","Ireland",15
+"PT","IE","Portugal","Ireland",12
+"RO","IE","Romania","Ireland",2
+"SK","IE","Slovakia","Ireland",1
+"ES","IE","Spain","Ireland",53
+"SE","IE","Sweden","Ireland",2
+"CH","IE","Switzerland","Ireland",3
+"TR","IE","Turkey","Ireland",2
+"AE","IE","United Arab Emirates","Ireland",4
+"GB","IE","United Kingdom","Ireland",63
+"US","IE","United States","Ireland",35
+"IE","IM","Ireland","Isle of Man",1
+"GB","IM","United Kingdom","Isle of Man",10
+"AT","IL","Austria","Israel",3
+"AZ","IL","Azerbaijan","Israel",1
+"BY","IL","Belarus","Israel",1
+"BE","IL","Belgium","Israel",2
+"BG","IL","Bulgaria","Israel",2
+"CA","IL","Canada","Israel",2
+"CN","IL","China","Israel",2
+"CY","IL","Cyprus","Israel",3
+"CZ","IL","Czech Republic","Israel",4
+"DK","IL","Denmark","Israel",2
+"EG","IL","Egypt","Israel",1
+"ET","IL","Ethiopia","Israel",1
+"FI","IL","Finland","Israel",1
+"FR","IL","France","Israel",9
+"GE","IL","Georgia","Israel",3
+"DE","IL","Germany","Israel",12
+"GR","IL","Greece","Israel",3
+"HK","IL","Hong Kong","Israel",1
+"HU","IL","Hungary","Israel",2
+"IN","IL","India","Israel",1
+"IT","IL","Italy","Israel",9
+"JO","IL","Jordan","Israel",2
+"LV","IL","Latvia","Israel",1
+"LT","IL","Lithuania","Israel",1
+"NL","IL","Netherlands","Israel",4
+"PL","IL","Poland","Israel",4
+"RO","IL","Romania","Israel",5
+"RU","IL","Russia","Israel",10
+"RS","IL","Serbia","Israel",1
+"ZA","IL","South Africa","Israel",1
+"KR","IL","South Korea","Israel",1
+"ES","IL","Spain","Israel",6
+"SE","IL","Sweden","Israel",1
+"CH","IL","Switzerland","Israel",5
+"TH","IL","Thailand","Israel",2
+"TR","IL","Turkey","Israel",3
+"UA","IL","Ukraine","Israel",7
+"GB","IL","United Kingdom","Israel",6
+"US","IL","United States","Israel",7
+"UZ","IL","Uzbekistan","Israel",1
+"AL","IT","Albania","Italy",27
+"DZ","IT","Algeria","Italy",4
+"AR","IT","Argentina","Italy",2
+"AM","IT","Armenia","Italy",1
+"AT","IT","Austria","Italy",28
+"AZ","IT","Azerbaijan","Italy",4
+"BD","IT","Bangladesh","Italy",1
+"BY","IT","Belarus","Italy",2
+"BE","IT","Belgium","Italy",44
+"BA","IT","Bosnia and Herzegovina","Italy",1
+"BR","IT","Brazil","Italy",4
+"BG","IT","Bulgaria","Italy",7
+"CA","IT","Canada","Italy",8
+"CN","IT","China","Italy",5
+"HR","IT","Croatia","Italy",5
+"CU","IT","Cuba","Italy",5
+"CY","IT","Cyprus","Italy",1
+"CZ","IT","Czech Republic","Italy",19
+"DK","IT","Denmark","Italy",21
+"DO","IT","Dominican Republic","Italy",3
+"EG","IT","Egypt","Italy",5
+"EE","IT","Estonia","Italy",1
+"ET","IT","Ethiopia","Italy",1
+"FI","IT","Finland","Italy",5
+"FR","IT","France","Italy",149
+"GE","IT","Georgia","Italy",1
+"DE","IT","Germany","Italy",221
+"GH","IT","Ghana","Italy",1
+"GR","IT","Greece","Italy",24
+"HK","IT","Hong Kong","Italy",2
+"HU","IT","Hungary","Italy",11
+"IN","IT","India","Italy",2
+"IR","IT","Iran","Italy",3
+"IE","IT","Ireland","Italy",16
+"IL","IT","Israel","Italy",9
+"JP","IT","Japan","Italy",4
+"JO","IT","Jordan","Italy",3
+"KW","IT","Kuwait","Italy",2
+"LV","IT","Latvia","Italy",9
+"LB","IT","Lebanon","Italy",4
+"LY","IT","Libya","Italy",2
+"LT","IT","Lithuania","Italy",7
+"LU","IT","Luxembourg","Italy",8
+"MK","IT","Macedonia","Italy",3
+"MV","IT","Maldives","Italy",1
+"MT","IT","Malta","Italy",15
+"MU","IT","Mauritius","Italy",1
+"MX","IT","Mexico","Italy",3
+"MD","IT","Moldova","Italy",12
+"ME","IT","Montenegro","Italy",2
+"MA","IT","Morocco","Italy",17
+"NL","IT","Netherlands","Italy",42
+"NO","IT","Norway","Italy",14
+"OM","IT","Oman","Italy",1
+"PK","IT","Pakistan","Italy",2
+"PL","IT","Poland","Italy",29
+"PT","IT","Portugal","Italy",18
+"QA","IT","Qatar","Italy",4
+"RO","IT","Romania","Italy",34
+"RU","IT","Russia","Italy",34
+"SA","IT","Saudi Arabia","Italy",8
+"SN","IT","Senegal","Italy",1
+"RS","IT","Serbia","Italy",6
+"SG","IT","Singapore","Italy",2
+"SK","IT","Slovakia","Italy",4
+"KR","IT","South Korea","Italy",2
+"ES","IT","Spain","Italy",120
+"LK","IT","Sri Lanka","Italy",3
+"SE","IT","Sweden","Italy",19
+"CH","IT","Switzerland","Italy",38
+"TH","IT","Thailand","Italy",2
+"TN","IT","Tunisia","Italy",8
+"TR","IT","Turkey","Italy",12
+"UA","IT","Ukraine","Italy",10
+"AE","IT","United Arab Emirates","Italy",8
+"GB","IT","United Kingdom","Italy",141
+"US","IT","United States","Italy",53
+"UZ","IT","Uzbekistan","Italy",2
+"VE","IT","Venezuela","Italy",1
+"AG","JM","Antigua and Barbuda","Jamaica",1
+"BS","JM","Bahamas","Jamaica",1
+"BB","JM","Barbados","Jamaica",1
+"CA","JM","Canada","Jamaica",10
+"KY","JM","Cayman Islands","Jamaica",1
+"CU","JM","Cuba","Jamaica",1
+"DO","JM","Dominican Republic","Jamaica",2
+"DE","JM","Germany","Jamaica",1
+"GY","JM","Guyana","Jamaica",1
+"AN","JM","Netherlands Antilles","Jamaica",2
+"PA","JM","Panama","Jamaica",2
+"TT","JM","Trinidad and Tobago","Jamaica",1
+"TC","JM","Turks and Caicos Islands","Jamaica",1
+"GB","JM","United Kingdom","Jamaica",4
+"US","JM","United States","Jamaica",40
+"AU","JP","Australia","Japan",15
+"AT","JP","Austria","Japan",2
+NA,"JP","Burma","Japan",1
+"CA","JP","Canada","Japan",10
+"CN","JP","China","Japan",140
+"DK","JP","Denmark","Japan",1
+"FI","JP","Finland","Japan",6
+"FR","JP","France","Japan",7
+"PF","JP","French Polynesia","Japan",2
+"DE","JP","Germany","Japan",11
+"GU","JP","Guam","Japan",19
+"HK","JP","Hong Kong","Japan",27
+"IN","JP","India","Japan",5
+"ID","JP","Indonesia","Japan",13
+"IT","JP","Italy","Japan",4
+NA,"JP","Macau","Japan",6
+"MY","JP","Malaysia","Japan",10
+"MX","JP","Mexico","Japan",2
+"MN","JP","Mongolia","Japan",1
+"NL","JP","Netherlands","Japan",3
+"NC","JP","New Caledonia","Japan",2
+"NZ","JP","New Zealand","Japan",3
+"MP","JP","Northern Mariana Islands","Japan",3
+"PW","JP","Palau","Japan",3
+"PG","JP","Papua New Guinea","Japan",1
+"PH","JP","Philippines","Japan",15
+"QA","JP","Qatar","Japan",6
+"RU","JP","Russia","Japan",9
+"SG","JP","Singapore","Japan",18
+"KR","JP","South Korea","Japan",105
+"LK","JP","Sri Lanka","Japan",1
+"CH","JP","Switzerland","Japan",2
+"TW","JP","Taiwan","Japan",68
+"TH","JP","Thailand","Japan",21
+"TR","JP","Turkey","Japan",4
+"AE","JP","United Arab Emirates","Japan",8
+"GB","JP","United Kingdom","Japan",8
+"US","JP","United States","Japan",80
+"UZ","JP","Uzbekistan","Japan",1
+"VN","JP","Vietnam","Japan",20
+"FR","JE","France","Jersey",1
+"DE","JE","Germany","Jersey",3
+"GG","JE","Guernsey","Jersey",4
+"IE","JE","Ireland","Jersey",2
+"NL","JE","Netherlands","Jersey",1
+"CH","JE","Switzerland","Jersey",2
+"GB","JE","United Kingdom","Jersey",25
+"DZ","JO","Algeria","Jordan",2
+"AT","JO","Austria","Jordan",3
+"BH","JO","Bahrain","Jordan",2
+"CA","JO","Canada","Jordan",3
+"CY","JO","Cyprus","Jordan",1
+"EG","JO","Egypt","Jordan",5
+"FR","JO","France","Jordan",2
+"DE","JO","Germany","Jordan",7
+"GR","JO","Greece","Jordan",1
+"IN","JO","India","Jordan",2
+"IQ","JO","Iraq","Jordan",7
+"IL","JO","Israel","Jordan",2
+"IT","JO","Italy","Jordan",3
+"KW","JO","Kuwait","Jordan",3
+"LB","JO","Lebanon","Jordan",3
+"LY","JO","Libya","Jordan",6
+"NL","JO","Netherlands","Jordan",1
+"NG","JO","Nigeria","Jordan",1
+"OM","JO","Oman","Jordan",2
+"QA","JO","Qatar","Jordan",2
+"RO","JO","Romania","Jordan",2
+"RU","JO","Russia","Jordan",2
+"SA","JO","Saudi Arabia","Jordan",10
+"ES","JO","Spain","Jordan",4
+"SD","JO","Sudan","Jordan",2
+"CH","JO","Switzerland","Jordan",2
+"TH","JO","Thailand","Jordan",2
+"TN","JO","Tunisia","Jordan",1
+"TR","JO","Turkey","Jordan",3
+"UA","JO","Ukraine","Jordan",1
+"AE","JO","United Arab Emirates","Jordan",9
+"GB","JO","United Kingdom","Jordan",2
+"US","JO","United States","Jordan",6
+"YE","JO","Yemen","Jordan",5
+"AM","KZ","Armenia","Kazakhstan",1
+"AT","KZ","Austria","Kazakhstan",2
+"AZ","KZ","Azerbaijan","Kazakhstan",4
+"BY","KZ","Belarus","Kazakhstan",1
+"CN","KZ","China","Kazakhstan",7
+"CZ","KZ","Czech Republic","Kazakhstan",1
+"GE","KZ","Georgia","Kazakhstan",2
+"DE","KZ","Germany","Kazakhstan",4
+"HK","KZ","Hong Kong","Kazakhstan",1
+"IN","KZ","India","Kazakhstan",1
+"IR","KZ","Iran","Kazakhstan",1
+NA,"KZ","Kyrgyzstan","Kazakhstan",3
+"MY","KZ","Malaysia","Kazakhstan",1
+"NL","KZ","Netherlands","Kazakhstan",2
+"RU","KZ","Russia","Kazakhstan",35
+"KR","KZ","South Korea","Kazakhstan",2
+"TJ","KZ","Tajikistan","Kazakhstan",4
+"TH","KZ","Thailand","Kazakhstan",1
+"TR","KZ","Turkey","Kazakhstan",7
+"UA","KZ","Ukraine","Kazakhstan",4
+"AE","KZ","United Arab Emirates","Kazakhstan",7
+"GB","KZ","United Kingdom","Kazakhstan",3
+"UZ","KZ","Uzbekistan","Kazakhstan",4
+"VN","KZ","Vietnam","Kazakhstan",1
+"AO","KE","Angola","Kenya",1
+"BJ","KE","Benin","Kenya",1
+"BW","KE","Botswana","Kenya",1
+"BI","KE","Burundi","Kenya",6
+"CM","KE","Cameroon","Kenya",2
+"CN","KE","China","Kenya",2
+"KM","KE","Comoros","Kenya",4
+NA,"KE","Congo (Brazzaville)","Kenya",2
+NA,"KE","Congo (Kinshasa)","Kenya",4
+"CI","KE","Cote d'Ivoire","Kenya",1
+"DJ","KE","Djibouti","Kenya",2
+"EG","KE","Egypt","Kenya",1
+"ER","KE","Eritrea","Kenya",1
+"ET","KE","Ethiopia","Kenya",6
+"FR","KE","France","Kenya",2
+"DE","KE","Germany","Kenya",2
+"GH","KE","Ghana","Kenya",1
+"IN","KE","India","Kenya",3
+"MG","KE","Madagascar","Kenya",1
+"MW","KE","Malawi","Kenya",4
+"ML","KE","Mali","Kenya",1
+"MU","KE","Mauritius","Kenya",2
+"MZ","KE","Mozambique","Kenya",4
+"NL","KE","Netherlands","Kenya",3
+"NG","KE","Nigeria","Kenya",1
+"QA","KE","Qatar","Kenya",1
+"RW","KE","Rwanda","Kenya",8
+"SA","KE","Saudi Arabia","Kenya",2
+"SC","KE","Seychelles","Kenya",1
+"SO","KE","Somalia","Kenya",6
+"ZA","KE","South Africa","Kenya",2
+"KR","KE","South Korea","Kenya",2
+"SS","KE","South Sudan","Kenya",2
+"SD","KE","Sudan","Kenya",1
+"CH","KE","Switzerland","Kenya",3
+"TZ","KE","Tanzania","Kenya",16
+"TH","KE","Thailand","Kenya",3
+"TR","KE","Turkey","Kenya",2
+"UG","KE","Uganda","Kenya",3
+"AE","KE","United Arab Emirates","Kenya",9
+"GB","KE","United Kingdom","Kenya",3
+"YE","KE","Yemen","Kenya",1
+"ZM","KE","Zambia","Kenya",6
+"ZW","KE","Zimbabwe","Kenya",3
+"FJ","KI","Fiji","Kiribati",3
+"MH","KI","Marshall Islands","Kiribati",1
+"NR","KI","Nauru","Kiribati",1
+"US","KI","United States","Kiribati",2
+"AF","KW","Afghanistan","Kuwait",1
+"BH","KW","Bahrain","Kuwait",4
+"BD","KW","Bangladesh","Kuwait",2
+"EG","KW","Egypt","Kuwait",16
+"ET","KW","Ethiopia","Kuwait",2
+"DE","KW","Germany","Kuwait",2
+"IN","KW","India","Kuwait",9
+"IR","KW","Iran","Kuwait",10
+"IQ","KW","Iraq","Kuwait",2
+"IT","KW","Italy","Kuwait",2
+"JO","KW","Jordan","Kuwait",3
+"LB","KW","Lebanon","Kuwait",3
+"MY","KW","Malaysia","Kuwait",1
+"NL","KW","Netherlands","Kuwait",3
+"OM","KW","Oman","Kuwait",2
+"PK","KW","Pakistan","Kuwait",6
+"QA","KW","Qatar","Kuwait",2
+"SA","KW","Saudi Arabia","Kuwait",17
+"LK","KW","Sri Lanka","Kuwait",3
+"TH","KW","Thailand","Kuwait",1
+"TN","KW","Tunisia","Kuwait",1
+"TR","KW","Turkey","Kuwait",6
+"AE","KW","United Arab Emirates","Kuwait",12
+"GB","KW","United Kingdom","Kuwait",3
+"US","KW","United States","Kuwait",2
+"YE","KW","Yemen","Kuwait",3
+"CN",NA,"China","Kyrgyzstan",5
+"KZ",NA,"Kazakhstan","Kyrgyzstan",3
+"MN",NA,"Mongolia","Kyrgyzstan",1
+"RU",NA,"Russia","Kyrgyzstan",49
+"TJ",NA,"Tajikistan","Kyrgyzstan",2
+"TR",NA,"Turkey","Kyrgyzstan",5
+"AE",NA,"United Arab Emirates","Kyrgyzstan",1
+"UZ",NA,"Uzbekistan","Kyrgyzstan",2
+"KH","LA","Cambodia","Laos",5
+"CN","LA","China","Laos",5
+"MY","LA","Malaysia","Laos",1
+"SG","LA","Singapore","Laos",1
+"KR","LA","South Korea","Laos",2
+"TH","LA","Thailand","Laos",10
+"VN","LA","Vietnam","Laos",6
+"AT","LV","Austria","Latvia",2
+"AZ","LV","Azerbaijan","Latvia",2
+"BY","LV","Belarus","Latvia",2
+"BE","LV","Belgium","Latvia",2
+"CY","LV","Cyprus","Latvia",1
+"CZ","LV","Czech Republic","Latvia",2
+"DK","LV","Denmark","Latvia",4
+"EE","LV","Estonia","Latvia",1
+"FI","LV","Finland","Latvia",3
+"FR","LV","France","Latvia",3
+"GE","LV","Georgia","Latvia",2
+"DE","LV","Germany","Latvia",14
+"GR","LV","Greece","Latvia",2
+"HU","LV","Hungary","Latvia",1
+"IE","LV","Ireland","Latvia",1
+"IL","LV","Israel","Latvia",1
+"IT","LV","Italy","Latvia",9
+"LT","LV","Lithuania","Latvia",2
+"MT","LV","Malta","Latvia",1
+"MD","LV","Moldova","Latvia",1
+"NL","LV","Netherlands","Latvia",3
+"NO","LV","Norway","Latvia",10
+"PL","LV","Poland","Latvia",2
+"RU","LV","Russia","Latvia",8
+"ES","LV","Spain","Latvia",3
+"SE","LV","Sweden","Latvia",4
+"CH","LV","Switzerland","Latvia",1
+"TR","LV","Turkey","Latvia",2
+"UA","LV","Ukraine","Latvia",2
+"GB","LV","United Kingdom","Latvia",7
+"US","LV","United States","Latvia",1
+"UZ","LV","Uzbekistan","Latvia",2
+"DZ","LB","Algeria","Lebanon",1
+"AM","LB","Armenia","Lebanon",1
+"BH","LB","Bahrain","Lebanon",1
+"BY","LB","Belarus","Lebanon",1
+"BE","LB","Belgium","Lebanon",1
+"CY","LB","Cyprus","Lebanon",2
+"EG","LB","Egypt","Lebanon",3
+"ET","LB","Ethiopia","Lebanon",1
+"FR","LB","France","Lebanon",2
+"DE","LB","Germany","Lebanon",3
+"GH","LB","Ghana","Lebanon",1
+"GR","LB","Greece","Lebanon",1
+"IR","LB","Iran","Lebanon",2
+"IQ","LB","Iraq","Lebanon",5
+"IT","LB","Italy","Lebanon",4
+"JO","LB","Jordan","Lebanon",3
+"KW","LB","Kuwait","Lebanon",3
+"MA","LB","Morocco","Lebanon",1
+"NG","LB","Nigeria","Lebanon",2
+"OM","LB","Oman","Lebanon",1
+"QA","LB","Qatar","Lebanon",2
+"RO","LB","Romania","Lebanon",2
+"RU","LB","Russia","Lebanon",2
+"SA","LB","Saudi Arabia","Lebanon",5
+"CH","LB","Switzerland","Lebanon",1
+"TN","LB","Tunisia","Lebanon",2
+"TR","LB","Turkey","Lebanon",3
+"AE","LB","United Arab Emirates","Lebanon",6
+"GB","LB","United Kingdom","Lebanon",3
+"YE","LB","Yemen","Lebanon",1
+"ZA","LS","South Africa","Lesotho",1
+"CI","LR","Cote d'Ivoire","Liberia",1
+"FR","LR","France","Liberia",2
+"GH","LR","Ghana","Liberia",5
+"MA","LR","Morocco","Liberia",1
+"NG","LR","Nigeria","Liberia",1
+"SL","LR","Sierra Leone","Liberia",8
+"DZ","LY","Algeria","Libya",2
+"EG","LY","Egypt","Libya",10
+"IT","LY","Italy","Libya",2
+"JO","LY","Jordan","Libya",6
+"MT","LY","Malta","Libya",4
+"MA","LY","Morocco","Libya",5
+"SA","LY","Saudi Arabia","Libya",2
+"ES","LY","Spain","Libya",1
+"TN","LY","Tunisia","Libya",21
+"TR","LY","Turkey","Libya",6
+"AE","LY","United Arab Emirates","Libya",1
+"GB","LY","United Kingdom","Libya",3
+"AT","LT","Austria","Lithuania",1
+"BY","LT","Belarus","Lithuania",1
+"BE","LT","Belgium","Lithuania",5
+"CY","LT","Cyprus","Lithuania",1
+"CZ","LT","Czech Republic","Lithuania",1
+"DK","LT","Denmark","Lithuania",3
+"EE","LT","Estonia","Lithuania",3
+"FI","LT","Finland","Lithuania",2
+"FR","LT","France","Lithuania",3
+"GE","LT","Georgia","Lithuania",1
+"DE","LT","Germany","Lithuania",7
+"GR","LT","Greece","Lithuania",4
+"IE","LT","Ireland","Lithuania",4
+"IL","LT","Israel","Lithuania",1
+"IT","LT","Italy","Lithuania",7
+"LV","LT","Latvia","Lithuania",2
+"MT","LT","Malta","Lithuania",1
+"NL","LT","Netherlands","Lithuania",1
+"NO","LT","Norway","Lithuania",8
+"PL","LT","Poland","Lithuania",1
+"RU","LT","Russia","Lithuania",4
+"ES","LT","Spain","Lithuania",4
+"SE","LT","Sweden","Lithuania",2
+"TR","LT","Turkey","Lithuania",1
+"UA","LT","Ukraine","Lithuania",2
+"GB","LT","United Kingdom","Lithuania",10
+"AT","LU","Austria","Luxembourg",2
+"BG","LU","Bulgaria","Luxembourg",1
+NA,"LU","Cape Verde","Luxembourg",1
+"HR","LU","Croatia","Luxembourg",1
+"DK","LU","Denmark","Luxembourg",2
+"FR","LU","France","Luxembourg",7
+"DE","LU","Germany","Luxembourg",9
+"GR","LU","Greece","Luxembourg",4
+"IE","LU","Ireland","Luxembourg",1
+"IT","LU","Italy","Luxembourg",7
+"MT","LU","Malta","Luxembourg",1
+"MA","LU","Morocco","Luxembourg",2
+"NL","LU","Netherlands","Luxembourg",1
+"PT","LU","Portugal","Luxembourg",7
+"ES","LU","Spain","Luxembourg",12
+"SE","LU","Sweden","Luxembourg",1
+"CH","LU","Switzerland","Luxembourg",2
+"TN","LU","Tunisia","Luxembourg",2
+"TR","LU","Turkey","Luxembourg",3
+"GB","LU","United Kingdom","Luxembourg",4
+"CN",NA,"China","Macau",46
+"JP",NA,"Japan","Macau",6
+"MY",NA,"Malaysia","Macau",1
+"PH",NA,"Philippines","Macau",5
+"SG",NA,"Singapore","Macau",1
+"KR",NA,"South Korea","Macau",6
+"TW",NA,"Taiwan","Macau",8
+"TH",NA,"Thailand","Macau",4
+"VN",NA,"Vietnam","Macau",2
+"AT","MK","Austria","Macedonia",1
+"BE","MK","Belgium","Macedonia",1
+"HR","MK","Croatia","Macedonia",1
+"DE","MK","Germany","Macedonia",5
+"IT","MK","Italy","Macedonia",3
+"NL","MK","Netherlands","Macedonia",1
+"RS","MK","Serbia","Macedonia",1
+"SI","MK","Slovenia","Macedonia",1
+"SE","MK","Sweden","Macedonia",3
+"CH","MK","Switzerland","Macedonia",2
+"TR","MK","Turkey","Macedonia",2
+"AE","MK","United Arab Emirates","Macedonia",1
+"GB","MK","United Kingdom","Macedonia",1
+"KM","MG","Comoros","Madagascar",1
+"FR","MG","France","Madagascar",3
+"KE","MG","Kenya","Madagascar",1
+"MU","MG","Mauritius","Madagascar",2
+"YT","MG","Mayotte","Madagascar",7
+"RE","MG","Reunion","Madagascar",6
+"ZA","MG","South Africa","Madagascar",2
+"TH","MG","Thailand","Madagascar",2
+"ET","MW","Ethiopia","Malawi",1
+"KE","MW","Kenya","Malawi",4
+"ZA","MW","South Africa","Malawi",3
+"TZ","MW","Tanzania","Malawi",1
+"ZM","MW","Zambia","Malawi",6
+"ZW","MW","Zimbabwe","Malawi",1
+"AU","MY","Australia","Malaysia",14
+"BD","MY","Bangladesh","Malaysia",6
+NA,"MY","Brunei","Malaysia",7
+NA,"MY","Burma","Malaysia",3
+"KH","MY","Cambodia","Malaysia",4
+"CN","MY","China","Malaysia",29
+"FR","MY","France","Malaysia",3
+"DE","MY","Germany","Malaysia",3
+"HK","MY","Hong Kong","Malaysia",11
+"IN","MY","India","Malaysia",20
+"ID","MY","Indonesia","Malaysia",46
+"IR","MY","Iran","Malaysia",2
+"JP","MY","Japan","Malaysia",10
+"KZ","MY","Kazakhstan","Malaysia",1
+"KW","MY","Kuwait","Malaysia",1
+"LA","MY","Laos","Malaysia",1
+NA,"MY","Macau","Malaysia",1
+"MV","MY","Maldives","Malaysia",1
+"MU","MY","Mauritius","Malaysia",2
+"NP","MY","Nepal","Malaysia",3
+"NL","MY","Netherlands","Malaysia",3
+"NZ","MY","New Zealand","Malaysia",1
+"KP","MY","North Korea","Malaysia",1
+"OM","MY","Oman","Malaysia",2
+"PK","MY","Pakistan","Malaysia",3
+"PH","MY","Philippines","Malaysia",9
+"QA","MY","Qatar","Malaysia",2
+"SA","MY","Saudi Arabia","Malaysia",5
+"SG","MY","Singapore","Malaysia",39
+"KR","MY","South Korea","Malaysia",8
+"LK","MY","Sri Lanka","Malaysia",4
+"TW","MY","Taiwan","Malaysia",7
+"TH","MY","Thailand","Malaysia",33
+"TR","MY","Turkey","Malaysia",2
+"AE","MY","United Arab Emirates","Malaysia",8
+"GB","MY","United Kingdom","Malaysia",2
+"UZ","MY","Uzbekistan","Malaysia",2
+"VN","MY","Vietnam","Malaysia",6
+"CN","MV","China","Maldives",4
+"DE","MV","Germany","Maldives",1
+"HK","MV","Hong Kong","Maldives",2
+"IN","MV","India","Maldives",5
+"MY","MV","Malaysia","Maldives",1
+"OM","MV","Oman","Maldives",1
+"QA","MV","Qatar","Maldives",1
+"RU","MV","Russia","Maldives",2
+"SG","MV","Singapore","Maldives",2
+"LK","MV","Sri Lanka","Maldives",11
+"TH","MV","Thailand","Maldives",1
+"TR","MV","Turkey","Maldives",1
+"AE","MV","United Arab Emirates","Maldives",4
+"GB","MV","United Kingdom","Maldives",1
+"DZ","ML","Algeria","Mali",1
+"BJ","ML","Benin","Mali",3
+"BF","ML","Burkina Faso","Mali",3
+"CI","ML","Cote d'Ivoire","Mali",2
+"ET","ML","Ethiopia","Mali",2
+"FR","ML","France","Mali",2
+"GN","ML","Guinea","Mali",2
+"KE","ML","Kenya","Mali",1
+"MR","ML","Mauritania","Mali",1
+"MA","ML","Morocco","Mali",1
+"NG","ML","Nigeria","Mali",1
+"PT","ML","Portugal","Mali",1
+"SN","ML","Senegal","Mali",5
+"TG","ML","Togo","Mali",1
+"TN","ML","Tunisia","Mali",1
+"DZ","MT","Algeria","Malta",1
+"AT","MT","Austria","Malta",4
+"BE","MT","Belgium","Malta",2
+"CY","MT","Cyprus","Malta",2
+"CZ","MT","Czech Republic","Malta",2
+"DK","MT","Denmark","Malta",2
+"FR","MT","France","Malta",11
+"DE","MT","Germany","Malta",8
+"GR","MT","Greece","Malta",1
+"HU","MT","Hungary","Malta",2
+"IE","MT","Ireland","Malta",1
+"IT","MT","Italy","Malta",16
+"LV","MT","Latvia","Malta",1
+"LY","MT","Libya","Malta",3
+"LT","MT","Lithuania","Malta",1
+"LU","MT","Luxembourg","Malta",1
+"NL","MT","Netherlands","Malta",3
+"NO","MT","Norway","Malta",2
+"PL","MT","Poland","Malta",2
+"RU","MT","Russia","Malta",4
+"ES","MT","Spain","Malta",4
+"SE","MT","Sweden","Malta",3
+"CH","MT","Switzerland","Malta",3
+"TN","MT","Tunisia","Malta",1
+"TR","MT","Turkey","Malta",4
+"AE","MT","United Arab Emirates","Malta",1
+"GB","MT","United Kingdom","Malta",28
+"KI","MH","Kiribati","Marshall Islands",1
+NA,"MH","Micronesia","Marshall Islands",2
+"NR","MH","Nauru","Marshall Islands",1
+"US","MH","United States","Marshall Islands",1
+"BB","MQ","Barbados","Martinique",1
+"CA","MQ","Canada","Martinique",1
+"CU","MQ","Cuba","Martinique",1
+"FR","MQ","France","Martinique",4
+"GF","MQ","French Guiana","Martinique",2
+"GP","MQ","Guadeloupe","Martinique",5
+"PR","MQ","Puerto Rico","Martinique",2
+NA,"MQ","Saint Lucia","Martinique",5
+"US","MQ","United States","Martinique",2
+"FR","MR","France","Mauritania",1
+"GN","MR","Guinea","Mauritania",1
+"ML","MR","Mali","Mauritania",1
+"MA","MR","Morocco","Mauritania",3
+"SN","MR","Senegal","Mauritania",2
+"ES","MR","Spain","Mauritania",3
+"TN","MR","Tunisia","Mauritania",1
+"AU","MU","Australia","Mauritius",1
+"CN","MU","China","Mauritius",2
+"FR","MU","France","Mauritius",2
+"DE","MU","Germany","Mauritius",1
+"HK","MU","Hong Kong","Mauritius",1
+"IN","MU","India","Mauritius",6
+"IT","MU","Italy","Mauritius",1
+"KE","MU","Kenya","Mauritius",2
+"MG","MU","Madagascar","Mauritius",2
+"MY","MU","Malaysia","Mauritius",2
+"RE","MU","Reunion","Mauritius",7
+"RU","MU","Russia","Mauritius",1
+"SC","MU","Seychelles","Mauritius",1
+"ZA","MU","South Africa","Mauritius",5
+"AE","MU","United Arab Emirates","Mauritius",2
+"GB","MU","United Kingdom","Mauritius",4
+"KM","YT","Comoros","Mayotte",2
+"FR","YT","France","Mayotte",3
+"KE","YT","Kenya","Mayotte",3
+"MG","YT","Madagascar","Mayotte",5
+"RE","YT","Reunion","Mayotte",1
+"TZ","YT","Tanzania","Mayotte",1
+"AR","MX","Argentina","Mexico",2
+"BZ","MX","Belize","Mexico",2
+"BR","MX","Brazil","Mexico",2
+"CA","MX","Canada","Mexico",27
+"CL","MX","Chile","Mexico",3
+"CN","MX","China","Mexico",1
+"CO","MX","Colombia","Mexico",6
+"CR","MX","Costa Rica","Mexico",3
+"CU","MX","Cuba","Mexico",8
+"EC","MX","Ecuador","Mexico",1
+"SV","MX","El Salvador","Mexico",3
+"FR","MX","France","Mexico",4
+"DE","MX","Germany","Mexico",4
+"GT","MX","Guatemala","Mexico",3
+"HN","MX","Honduras","Mexico",1
+"IT","MX","Italy","Mexico",1
+"JP","MX","Japan","Mexico",1
+"NL","MX","Netherlands","Mexico",1
+"PA","MX","Panama","Mexico",8
+"PE","MX","Peru","Mexico",4
+"RU","MX","Russia","Mexico",1
+"ES","MX","Spain","Mexico",8
+"GB","MX","United Kingdom","Mexico",14
+"US","MX","United States","Mexico",369
+"VE","MX","Venezuela","Mexico",1
+"GU",NA,"Guam","Micronesia",2
+"MH",NA,"Marshall Islands","Micronesia",2
+"PW",NA,"Palau","Micronesia",1
+"AT","MD","Austria","Moldova",1
+"CY","MD","Cyprus","Moldova",1
+"FR","MD","France","Moldova",1
+"DE","MD","Germany","Moldova",2
+"GR","MD","Greece","Moldova",1
+"IE","MD","Ireland","Moldova",1
+"IT","MD","Italy","Moldova",12
+"LV","MD","Latvia","Moldova",1
+"PT","MD","Portugal","Moldova",1
+"RO","MD","Romania","Moldova",3
+"RU","MD","Russia","Moldova",5
+"TR","MD","Turkey","Moldova",2
+"UA","MD","Ukraine","Moldova",1
+"AE","MD","United Arab Emirates","Moldova",1
+"GB","MD","United Kingdom","Moldova",1
+"CN","MN","China","Mongolia",4
+"HK","MN","Hong Kong","Mongolia",2
+"JP","MN","Japan","Mongolia",1
+NA,"MN","Kyrgyzstan","Mongolia",1
+"RU","MN","Russia","Mongolia",2
+"KR","MN","South Korea","Mongolia",2
+"TH","MN","Thailand","Mongolia",1
+"AT","ME","Austria","Montenegro",2
+"BE","ME","Belgium","Montenegro",2
+"FR","ME","France","Montenegro",2
+"DE","ME","Germany","Montenegro",2
+"IT","ME","Italy","Montenegro",2
+"RU","ME","Russia","Montenegro",7
+"RS","ME","Serbia","Montenegro",4
+"SI","ME","Slovenia","Montenegro",2
+"CH","ME","Switzerland","Montenegro",1
+"TR","ME","Turkey","Montenegro",1
+"GB","ME","United Kingdom","Montenegro",2
+"DZ","MA","Algeria","Morocco",3
+"AO","MA","Angola","Morocco",1
+"BE","MA","Belgium","Morocco",22
+"BR","MA","Brazil","Morocco",1
+"BF","MA","Burkina Faso","Morocco",1
+"CM","MA","Cameroon","Morocco",2
+"CA","MA","Canada","Morocco",1
+NA,"MA","Cape Verde","Morocco",1
+"CF","MA","Central African Republic","Morocco",1
+NA,"MA","Congo (Brazzaville)","Morocco",2
+"CI","MA","Cote d'Ivoire","Morocco",1
+"DK","MA","Denmark","Morocco",2
+"EG","MA","Egypt","Morocco",2
+"GQ","MA","Equatorial Guinea","Morocco",1
+"FR","MA","France","Morocco",79
+"GA","MA","Gabon","Morocco",1
+"GM","MA","Gambia","Morocco",1
+"DE","MA","Germany","Morocco",20
+"GH","MA","Ghana","Morocco",1
+"GN","MA","Guinea","Morocco",1
+"GW","MA","Guinea-Bissau","Morocco",1
+"IE","MA","Ireland","Morocco",1
+"IT","MA","Italy","Morocco",17
+"LB","MA","Lebanon","Morocco",1
+"LR","MA","Liberia","Morocco",1
+"LY","MA","Libya","Morocco",5
+"LU","MA","Luxembourg","Morocco",2
+"ML","MA","Mali","Morocco",1
+"MR","MA","Mauritania","Morocco",3
+"NL","MA","Netherlands","Morocco",10
+"NE","MA","Niger","Morocco",1
+"NG","MA","Nigeria","Morocco",1
+"NO","MA","Norway","Morocco",1
+"PT","MA","Portugal","Morocco",4
+"QA","MA","Qatar","Morocco",1
+"RU","MA","Russia","Morocco",2
+"SA","MA","Saudi Arabia","Morocco",4
+"SN","MA","Senegal","Morocco",1
+"SL","MA","Sierra Leone","Morocco",1
+"ES","MA","Spain","Morocco",39
+"SE","MA","Sweden","Morocco",1
+"CH","MA","Switzerland","Morocco",5
+"TN","MA","Tunisia","Morocco",2
+"TR","MA","Turkey","Morocco",3
+"AE","MA","United Arab Emirates","Morocco",4
+"GB","MA","United Kingdom","Morocco",26
+"US","MA","United States","Morocco",1
+"EH","MA","Western Sahara","Morocco",4
+"AO","MZ","Angola","Mozambique",1
+"ET","MZ","Ethiopia","Mozambique",1
+"KE","MZ","Kenya","Mozambique",4
+"PT","MZ","Portugal","Mozambique",1
+"ZA","MZ","South Africa","Mozambique",15
+"TZ","MZ","Tanzania","Mozambique",1
+"AO",NA,"Angola","Namibia",3
+"BW",NA,"Botswana","Namibia",1
+"DE",NA,"Germany","Namibia",1
+"GH",NA,"Ghana","Namibia",1
+"ZA",NA,"South Africa","Namibia",9
+"ZM",NA,"Zambia","Namibia",2
+"ZW",NA,"Zimbabwe","Namibia",2
+"AU","NR","Australia","Nauru",1
+"KI","NR","Kiribati","Nauru",1
+"MH","NR","Marshall Islands","Nauru",1
+"BD","NP","Bangladesh","Nepal",4
+"BT","NP","Bhutan","Nepal",1
+"CN","NP","China","Nepal",4
+"HK","NP","Hong Kong","Nepal",1
+"IN","NP","India","Nepal",8
+"MY","NP","Malaysia","Nepal",3
+"OM","NP","Oman","Nepal",1
+"PK","NP","Pakistan","Nepal",1
+"QA","NP","Qatar","Nepal",2
+"SG","NP","Singapore","Nepal",2
+"KR","NP","South Korea","Nepal",1
+"TH","NP","Thailand","Nepal",2
+"TR","NP","Turkey","Nepal",1
+"AE","NP","United Arab Emirates","Nepal",4
+"AO","NL","Angola","Netherlands",1
+"AR","NL","Argentina","Netherlands",1
+"AW","NL","Aruba","Netherlands",1
+"AT","NL","Austria","Netherlands",5
+"BY","NL","Belarus","Netherlands",1
+"BE","NL","Belgium","Netherlands",1
+"BR","NL","Brazil","Netherlands",2
+"BG","NL","Bulgaria","Netherlands",2
+"CA","NL","Canada","Netherlands",10
+NA,"NL","Cape Verde","Netherlands",2
+"CN","NL","China","Netherlands",13
+"HR","NL","Croatia","Netherlands",3
+"CU","NL","Cuba","Netherlands",1
+"CY","NL","Cyprus","Netherlands",3
+"CZ","NL","Czech Republic","Netherlands",5
+"DK","NL","Denmark","Netherlands",11
+"DO","NL","Dominican Republic","Netherlands",1
+"EC","NL","Ecuador","Netherlands",2
+"EG","NL","Egypt","Netherlands",2
+"EE","NL","Estonia","Netherlands",2
+"FI","NL","Finland","Netherlands",3
+"FR","NL","France","Netherlands",33
+"GE","NL","Georgia","Netherlands",2
+"DE","NL","Germany","Netherlands",27
+"GH","NL","Ghana","Netherlands",1
+"GR","NL","Greece","Netherlands",21
+"GG","NL","Guernsey","Netherlands",1
+"HK","NL","Hong Kong","Netherlands",2
+"HU","NL","Hungary","Netherlands",4
+"IS","NL","Iceland","Netherlands",1
+"IN","NL","India","Netherlands",3
+"IR","NL","Iran","Netherlands",1
+"IQ","NL","Iraq","Netherlands",1
+"IE","NL","Ireland","Netherlands",4
+"IL","NL","Israel","Netherlands",4
+"IT","NL","Italy","Netherlands",41
+"JM","NL","Jamaica","Netherlands",1
+"JP","NL","Japan","Netherlands",3
+"JE","NL","Jersey","Netherlands",1
+"JO","NL","Jordan","Netherlands",1
+"KZ","NL","Kazakhstan","Netherlands",2
+"KE","NL","Kenya","Netherlands",3
+"KW","NL","Kuwait","Netherlands",3
+"LV","NL","Latvia","Netherlands",3
+"LT","NL","Lithuania","Netherlands",1
+"LU","NL","Luxembourg","Netherlands",1
+"MK","NL","Macedonia","Netherlands",1
+"MY","NL","Malaysia","Netherlands",3
+"MT","NL","Malta","Netherlands",3
+"MX","NL","Mexico","Netherlands",2
+"MA","NL","Morocco","Netherlands",11
+"AN","NL","Netherlands Antilles","Netherlands",4
+"NG","NL","Nigeria","Netherlands",1
+"NO","NL","Norway","Netherlands",15
+"PA","NL","Panama","Netherlands",2
+"PE","NL","Peru","Netherlands",2
+"PL","NL","Poland","Netherlands",9
+"PT","NL","Portugal","Netherlands",22
+"QA","NL","Qatar","Netherlands",3
+"RO","NL","Romania","Netherlands",4
+"RU","NL","Russia","Netherlands",4
+"SA","NL","Saudi Arabia","Netherlands",3
+"RS","NL","Serbia","Netherlands",3
+"SG","NL","Singapore","Netherlands",3
+"SI","NL","Slovenia","Netherlands",1
+"ZA","NL","South Africa","Netherlands",3
+"KR","NL","South Korea","Netherlands",2
+"ES","NL","Spain","Netherlands",68
+"SR","NL","Suriname","Netherlands",2
+"SE","NL","Sweden","Netherlands",7
+"CH","NL","Switzerland","Netherlands",5
+"TW","NL","Taiwan","Netherlands",2
+"TZ","NL","Tanzania","Netherlands",3
+"TH","NL","Thailand","Netherlands",3
+"TN","NL","Tunisia","Netherlands",2
+"TR","NL","Turkey","Netherlands",22
+"UG","NL","Uganda","Netherlands",3
+"UA","NL","Ukraine","Netherlands",2
+"AE","NL","United Arab Emirates","Netherlands",10
+"GB","NL","United Kingdom","Netherlands",53
+"US","NL","United States","Netherlands",39
+"ZM","NL","Zambia","Netherlands",3
+"AI","AN","Anguilla","Netherlands Antilles",2
+"AG","AN","Antigua and Barbuda","Netherlands Antilles",1
+"AW","AN","Aruba","Netherlands Antilles",3
+"BB","AN","Barbados","Netherlands Antilles",1
+"VG","AN","British Virgin Islands","Netherlands Antilles",4
+"CA","AN","Canada","Netherlands Antilles",1
+"CO","AN","Colombia","Netherlands Antilles",2
+"DM","AN","Dominica","Netherlands Antilles",4
+"DO","AN","Dominican Republic","Netherlands Antilles",5
+"FR","AN","France","Netherlands Antilles",8
+"DE","AN","Germany","Netherlands Antilles",1
+"GP","AN","Guadeloupe","Netherlands Antilles",1
+"HT","AN","Haiti","Netherlands Antilles",1
+"JM","AN","Jamaica","Netherlands Antilles",2
+"NL","AN","Netherlands","Netherlands Antilles",4
+"PA","AN","Panama","Netherlands Antilles",2
+"PR","AN","Puerto Rico","Netherlands Antilles",3
+NA,"AN","Saint Kitts and Nevis","Netherlands Antilles",3
+"SR","AN","Suriname","Netherlands Antilles",1
+"TT","AN","Trinidad and Tobago","Netherlands Antilles",3
+"US","AN","United States","Netherlands Antilles",24
+"VE","AN","Venezuela","Netherlands Antilles",6
+NA,"AN","Virgin Islands","Netherlands Antilles",3
+"AU","NC","Australia","New Caledonia",4
+"FJ","NC","Fiji","New Caledonia",1
+"PF","NC","French Polynesia","New Caledonia",1
+"JP","NC","Japan","New Caledonia",2
+"NZ","NC","New Zealand","New Caledonia",2
+"VU","NC","Vanuatu","New Caledonia",2
+NA,"NC","Wallis and Futuna","New Caledonia",1
+"AU","NZ","Australia","New Zealand",77
+"CA","NZ","Canada","New Zealand",2
+"CL","NZ","Chile","New Zealand",2
+"CN","NZ","China","New Zealand",3
+"CK","NZ","Cook Islands","New Zealand",3
+"FJ","NZ","Fiji","New Zealand",7
+"PF","NZ","French Polynesia","New Zealand",4
+"HK","NZ","Hong Kong","New Zealand",3
+"JP","NZ","Japan","New Zealand",3
+"MY","NZ","Malaysia","New Zealand",1
+"NC","NZ","New Caledonia","New Zealand",2
+"NU","NZ","Niue","New Zealand",1
+"NF","NZ","Norfolk Island","New Zealand",1
+"WS","NZ","Samoa","New Zealand",3
+"SG","NZ","Singapore","New Zealand",5
+"KR","NZ","South Korea","New Zealand",1
+"TH","NZ","Thailand","New Zealand",2
+"TO","NZ","Tonga","New Zealand",2
+"US","NZ","United States","New Zealand",10
+"VU","NZ","Vanuatu","New Zealand",2
+"CR","NI","Costa Rica","Nicaragua",3
+"SV","NI","El Salvador","Nicaragua",2
+"GT","NI","Guatemala","Nicaragua",1
+"PA","NI","Panama","Nicaragua",2
+"US","NI","United States","Nicaragua",6
+"DZ","NE","Algeria","Niger",1
+"BJ","NE","Benin","Niger",1
+"BF","NE","Burkina Faso","Niger",7
+"TD","NE","Chad","Niger",1
+"ET","NE","Ethiopia","Niger",1
+"FR","NE","France","Niger",3
+"MA","NE","Morocco","Niger",1
+"NG","NE","Nigeria","Niger",1
+"TR","NE","Turkey","Niger",1
+"BJ","NG","Benin","Nigeria",3
+"CM","NG","Cameroon","Nigeria",2
+"TD","NG","Chad","Nigeria",2
+"CI","NG","Cote d'Ivoire","Nigeria",4
+"EG","NG","Egypt","Nigeria",3
+"GQ","NG","Equatorial Guinea","Nigeria",1
+"ET","NG","Ethiopia","Nigeria",3
+"FR","NG","France","Nigeria",4
+"GA","NG","Gabon","Nigeria",2
+"DE","NG","Germany","Nigeria",4
+"GH","NG","Ghana","Nigeria",5
+"IT","NG","Italy","Nigeria",1
+"JO","NG","Jordan","Nigeria",1
+"KE","NG","Kenya","Nigeria",1
+"LB","NG","Lebanon","Nigeria",2
+"LR","NG","Liberia","Nigeria",1
+"ML","NG","Mali","Nigeria",1
+"NL","NG","Netherlands","Nigeria",1
+"NE","NG","Niger","Nigeria",1
+"QA","NG","Qatar","Nigeria",1
+"RW","NG","Rwanda","Nigeria",1
+"SA","NG","Saudi Arabia","Nigeria",1
+"SN","NG","Senegal","Nigeria",1
+"SL","NG","Sierra Leone","Nigeria",1
+"ZA","NG","South Africa","Nigeria",2
+"ES","NG","Spain","Nigeria",1
+"TG","NG","Togo","Nigeria",2
+"TR","NG","Turkey","Nigeria",2
+"AE","NG","United Arab Emirates","Nigeria",2
+"GB","NG","United Kingdom","Nigeria",4
+"US","NG","United States","Nigeria",3
+"AU","NF","Australia","Norfolk Island",2
+"CN","KP","China","North Korea",3
+"MY","KP","Malaysia","North Korea",1
+"RU","KP","Russia","North Korea",1
+"CN","MP","China","Northern Mariana Islands",3
+"GU","MP","Guam","Northern Mariana Islands",2
+"JP","MP","Japan","Northern Mariana Islands",3
+"KR","MP","South Korea","Northern Mariana Islands",2
+"AT","NO","Austria","Norway",2
+"BE","NO","Belgium","Norway",3
+"BG","NO","Bulgaria","Norway",1
+"HR","NO","Croatia","Norway",9
+"CY","NO","Cyprus","Norway",1
+"CZ","NO","Czech Republic","Norway",3
+"DK","NO","Denmark","Norway",30
+"EE","NO","Estonia","Norway",6
+NA,"NO","Faroe Islands","Norway",2
+"FI","NO","Finland","Norway",3
+"FR","NO","France","Norway",15
+"DE","NO","Germany","Norway",26
+"GR","NO","Greece","Norway",11
+"HU","NO","Hungary","Norway",1
+"IS","NO","Iceland","Norway",5
+"IE","NO","Ireland","Norway",3
+"IT","NO","Italy","Norway",14
+"LV","NO","Latvia","Norway",10
+"LT","NO","Lithuania","Norway",8
+"MT","NO","Malta","Norway",2
+"MA","NO","Morocco","Norway",1
+"NL","NO","Netherlands","Norway",15
+"PK","NO","Pakistan","Norway",1
+"PL","NO","Poland","Norway",31
+"PT","NO","Portugal","Norway",3
+"QA","NO","Qatar","Norway",1
+"RO","NO","Romania","Norway",1
+"RU","NO","Russia","Norway",4
+"RS","NO","Serbia","Norway",2
+"SK","NO","Slovakia","Norway",1
+"ES","NO","Spain","Norway",52
+"SE","NO","Sweden","Norway",13
+"CH","NO","Switzerland","Norway",3
+"TH","NO","Thailand","Norway",3
+"TR","NO","Turkey","Norway",7
+"UA","NO","Ukraine","Norway",1
+"GB","NO","United Kingdom","Norway",42
+"US","NO","United States","Norway",5
+"BH","OM","Bahrain","Oman",3
+"BD","OM","Bangladesh","Oman",5
+"EG","OM","Egypt","Oman",2
+"ET","OM","Ethiopia","Oman",2
+"FR","OM","France","Oman",1
+"DE","OM","Germany","Oman",2
+"IN","OM","India","Oman",21
+"IR","OM","Iran","Oman",3
+"IT","OM","Italy","Oman",1
+"JO","OM","Jordan","Oman",2
+"KW","OM","Kuwait","Oman",2
+"LB","OM","Lebanon","Oman",1
+"MY","OM","Malaysia","Oman",2
+"MV","OM","Maldives","Oman",1
+"NP","OM","Nepal","Oman",1
+"PK","OM","Pakistan","Oman",13
+"QA","OM","Qatar","Oman",6
+"SA","OM","Saudi Arabia","Oman",7
+"LK","OM","Sri Lanka","Oman",3
+"CH","OM","Switzerland","Oman",2
+"TZ","OM","Tanzania","Oman",1
+"TH","OM","Thailand","Oman",1
+"TR","OM","Turkey","Oman",2
+"AE","OM","United Arab Emirates","Oman",21
+"GB","OM","United Kingdom","Oman",1
+"AF","PK","Afghanistan","Pakistan",4
+"BH","PK","Bahrain","Pakistan",6
+"BD","PK","Bangladesh","Pakistan",1
+"CA","PK","Canada","Pakistan",3
+"CN","PK","China","Pakistan",4
+"DK","PK","Denmark","Pakistan",1
+"FR","PK","France","Pakistan",2
+"IN","PK","India","Pakistan",3
+"IR","PK","Iran","Pakistan",3
+"IT","PK","Italy","Pakistan",1
+"KW","PK","Kuwait","Pakistan",6
+"MY","PK","Malaysia","Pakistan",3
+"NP","PK","Nepal","Pakistan",1
+"NO","PK","Norway","Pakistan",1
+"OM","PK","Oman","Pakistan",14
+"QA","PK","Qatar","Pakistan",5
+"SA","PK","Saudi Arabia","Pakistan",40
+"ES","PK","Spain","Pakistan",2
+"LK","PK","Sri Lanka","Pakistan",2
+"TH","PK","Thailand","Pakistan",4
+"TR","PK","Turkey","Pakistan",3
+"AE","PK","United Arab Emirates","Pakistan",51
+"GB","PK","United Kingdom","Pakistan",7
+"US","PK","United States","Pakistan",1
+"GU","PW","Guam","Palau",1
+"JP","PW","Japan","Palau",2
+NA,"PW","Micronesia","Palau",1
+"PH","PW","Philippines","Palau",1
+"KR","PW","South Korea","Palau",2
+"TW","PW","Taiwan","Palau",2
+"AR","PA","Argentina","Panama",2
+"AW","PA","Aruba","Panama",1
+"BS","PA","Bahamas","Panama",1
+"BO","PA","Bolivia","Panama",1
+"BR","PA","Brazil","Panama",7
+"CA","PA","Canada","Panama",1
+"CL","PA","Chile","Panama",1
+"CO","PA","Colombia","Panama",10
+"CR","PA","Costa Rica","Panama",7
+"CU","PA","Cuba","Panama",2
+"DO","PA","Dominican Republic","Panama",4
+"EC","PA","Ecuador","Panama",3
+"SV","PA","El Salvador","Panama",2
+"FR","PA","France","Panama",1
+"GT","PA","Guatemala","Panama",1
+"HT","PA","Haiti","Panama",2
+"HN","PA","Honduras","Panama",2
+"JM","PA","Jamaica","Panama",3
+"MX","PA","Mexico","Panama",8
+"NL","PA","Netherlands","Panama",2
+"AN","PA","Netherlands Antilles","Panama",2
+"NI","PA","Nicaragua","Panama",2
+"PY","PA","Paraguay","Panama",1
+"PE","PA","Peru","Panama",2
+"PR","PA","Puerto Rico","Panama",1
+"ES","PA","Spain","Panama",1
+"TT","PA","Trinidad and Tobago","Panama",2
+"TR","PA","Turkey","Panama",1
+"US","PA","United States","Panama",29
+"UY","PA","Uruguay","Panama",1
+"VE","PA","Venezuela","Panama",6
+"AU","PG","Australia","Papua New Guinea",9
+"FJ","PG","Fiji","Papua New Guinea",1
+"HK","PG","Hong Kong","Papua New Guinea",1
+"ID","PG","Indonesia","Papua New Guinea",1
+"JP","PG","Japan","Papua New Guinea",1
+"PH","PG","Philippines","Papua New Guinea",2
+"SG","PG","Singapore","Papua New Guinea",1
+"SB","PG","Solomon Islands","Papua New Guinea",1
+"AR","PY","Argentina","Paraguay",4
+"BO","PY","Bolivia","Paraguay",2
+"BR","PY","Brazil","Paraguay",5
+"CL","PY","Chile","Paraguay",2
+"PA","PY","Panama","Paraguay",1
+"PE","PY","Peru","Paraguay",1
+"US","PY","United States","Paraguay",2
+"UY","PY","Uruguay","Paraguay",1
+"AR","PE","Argentina","Peru",4
+"BO","PE","Bolivia","Peru",8
+"BR","PE","Brazil","Peru",10
+"CA","PE","Canada","Peru",1
+"CL","PE","Chile","Peru",7
+"CO","PE","Colombia","Peru",4
+"CR","PE","Costa Rica","Peru",1
+"CU","PE","Cuba","Peru",2
+"DO","PE","Dominican Republic","Peru",2
+"EC","PE","Ecuador","Peru",5
+"SV","PE","El Salvador","Peru",1
+"FR","PE","France","Peru",2
+"MX","PE","Mexico","Peru",4
+"NL","PE","Netherlands","Peru",2
+"PA","PE","Panama","Peru",2
+"PY","PE","Paraguay","Peru",1
+"ES","PE","Spain","Peru",3
+"US","PE","United States","Peru",21
+"UY","PE","Uruguay","Peru",1
+"VE","PE","Venezuela","Peru",2
+"AU","PH","Australia","Philippines",4
+"BH","PH","Bahrain","Philippines",2
+NA,"PH","Brunei","Philippines",2
+"KH","PH","Cambodia","Philippines",1
+"CA","PH","Canada","Philippines",1
+"CN","PH","China","Philippines",13
+"GU","PH","Guam","Philippines",2
+"HK","PH","Hong Kong","Philippines",11
+"ID","PH","Indonesia","Philippines",5
+"JP","PH","Japan","Philippines",15
+NA,"PH","Macau","Philippines",5
+"MY","PH","Malaysia","Philippines",9
+"PW","PH","Palau","Philippines",1
+"PG","PH","Papua New Guinea","Philippines",2
+"QA","PH","Qatar","Philippines",3
+"SA","PH","Saudi Arabia","Philippines",5
+"SG","PH","Singapore","Philippines",17
+"KR","PH","South Korea","Philippines",26
+"TW","PH","Taiwan","Philippines",9
+"TH","PH","Thailand","Philippines",6
+"AE","PH","United Arab Emirates","Philippines",7
+"GB","PH","United Kingdom","Philippines",1
+"US","PH","United States","Philippines",3
+"VN","PH","Vietnam","Philippines",4
+"AM","PL","Armenia","Poland",1
+"AT","PL","Austria","Poland",4
+"BY","PL","Belarus","Poland",2
+"BE","PL","Belgium","Poland",6
+"BG","PL","Bulgaria","Poland",2
+"CA","PL","Canada","Poland",2
+"CN","PL","China","Poland",2
+"HR","PL","Croatia","Poland",3
+"CY","PL","Cyprus","Poland",2
+"CZ","PL","Czech Republic","Poland",3
+"DK","PL","Denmark","Poland",7
+"EE","PL","Estonia","Poland",1
+"FI","PL","Finland","Poland",5
+"FR","PL","France","Poland",15
+"GE","PL","Georgia","Poland",3
+"DE","PL","Germany","Poland",44
+"GR","PL","Greece","Poland",7
+"HU","PL","Hungary","Poland",2
+"IE","PL","Ireland","Poland",15
+"IL","PL","Israel","Poland",4
+"IT","PL","Italy","Poland",29
+"LV","PL","Latvia","Poland",2
+"LT","PL","Lithuania","Poland",1
+"MT","PL","Malta","Poland",2
+"NL","PL","Netherlands","Poland",9
+"NO","PL","Norway","Poland",31
+"PT","PL","Portugal","Poland",2
+"QA","PL","Qatar","Poland",1
+"RO","PL","Romania","Poland",2
+"RU","PL","Russia","Poland",4
+"RS","PL","Serbia","Poland",2
+"SI","PL","Slovenia","Poland",2
+"ES","PL","Spain","Poland",22
+"SE","PL","Sweden","Poland",13
+"CH","PL","Switzerland","Poland",7
+"TR","PL","Turkey","Poland",2
+"UA","PL","Ukraine","Poland",6
+"AE","PL","United Arab Emirates","Poland",2
+"GB","PL","United Kingdom","Poland",67
+"US","PL","United States","Poland",2
+"DZ","PT","Algeria","Portugal",2
+"AO","PT","Angola","Portugal",3
+"AT","PT","Austria","Portugal",6
+"BE","PT","Belgium","Portugal",18
+"BR","PT","Brazil","Portugal",12
+"CA","PT","Canada","Portugal",9
+NA,"PT","Cape Verde","Portugal",8
+"CZ","PT","Czech Republic","Portugal",2
+"DK","PT","Denmark","Portugal",5
+"FI","PT","Finland","Portugal",2
+"FR","PT","France","Portugal",53
+"DE","PT","Germany","Portugal",64
+"GH","PT","Ghana","Portugal",1
+"HU","PT","Hungary","Portugal",1
+"IE","PT","Ireland","Portugal",12
+"IT","PT","Italy","Portugal",20
+"LU","PT","Luxembourg","Portugal",7
+"ML","PT","Mali","Portugal",1
+"MD","PT","Moldova","Portugal",1
+"MA","PT","Morocco","Portugal",4
+"MZ","PT","Mozambique","Portugal",1
+"NL","PT","Netherlands","Portugal",23
+"NO","PT","Norway","Portugal",3
+"PL","PT","Poland","Portugal",2
+"RO","PT","Romania","Portugal",1
+"RU","PT","Russia","Portugal",2
+"ST","PT","Sao Tome and Principe","Portugal",1
+"SN","PT","Senegal","Portugal",1
+"ES","PT","Spain","Portugal",43
+"SE","PT","Sweden","Portugal",3
+"CH","PT","Switzerland","Portugal",21
+"TN","PT","Tunisia","Portugal",1
+"TR","PT","Turkey","Portugal",2
+"UA","PT","Ukraine","Portugal",2
+"AE","PT","United Arab Emirates","Portugal",2
+"GB","PT","United Kingdom","Portugal",84
+"US","PT","United States","Portugal",14
+"VE","PT","Venezuela","Portugal",3
+"AI","PR","Anguilla","Puerto Rico",2
+"AG","PR","Antigua and Barbuda","Puerto Rico",1
+"VG","PR","British Virgin Islands","Puerto Rico",6
+"CA","PR","Canada","Puerto Rico",1
+"CO","PR","Colombia","Puerto Rico",1
+"DM","PR","Dominica","Puerto Rico",4
+"DO","PR","Dominican Republic","Puerto Rico",9
+"FR","PR","France","Puerto Rico",1
+"DE","PR","Germany","Puerto Rico",1
+"GP","PR","Guadeloupe","Puerto Rico",2
+"MQ","PR","Martinique","Puerto Rico",2
+"AN","PR","Netherlands Antilles","Puerto Rico",3
+"PA","PR","Panama","Puerto Rico",1
+NA,"PR","Saint Kitts and Nevis","Puerto Rico",4
+"TC","PR","Turks and Caicos Islands","Puerto Rico",1
+"US","PR","United States","Puerto Rico",53
+"VE","PR","Venezuela","Puerto Rico",1
+NA,"PR","Virgin Islands","Puerto Rico",9
+"DZ","QA","Algeria","Qatar",1
+"AU","QA","Australia","Qatar",2
+"AT","QA","Austria","Qatar",1
+"AZ","QA","Azerbaijan","Qatar",2
+"BH","QA","Bahrain","Qatar",10
+"BD","QA","Bangladesh","Qatar",2
+"BE","QA","Belgium","Qatar",1
+"BR","QA","Brazil","Qatar",1
+NA,"QA","Burma","Qatar",1
+"CA","QA","Canada","Qatar",1
+"CN","QA","China","Qatar",6
+"CY","QA","Cyprus","Qatar",1
+"DK","QA","Denmark","Qatar",1
+"EG","QA","Egypt","Qatar",4
+"ET","QA","Ethiopia","Qatar",1
+"FR","QA","France","Qatar",1
+"DE","QA","Germany","Qatar",9
+"GR","QA","Greece","Qatar",2
+"HK","QA","Hong Kong","Qatar",2
+"HU","QA","Hungary","Qatar",1
+"IN","QA","India","Qatar",16
+"ID","QA","Indonesia","Qatar",1
+"IR","QA","Iran","Qatar",5
+"IQ","QA","Iraq","Qatar",5
+"IT","QA","Italy","Qatar",4
+"JP","QA","Japan","Qatar",6
+"JO","QA","Jordan","Qatar",2
+"KE","QA","Kenya","Qatar",1
+"KW","QA","Kuwait","Qatar",3
+"LB","QA","Lebanon","Qatar",2
+"MY","QA","Malaysia","Qatar",2
+"MV","QA","Maldives","Qatar",1
+"MA","QA","Morocco","Qatar",1
+"NP","QA","Nepal","Qatar",2
+"NL","QA","Netherlands","Qatar",3
+"NG","QA","Nigeria","Qatar",1
+"NO","QA","Norway","Qatar",1
+"OM","QA","Oman","Qatar",6
+"PK","QA","Pakistan","Qatar",6
+"PH","QA","Philippines","Qatar",3
+"PL","QA","Poland","Qatar",1
+"RO","QA","Romania","Qatar",1
+"RU","QA","Russia","Qatar",1
+"SA","QA","Saudi Arabia","Qatar",9
+"SG","QA","Singapore","Qatar",1
+"ZA","QA","South Africa","Qatar",2
+"KR","QA","South Korea","Qatar",2
+"ES","QA","Spain","Qatar",5
+"LK","QA","Sri Lanka","Qatar",2
+"SD","QA","Sudan","Qatar",2
+"SE","QA","Sweden","Qatar",1
+"CH","QA","Switzerland","Qatar",3
+"TZ","QA","Tanzania","Qatar",1
+"TH","QA","Thailand","Qatar",1
+"TN","QA","Tunisia","Qatar",1
+"TR","QA","Turkey","Qatar",4
+"UG","QA","Uganda","Qatar",1
+"AE","QA","United Arab Emirates","Qatar",10
+"GB","QA","United Kingdom","Qatar",4
+"US","QA","United States","Qatar",11
+"VN","QA","Vietnam","Qatar",1
+"YE","QA","Yemen","Qatar",2
+"KM","RE","Comoros","Reunion",1
+"FR","RE","France","Reunion",5
+"IN","RE","India","Reunion",1
+"MG","RE","Madagascar","Reunion",7
+"MU","RE","Mauritius","Reunion",7
+"YT","RE","Mayotte","Reunion",2
+"ZA","RE","South Africa","Reunion",1
+"AT","RO","Austria","Romania",8
+"BE","RO","Belgium","Romania",4
+"BG","RO","Bulgaria","Romania",3
+"CY","RO","Cyprus","Romania",3
+"CZ","RO","Czech Republic","Romania",5
+"DK","RO","Denmark","Romania",1
+"FR","RO","France","Romania",7
+"DE","RO","Germany","Romania",15
+"GR","RO","Greece","Romania",4
+"HU","RO","Hungary","Romania",1
+"IE","RO","Ireland","Romania",2
+"IL","RO","Israel","Romania",5
+"IT","RO","Italy","Romania",34
+"JO","RO","Jordan","Romania",2
+"LB","RO","Lebanon","Romania",2
+"MD","RO","Moldova","Romania",3
+"NL","RO","Netherlands","Romania",4
+"NO","RO","Norway","Romania",1
+"PL","RO","Poland","Romania",2
+"PT","RO","Portugal","Romania",1
+"QA","RO","Qatar","Romania",1
+"RU","RO","Russia","Romania",2
+"RS","RO","Serbia","Romania",2
+"ES","RO","Spain","Romania",17
+"CH","RO","Switzerland","Romania",3
+"TR","RO","Turkey","Romania",4
+"AE","RO","United Arab Emirates","Romania",3
+"GB","RO","United Kingdom","Romania",11
+"DZ","RU","Algeria","Russia",1
+"AM","RU","Armenia","Russia",27
+"AT","RU","Austria","Russia",13
+"AZ","RU","Azerbaijan","Russia",21
+"BY","RU","Belarus","Russia",12
+"BE","RU","Belgium","Russia",2
+"BG","RU","Bulgaria","Russia",8
+"CA","RU","Canada","Russia",2
+"CN","RU","China","Russia",46
+"HR","RU","Croatia","Russia",2
+"CU","RU","Cuba","Russia",3
+"CY","RU","Cyprus","Russia",11
+"CZ","RU","Czech Republic","Russia",24
+"DK","RU","Denmark","Russia",3
+"DO","RU","Dominican Republic","Russia",4
+"EG","RU","Egypt","Russia",11
+"EE","RU","Estonia","Russia",3
+"FI","RU","Finland","Russia",9
+"FR","RU","France","Russia",11
+"GE","RU","Georgia","Russia",4
+"DE","RU","Germany","Russia",46
+"GR","RU","Greece","Russia",28
+"HK","RU","Hong Kong","Russia",9
+"HU","RU","Hungary","Russia",4
+"IN","RU","India","Russia",2
+"IR","RU","Iran","Russia",1
+"IL","RU","Israel","Russia",10
+"IT","RU","Italy","Russia",34
+"JP","RU","Japan","Russia",9
+"JO","RU","Jordan","Russia",2
+"KZ","RU","Kazakhstan","Russia",38
+NA,"RU","Kyrgyzstan","Russia",51
+"LV","RU","Latvia","Russia",8
+"LB","RU","Lebanon","Russia",2
+"LT","RU","Lithuania","Russia",4
+"MV","RU","Maldives","Russia",2
+"MT","RU","Malta","Russia",4
+"MU","RU","Mauritius","Russia",1
+"MX","RU","Mexico","Russia",1
+"MD","RU","Moldova","Russia",5
+"MN","RU","Mongolia","Russia",2
+"ME","RU","Montenegro","Russia",7
+"MA","RU","Morocco","Russia",2
+"NL","RU","Netherlands","Russia",4
+"KP","RU","North Korea","Russia",1
+"NO","RU","Norway","Russia",4
+"PL","RU","Poland","Russia",4
+"PT","RU","Portugal","Russia",2
+"QA","RU","Qatar","Russia",1
+"RO","RU","Romania","Russia",2
+"RS","RU","Serbia","Russia",2
+"SC","RU","Seychelles","Russia",1
+"SG","RU","Singapore","Russia",2
+"SI","RU","Slovenia","Russia",2
+"KR","RU","South Korea","Russia",14
+"ES","RU","Spain","Russia",28
+"LK","RU","Sri Lanka","Russia",1
+"SE","RU","Sweden","Russia",4
+"CH","RU","Switzerland","Russia",6
+"TJ","RU","Tajikistan","Russia",71
+"TH","RU","Thailand","Russia",13
+"TN","RU","Tunisia","Russia",6
+"TR","RU","Turkey","Russia",31
+"TM","RU","Turkmenistan","Russia",2
+"UA","RU","Ukraine","Russia",39
+"AE","RU","United Arab Emirates","Russia",39
+"GB","RU","United Kingdom","Russia",8
+"US","RU","United States","Russia",13
+"UZ","RU","Uzbekistan","Russia",82
+"VN","RU","Vietnam","Russia",6
+"BE","RW","Belgium","Rwanda",5
+"BI","RW","Burundi","Rwanda",6
+NA,"RW","Congo (Brazzaville)","Rwanda",1
+"ET","RW","Ethiopia","Rwanda",2
+"GA","RW","Gabon","Rwanda",1
+"KE","RW","Kenya","Rwanda",5
+"NL","RW","Netherlands","Rwanda",3
+"NG","RW","Nigeria","Rwanda",1
+"ZA","RW","South Africa","Rwanda",2
+"SS","RW","South Sudan","Rwanda",1
+"TZ","RW","Tanzania","Rwanda",2
+"TR","RW","Turkey","Rwanda",2
+"UG","RW","Uganda","Rwanda",5
+"AE","RW","United Arab Emirates","Rwanda",1
+"AG",NA,"Antigua and Barbuda","Saint Kitts and Nevis",4
+"VG",NA,"British Virgin Islands","Saint Kitts and Nevis",1
+"AN",NA,"Netherlands Antilles","Saint Kitts and Nevis",3
+"PR",NA,"Puerto Rico","Saint Kitts and Nevis",4
+"US",NA,"United States","Saint Kitts and Nevis",3
+NA,NA,"Virgin Islands","Saint Kitts and Nevis",1
+"AG",NA,"Antigua and Barbuda","Saint Lucia",2
+"BB",NA,"Barbados","Saint Lucia",1
+"CA",NA,"Canada","Saint Lucia",2
+"GD",NA,"Grenada","Saint Lucia",2
+"MQ",NA,"Martinique","Saint Lucia",4
+"AN",NA,"Netherlands Antilles","Saint Lucia",1
+NA,NA,"Saint Vincent and the Grenadines","Saint Lucia",1
+"TT",NA,"Trinidad and Tobago","Saint Lucia",4
+"GB",NA,"United Kingdom","Saint Lucia",4
+"US",NA,"United States","Saint Lucia",7
+"CA",NA,"Canada","Saint Pierre and Miquelon",3
+"BB",NA,"Barbados","Saint Vincent and the Grenadines",1
+"DM",NA,"Dominica","Saint Vincent and the Grenadines",1
+"GD",NA,"Grenada","Saint Vincent and the Grenadines",1
+NA,NA,"Saint Lucia","Saint Vincent and the Grenadines",1
+"TT",NA,"Trinidad and Tobago","Saint Vincent and the Grenadines",1
+"AU","WS","Australia","Samoa",2
+"FJ","WS","Fiji","Samoa",1
+"NZ","WS","New Zealand","Samoa",2
+"US","WS","United States","Samoa",1
+"AO","ST","Angola","Sao Tome and Principe",1
+NA,"ST","Cape Verde","Sao Tome and Principe",1
+"PT","ST","Portugal","Sao Tome and Principe",2
+"DZ","SA","Algeria","Saudi Arabia",2
+"BH","SA","Bahrain","Saudi Arabia",8
+"BD","SA","Bangladesh","Saudi Arabia",7
+NA,"SA","Brunei","Saudi Arabia",1
+"CA","SA","Canada","Saudi Arabia",1
+"CN","SA","China","Saudi Arabia",2
+"DJ","SA","Djibouti","Saudi Arabia",1
+"EG","SA","Egypt","Saudi Arabia",57
+"ER","SA","Eritrea","Saudi Arabia",1
+"ET","SA","Ethiopia","Saudi Arabia",9
+"FR","SA","France","Saudi Arabia",4
+"DE","SA","Germany","Saudi Arabia",10
+"HK","SA","Hong Kong","Saudi Arabia",1
+"IN","SA","India","Saudi Arabia",35
+"ID","SA","Indonesia","Saudi Arabia",7
+"IR","SA","Iran","Saudi Arabia",12
+"IT","SA","Italy","Saudi Arabia",8
+"JO","SA","Jordan","Saudi Arabia",11
+"KE","SA","Kenya","Saudi Arabia",2
+"KW","SA","Kuwait","Saudi Arabia",18
+"LB","SA","Lebanon","Saudi Arabia",7
+"LY","SA","Libya","Saudi Arabia",2
+"MY","SA","Malaysia","Saudi Arabia",6
+"MA","SA","Morocco","Saudi Arabia",4
+"NL","SA","Netherlands","Saudi Arabia",3
+"NG","SA","Nigeria","Saudi Arabia",1
+"OM","SA","Oman","Saudi Arabia",7
+"PK","SA","Pakistan","Saudi Arabia",39
+"PH","SA","Philippines","Saudi Arabia",5
+"QA","SA","Qatar","Saudi Arabia",9
+"SG","SA","Singapore","Saudi Arabia",3
+"ZA","SA","South Africa","Saudi Arabia",1
+"KR","SA","South Korea","Saudi Arabia",1
+"ES","SA","Spain","Saudi Arabia",2
+"LK","SA","Sri Lanka","Saudi Arabia",11
+"SD","SA","Sudan","Saudi Arabia",8
+"CH","SA","Switzerland","Saudi Arabia",2
+"TN","SA","Tunisia","Saudi Arabia",3
+"TR","SA","Turkey","Saudi Arabia",18
+"AE","SA","United Arab Emirates","Saudi Arabia",47
+"GB","SA","United Kingdom","Saudi Arabia",8
+"US","SA","United States","Saudi Arabia",5
+"YE","SA","Yemen","Saudi Arabia",16
+"DZ","SN","Algeria","Senegal",1
+"BE","SN","Belgium","Senegal",5
+"BJ","SN","Benin","Senegal",2
+"BF","SN","Burkina Faso","Senegal",1
+"CM","SN","Cameroon","Senegal",1
+NA,"SN","Cape Verde","Senegal",2
+"CI","SN","Cote d'Ivoire","Senegal",3
+"FR","SN","France","Senegal",3
+"GM","SN","Gambia","Senegal",4
+"GH","SN","Ghana","Senegal",3
+"GN","SN","Guinea","Senegal",8
+"GW","SN","Guinea-Bissau","Senegal",2
+"IT","SN","Italy","Senegal",1
+"ML","SN","Mali","Senegal",5
+"MR","SN","Mauritania","Senegal",3
+"MA","SN","Morocco","Senegal",1
+"NG","SN","Nigeria","Senegal",1
+"PT","SN","Portugal","Senegal",1
+"SL","SN","Sierra Leone","Senegal",2
+"ZA","SN","South Africa","Senegal",3
+"ES","SN","Spain","Senegal",7
+"TN","SN","Tunisia","Senegal",1
+"AE","SN","United Arab Emirates","Senegal",1
+"US","SN","United States","Senegal",4
+"AT","RS","Austria","Serbia",3
+"BE","RS","Belgium","Serbia",2
+"BA","RS","Bosnia and Herzegovina","Serbia",3
+"BG","RS","Bulgaria","Serbia",2
+"HR","RS","Croatia","Serbia",2
+"CY","RS","Cyprus","Serbia",2
+"CZ","RS","Czech Republic","Serbia",1
+"DK","RS","Denmark","Serbia",2
+"FR","RS","France","Serbia",4
+"DE","RS","Germany","Serbia",25
+"GR","RS","Greece","Serbia",4
+"HU","RS","Hungary","Serbia",2
+"IL","RS","Israel","Serbia",1
+"IT","RS","Italy","Serbia",6
+"MK","RS","Macedonia","Serbia",1
+"ME","RS","Montenegro","Serbia",4
+"NL","RS","Netherlands","Serbia",3
+"NO","RS","Norway","Serbia",2
+"PL","RS","Poland","Serbia",2
+"RO","RS","Romania","Serbia",2
+"RU","RS","Russia","Serbia",2
+"SI","RS","Slovenia","Serbia",2
+"SE","RS","Sweden","Serbia",6
+"CH","RS","Switzerland","Serbia",9
+"TN","RS","Tunisia","Serbia",1
+"TR","RS","Turkey","Serbia",6
+"AE","RS","United Arab Emirates","Serbia",3
+"GB","RS","United Kingdom","Serbia",3
+"DE","SC","Germany","Seychelles",1
+"KE","SC","Kenya","Seychelles",1
+"MU","SC","Mauritius","Seychelles",1
+"RU","SC","Russia","Seychelles",1
+"ZA","SC","South Africa","Seychelles",2
+"LK","SC","Sri Lanka","Seychelles",2
+"AE","SC","United Arab Emirates","Seychelles",4
+"BE","SL","Belgium","Sierra Leone",3
+"CI","SL","Cote d'Ivoire","Sierra Leone",1
+"GM","SL","Gambia","Sierra Leone",2
+"GH","SL","Ghana","Sierra Leone",3
+"LR","SL","Liberia","Sierra Leone",7
+"MA","SL","Morocco","Sierra Leone",1
+"NG","SL","Nigeria","Sierra Leone",1
+"SN","SL","Senegal","Sierra Leone",2
+"GB","SL","United Kingdom","Sierra Leone",2
+"AU","SG","Australia","Singapore",42
+"BD","SG","Bangladesh","Singapore",4
+NA,"SG","Brunei","Singapore",2
+NA,"SG","Burma","Singapore",6
+"KH","SG","Cambodia","Singapore",9
+"CN","SG","China","Singapore",45
+"DK","SG","Denmark","Singapore",2
+NA,"SG","East Timor","Singapore",1
+"FI","SG","Finland","Singapore",1
+"FR","SG","France","Singapore",2
+"DE","SG","Germany","Singapore",7
+"HK","SG","Hong Kong","Singapore",8
+"IN","SG","India","Singapore",34
+"ID","SG","Indonesia","Singapore",63
+"IT","SG","Italy","Singapore",2
+"JP","SG","Japan","Singapore",18
+"LA","SG","Laos","Singapore",1
+NA,"SG","Macau","Singapore",1
+"MY","SG","Malaysia","Singapore",39
+"MV","SG","Maldives","Singapore",2
+"NP","SG","Nepal","Singapore",2
+"NL","SG","Netherlands","Singapore",2
+"NZ","SG","New Zealand","Singapore",5
+"PG","SG","Papua New Guinea","Singapore",1
+"PH","SG","Philippines","Singapore",17
+"QA","SG","Qatar","Singapore",1
+"RU","SG","Russia","Singapore",2
+"SA","SG","Saudi Arabia","Singapore",3
+"ZA","SG","South Africa","Singapore",4
+"KR","SG","South Korea","Singapore",5
+"ES","SG","Spain","Singapore",1
+"LK","SG","Sri Lanka","Singapore",5
+"CH","SG","Switzerland","Singapore",3
+"TW","SG","Taiwan","Singapore",9
+"TH","SG","Thailand","Singapore",28
+"TR","SG","Turkey","Singapore",3
+"AE","SG","United Arab Emirates","Singapore",11
+"GB","SG","United Kingdom","Singapore",4
+"UZ","SG","Uzbekistan","Singapore",2
+"VN","SG","Vietnam","Singapore",12
+"AT","SK","Austria","Slovakia",1
+"BE","SK","Belgium","Slovakia",1
+"CZ","SK","Czech Republic","Slovakia",4
+"FR","SK","France","Slovakia",1
+"IE","SK","Ireland","Slovakia",1
+"IT","SK","Italy","Slovakia",4
+"NO","SK","Norway","Slovakia",1
+"ES","SK","Spain","Slovakia",3
+"GB","SK","United Kingdom","Slovakia",6
+"AL","SI","Albania","Slovenia",1
+"AT","SI","Austria","Slovenia",2
+"BE","SI","Belgium","Slovenia",3
+"BA","SI","Bosnia and Herzegovina","Slovenia",1
+"CZ","SI","Czech Republic","Slovenia",1
+"DK","SI","Denmark","Slovenia",2
+"FI","SI","Finland","Slovenia",1
+"FR","SI","France","Slovenia",2
+"DE","SI","Germany","Slovenia",4
+"MK","SI","Macedonia","Slovenia",1
+"ME","SI","Montenegro","Slovenia",2
+"NL","SI","Netherlands","Slovenia",1
+"PL","SI","Poland","Slovenia",2
+"RU","SI","Russia","Slovenia",2
+"RS","SI","Serbia","Slovenia",2
+"CH","SI","Switzerland","Slovenia",2
+"TR","SI","Turkey","Slovenia",2
+"GB","SI","United Kingdom","Slovenia",2
+"AU","SB","Australia","Solomon Islands",2
+"FJ","SB","Fiji","Solomon Islands",2
+"PG","SB","Papua New Guinea","Solomon Islands",1
+"VU","SB","Vanuatu","Solomon Islands",3
+"DJ","SO","Djibouti","Somalia",5
+"ET","SO","Ethiopia","Somalia",1
+"KE","SO","Kenya","Somalia",7
+"UG","SO","Uganda","Somalia",1
+"AE","SO","United Arab Emirates","Somalia",5
+"YE","SO","Yemen","Somalia",2
+"AO","ZA","Angola","South Africa",3
+"AU","ZA","Australia","South Africa",4
+"BW","ZA","Botswana","South Africa",9
+"BR","ZA","Brazil","South Africa",2
+"CN","ZA","China","South Africa",2
+NA,"ZA","Congo (Brazzaville)","South Africa",2
+NA,"ZA","Congo (Kinshasa)","South Africa",3
+"EG","ZA","Egypt","South Africa",2
+"ET","ZA","Ethiopia","South Africa",2
+"FR","ZA","France","South Africa",2
+"GA","ZA","Gabon","South Africa",1
+"DE","ZA","Germany","South Africa",6
+"GH","ZA","Ghana","South Africa",1
+"HK","ZA","Hong Kong","South Africa",2
+"IN","ZA","India","South Africa",3
+"IL","ZA","Israel","South Africa",1
+"KE","ZA","Kenya","South Africa",2
+"LS","ZA","Lesotho","South Africa",1
+"MG","ZA","Madagascar","South Africa",2
+"MW","ZA","Malawi","South Africa",3
+"MU","ZA","Mauritius","South Africa",5
+"MZ","ZA","Mozambique","South Africa",15
+NA,"ZA","Namibia","South Africa",9
+"NL","ZA","Netherlands","South Africa",3
+"NG","ZA","Nigeria","South Africa",2
+"QA","ZA","Qatar","South Africa",1
+"RE","ZA","Reunion","South Africa",1
+"RW","ZA","Rwanda","South Africa",2
+"SA","ZA","Saudi Arabia","South Africa",1
+"SN","ZA","Senegal","South Africa",3
+"SC","ZA","Seychelles","South Africa",2
+"SG","ZA","Singapore","South Africa",4
+NA,"ZA","Swaziland","South Africa",1
+"CH","ZA","Switzerland","South Africa",2
+"TZ","ZA","Tanzania","South Africa",2
+"TH","ZA","Thailand","South Africa",2
+"TR","ZA","Turkey","South Africa",1
+"UG","ZA","Uganda","South Africa",1
+"AE","ZA","United Arab Emirates","South Africa",10
+"GB","ZA","United Kingdom","South Africa",8
+"US","ZA","United States","South Africa",5
+"ZM","ZA","Zambia","South Africa",7
+"ZW","ZA","Zimbabwe","South Africa",9
+"AU","KR","Australia","South Korea",5
+NA,"KR","Burma","South Korea",3
+"KH","KR","Cambodia","South Korea",8
+"CA","KR","Canada","South Korea",4
+"CN","KR","China","South Korea",152
+"CZ","KR","Czech Republic","South Korea",2
+"FJ","KR","Fiji","South Korea",1
+"FI","KR","Finland","South Korea",1
+"FR","KR","France","South Korea",3
+"DE","KR","Germany","South Korea",4
+"GU","KR","Guam","South Korea",4
+"HK","KR","Hong Kong","South Korea",16
+"IN","KR","India","South Korea",3
+"ID","KR","Indonesia","South Korea",6
+"IL","KR","Israel","South Korea",1
+"IT","KR","Italy","South Korea",2
+"JP","KR","Japan","South Korea",104
+"KZ","KR","Kazakhstan","South Korea",2
+"KE","KR","Kenya","South Korea",2
+"LA","KR","Laos","South Korea",2
+NA,"KR","Macau","South Korea",6
+"MY","KR","Malaysia","South Korea",8
+"MN","KR","Mongolia","South Korea",2
+"NP","KR","Nepal","South Korea",1
+"NL","KR","Netherlands","South Korea",2
+"NZ","KR","New Zealand","South Korea",1
+"MP","KR","Northern Mariana Islands","South Korea",2
+"PW","KR","Palau","South Korea",2
+"PH","KR","Philippines","South Korea",27
+"QA","KR","Qatar","South Korea",2
+"RU","KR","Russia","South Korea",13
+"SA","KR","Saudi Arabia","South Korea",1
+"SG","KR","Singapore","South Korea",5
+"ES","KR","Spain","South Korea",1
+"LK","KR","Sri Lanka","South Korea",1
+"CH","KR","Switzerland","South Korea",1
+"TW","KR","Taiwan","South Korea",18
+"TH","KR","Thailand","South Korea",21
+"TR","KR","Turkey","South Korea",3
+"AE","KR","United Arab Emirates","South Korea",5
+"GB","KR","United Kingdom","South Korea",3
+"US","KR","United States","South Korea",39
+"UZ","KR","Uzbekistan","South Korea",3
+"VN","KR","Vietnam","South Korea",13
+"EG","SS","Egypt","South Sudan",2
+"ER","SS","Eritrea","South Sudan",1
+"ET","SS","Ethiopia","South Sudan",2
+"KE","SS","Kenya","South Sudan",2
+"RW","SS","Rwanda","South Sudan",1
+"SD","SS","Sudan","South Sudan",2
+"UG","SS","Uganda","South Sudan",1
+"AE","SS","United Arab Emirates","South Sudan",1
+"DZ","ES","Algeria","Spain",14
+"AO","ES","Angola","Spain",1
+"AR","ES","Argentina","Spain",4
+"AT","ES","Austria","Spain",40
+"BY","ES","Belarus","Spain",1
+"BE","ES","Belgium","Spain",57
+"BO","ES","Bolivia","Spain",2
+"BR","ES","Brazil","Spain",8
+"BG","ES","Bulgaria","Spain",8
+"CA","ES","Canada","Spain",4
+NA,"ES","Cape Verde","Spain",1
+"CL","ES","Chile","Spain",2
+"CN","ES","China","Spain",2
+"CO","ES","Colombia","Spain",5
+"CR","ES","Costa Rica","Spain",1
+"HR","ES","Croatia","Spain",5
+"CU","ES","Cuba","Spain",2
+"CZ","ES","Czech Republic","Spain",16
+"DK","ES","Denmark","Spain",31
+"DO","ES","Dominican Republic","Spain",5
+"EC","ES","Ecuador","Spain",4
+"EG","ES","Egypt","Spain",2
+"SV","ES","El Salvador","Spain",2
+"GQ","ES","Equatorial Guinea","Spain",1
+"EE","ES","Estonia","Spain",1
+"FI","ES","Finland","Spain",16
+"FR","ES","France","Spain",149
+"GM","ES","Gambia","Spain",4
+"DE","ES","Germany","Spain",354
+"GH","ES","Ghana","Spain",1
+"GR","ES","Greece","Spain",7
+"HU","ES","Hungary","Spain",5
+"IS","ES","Iceland","Spain",2
+"IE","ES","Ireland","Spain",53
+"IL","ES","Israel","Spain",6
+"IT","ES","Italy","Spain",120
+"JO","ES","Jordan","Spain",4
+"LV","ES","Latvia","Spain",3
+"LY","ES","Libya","Spain",1
+"LT","ES","Lithuania","Spain",4
+"LU","ES","Luxembourg","Spain",12
+"MT","ES","Malta","Spain",4
+"MR","ES","Mauritania","Spain",3
+"MX","ES","Mexico","Spain",8
+"MA","ES","Morocco","Spain",39
+"NL","ES","Netherlands","Spain",68
+"NG","ES","Nigeria","Spain",1
+"NO","ES","Norway","Spain",52
+"PK","ES","Pakistan","Spain",2
+"PA","ES","Panama","Spain",1
+"PE","ES","Peru","Spain",3
+"PL","ES","Poland","Spain",22
+"PT","ES","Portugal","Spain",43
+"QA","ES","Qatar","Spain",6
+"RO","ES","Romania","Spain",17
+"RU","ES","Russia","Spain",28
+"SA","ES","Saudi Arabia","Spain",2
+"SN","ES","Senegal","Spain",8
+"SG","ES","Singapore","Spain",1
+"SK","ES","Slovakia","Spain",3
+"KR","ES","South Korea","Spain",1
+"SE","ES","Sweden","Spain",34
+"CH","ES","Switzerland","Spain",42
+"TH","ES","Thailand","Spain",1
+"TN","ES","Tunisia","Spain",2
+"TR","ES","Turkey","Spain",7
+"UA","ES","Ukraine","Spain",11
+"AE","ES","United Arab Emirates","Spain",2
+"GB","ES","United Kingdom","Spain",518
+"US","ES","United States","Spain",57
+"UY","ES","Uruguay","Spain",1
+"VE","ES","Venezuela","Spain",4
+"EH","ES","Western Sahara","Spain",3
+"BH","LK","Bahrain","Sri Lanka",2
+"BD","LK","Bangladesh","Sri Lanka",2
+"CN","LK","China","Sri Lanka",3
+"FR","LK","France","Sri Lanka",1
+"DE","LK","Germany","Sri Lanka",1
+"IN","LK","India","Sri Lanka",24
+"ID","LK","Indonesia","Sri Lanka",2
+"IT","LK","Italy","Sri Lanka",3
+"JP","LK","Japan","Sri Lanka",1
+"KW","LK","Kuwait","Sri Lanka",3
+"MY","LK","Malaysia","Sri Lanka",4
+"MV","LK","Maldives","Sri Lanka",13
+"OM","LK","Oman","Sri Lanka",3
+"PK","LK","Pakistan","Sri Lanka",2
+"QA","LK","Qatar","Sri Lanka",2
+"RU","LK","Russia","Sri Lanka",1
+"SA","LK","Saudi Arabia","Sri Lanka",9
+"SC","LK","Seychelles","Sri Lanka",2
+"SG","LK","Singapore","Sri Lanka",5
+"KR","LK","South Korea","Sri Lanka",1
+"TH","LK","Thailand","Sri Lanka",4
+"AE","LK","United Arab Emirates","Sri Lanka",12
+"GB","LK","United Kingdom","Sri Lanka",1
+"BH","SD","Bahrain","Sudan",1
+"EG","SD","Egypt","Sudan",3
+"ER","SD","Eritrea","Sudan",1
+"ET","SD","Ethiopia","Sudan",2
+"JO","SD","Jordan","Sudan",1
+"KE","SD","Kenya","Sudan",1
+"NG","SD","Nigeria","Sudan",1
+"QA","SD","Qatar","Sudan",2
+"SA","SD","Saudi Arabia","Sudan",8
+"SS","SD","South Sudan","Sudan",2
+"TR","SD","Turkey","Sudan",1
+"AE","SD","United Arab Emirates","Sudan",10
+"YE","SD","Yemen","Sudan",1
+"AW","SR","Aruba","Suriname",1
+"BR","SR","Brazil","Suriname",1
+"GF","SR","French Guiana","Suriname",1
+"GY","SR","Guyana","Suriname",1
+"NL","SR","Netherlands","Suriname",2
+"AN","SR","Netherlands Antilles","Suriname",1
+"TT","SR","Trinidad and Tobago","Suriname",3
+"ZA",NA,"South Africa","Swaziland",1
+"AT","SE","Austria","Sweden",4
+"BY","SE","Belarus","Sweden",1
+"BE","SE","Belgium","Sweden",7
+"BA","SE","Bosnia and Herzegovina","Sweden",1
+"CN","SE","China","Sweden",2
+"HR","SE","Croatia","Sweden",9
+"CY","SE","Cyprus","Sweden",2
+"CZ","SE","Czech Republic","Sweden",5
+"DK","SE","Denmark","Sweden",9
+"EE","SE","Estonia","Sweden",4
+"FI","SE","Finland","Sweden",22
+"FR","SE","France","Sweden",18
+"DE","SE","Germany","Sweden",29
+"GR","SE","Greece","Sweden",10
+"HU","SE","Hungary","Sweden",4
+"IS","SE","Iceland","Sweden",1
+"IR","SE","Iran","Sweden",3
+"IQ","SE","Iraq","Sweden",7
+"IE","SE","Ireland","Sweden",2
+"IL","SE","Israel","Sweden",1
+"IT","SE","Italy","Sweden",19
+"LV","SE","Latvia","Sweden",4
+"LT","SE","Lithuania","Sweden",2
+"LU","SE","Luxembourg","Sweden",1
+"MK","SE","Macedonia","Sweden",3
+"MT","SE","Malta","Sweden",3
+"MA","SE","Morocco","Sweden",1
+"NL","SE","Netherlands","Sweden",7
+"NO","SE","Norway","Sweden",13
+"PL","SE","Poland","Sweden",13
+"PT","SE","Portugal","Sweden",4
+"QA","SE","Qatar","Sweden",1
+"RU","SE","Russia","Sweden",4
+"RS","SE","Serbia","Sweden",6
+"ES","SE","Spain","Sweden",34
+"CH","SE","Switzerland","Sweden",6
+"TH","SE","Thailand","Sweden",3
+"TR","SE","Turkey","Sweden",6
+"AE","SE","United Arab Emirates","Sweden",2
+"GB","SE","United Kingdom","Sweden",27
+"US","SE","United States","Sweden",7
+"DZ","CH","Algeria","Switzerland",1
+"AT","CH","Austria","Switzerland",12
+"BY","CH","Belarus","Switzerland",1
+"BE","CH","Belgium","Switzerland",6
+"BA","CH","Bosnia and Herzegovina","Switzerland",1
+"BR","CH","Brazil","Switzerland",1
+"BG","CH","Bulgaria","Switzerland",1
+"CA","CH","Canada","Switzerland",8
+"CN","CH","China","Switzerland",3
+"HR","CH","Croatia","Switzerland",8
+"CU","CH","Cuba","Switzerland",1
+"CY","CH","Cyprus","Switzerland",3
+"CZ","CH","Czech Republic","Switzerland",4
+"DK","CH","Denmark","Switzerland",7
+"DO","CH","Dominican Republic","Switzerland",1
+"EG","CH","Egypt","Switzerland",10
+"FI","CH","Finland","Switzerland",3
+"FR","CH","France","Switzerland",21
+"DE","CH","Germany","Switzerland",42
+"GR","CH","Greece","Switzerland",9
+"HK","CH","Hong Kong","Switzerland",1
+"HU","CH","Hungary","Switzerland",2
+"IS","CH","Iceland","Switzerland",1
+"IN","CH","India","Switzerland",4
+"IE","CH","Ireland","Switzerland",3
+"IL","CH","Israel","Switzerland",5
+"IT","CH","Italy","Switzerland",38
+"JP","CH","Japan","Switzerland",2
+"JE","CH","Jersey","Switzerland",2
+"JO","CH","Jordan","Switzerland",2
+"KE","CH","Kenya","Switzerland",3
+"LV","CH","Latvia","Switzerland",1
+"LB","CH","Lebanon","Switzerland",1
+"LU","CH","Luxembourg","Switzerland",2
+"MK","CH","Macedonia","Switzerland",2
+"MT","CH","Malta","Switzerland",3
+"ME","CH","Montenegro","Switzerland",1
+"MA","CH","Morocco","Switzerland",5
+"NL","CH","Netherlands","Switzerland",6
+"NO","CH","Norway","Switzerland",3
+"OM","CH","Oman","Switzerland",2
+"PL","CH","Poland","Switzerland",7
+"PT","CH","Portugal","Switzerland",17
+"QA","CH","Qatar","Switzerland",3
+"RO","CH","Romania","Switzerland",3
+"RU","CH","Russia","Switzerland",6
+"SA","CH","Saudi Arabia","Switzerland",2
+"RS","CH","Serbia","Switzerland",9
+"SG","CH","Singapore","Switzerland",3
+"SI","CH","Slovenia","Switzerland",2
+"ZA","CH","South Africa","Switzerland",2
+"ES","CH","Spain","Switzerland",42
+"SE","CH","Sweden","Switzerland",6
+"TH","CH","Thailand","Switzerland",2
+"TN","CH","Tunisia","Switzerland",6
+"TR","CH","Turkey","Switzerland",11
+"UA","CH","Ukraine","Switzerland",3
+"AE","CH","United Arab Emirates","Switzerland",7
+"GB","CH","United Kingdom","Switzerland",24
+"US","CH","United States","Switzerland",29
+"AU","TW","Australia","Taiwan",3
+"AT","TW","Austria","Taiwan",1
+NA,"TW","Burma","Taiwan",1
+"KH","TW","Cambodia","Taiwan",3
+"CA","TW","Canada","Taiwan",3
+"CN","TW","China","Taiwan",191
+"FR","TW","France","Taiwan",1
+"DE","TW","Germany","Taiwan",1
+"GU","TW","Guam","Taiwan",2
+"HK","TW","Hong Kong","Taiwan",13
+"IN","TW","India","Taiwan",2
+"ID","TW","Indonesia","Taiwan",7
+"JP","TW","Japan","Taiwan",67
+NA,"TW","Macau","Taiwan",8
+"MY","TW","Malaysia","Taiwan",7
+"NL","TW","Netherlands","Taiwan",2
+"PW","TW","Palau","Taiwan",2
+"PH","TW","Philippines","Taiwan",9
+"SG","TW","Singapore","Taiwan",8
+"KR","TW","South Korea","Taiwan",18
+"TH","TW","Thailand","Taiwan",8
+"AE","TW","United Arab Emirates","Taiwan",1
+"US","TW","United States","Taiwan",14
+"VN","TW","Vietnam","Taiwan",13
+"AF","TJ","Afghanistan","Tajikistan",1
+"CN","TJ","China","Tajikistan",4
+"DE","TJ","Germany","Tajikistan",1
+"IN","TJ","India","Tajikistan",1
+"IR","TJ","Iran","Tajikistan",3
+"KZ","TJ","Kazakhstan","Tajikistan",3
+NA,"TJ","Kyrgyzstan","Tajikistan",2
+"RU","TJ","Russia","Tajikistan",72
+"TR","TJ","Turkey","Tajikistan",3
+"AE","TJ","United Arab Emirates","Tajikistan",3
+"KM","TZ","Comoros","Tanzania",1
+"EG","TZ","Egypt","Tanzania",1
+"ET","TZ","Ethiopia","Tanzania",3
+"KE","TZ","Kenya","Tanzania",17
+"MW","TZ","Malawi","Tanzania",1
+"YT","TZ","Mayotte","Tanzania",1
+"MZ","TZ","Mozambique","Tanzania",1
+"NL","TZ","Netherlands","Tanzania",3
+"OM","TZ","Oman","Tanzania",1
+"QA","TZ","Qatar","Tanzania",1
+"RW","TZ","Rwanda","Tanzania",2
+"ZA","TZ","South Africa","Tanzania",2
+"TR","TZ","Turkey","Tanzania",2
+"UG","TZ","Uganda","Tanzania",4
+"AE","TZ","United Arab Emirates","Tanzania",1
+"ZW","TZ","Zimbabwe","Tanzania",1
+"AU","TH","Australia","Thailand",14
+"AT","TH","Austria","Thailand",3
+"BH","TH","Bahrain","Thailand",3
+"BD","TH","Bangladesh","Thailand",7
+"BE","TH","Belgium","Thailand",2
+NA,"TH","Brunei","Thailand",2
+NA,"TH","Burma","Thailand",12
+"KH","TH","Cambodia","Thailand",8
+"CN","TH","China","Thailand",73
+"DK","TH","Denmark","Thailand",2
+"EG","TH","Egypt","Thailand",3
+"ET","TH","Ethiopia","Thailand",2
+"FI","TH","Finland","Thailand",1
+"FR","TH","France","Thailand",3
+"DE","TH","Germany","Thailand",4
+"HK","TH","Hong Kong","Thailand",24
+"IN","TH","India","Thailand",17
+"ID","TH","Indonesia","Thailand",8
+"IR","TH","Iran","Thailand",1
+"IL","TH","Israel","Thailand",2
+"IT","TH","Italy","Thailand",2
+"JP","TH","Japan","Thailand",22
+"JO","TH","Jordan","Thailand",2
+"KZ","TH","Kazakhstan","Thailand",1
+"KE","TH","Kenya","Thailand",3
+"KW","TH","Kuwait","Thailand",1
+"LA","TH","Laos","Thailand",10
+NA,"TH","Macau","Thailand",4
+"MG","TH","Madagascar","Thailand",2
+"MY","TH","Malaysia","Thailand",33
+"MV","TH","Maldives","Thailand",1
+"MN","TH","Mongolia","Thailand",1
+"NP","TH","Nepal","Thailand",2
+"NL","TH","Netherlands","Thailand",3
+"NZ","TH","New Zealand","Thailand",2
+"NO","TH","Norway","Thailand",3
+"OM","TH","Oman","Thailand",1
+"PK","TH","Pakistan","Thailand",4
+"PH","TH","Philippines","Thailand",6
+"QA","TH","Qatar","Thailand",1
+"RU","TH","Russia","Thailand",11
+"SG","TH","Singapore","Thailand",27
+"ZA","TH","South Africa","Thailand",2
+"KR","TH","South Korea","Thailand",21
+"ES","TH","Spain","Thailand",1
+"LK","TH","Sri Lanka","Thailand",4
+"SE","TH","Sweden","Thailand",3
+"CH","TH","Switzerland","Thailand",2
+"TW","TH","Taiwan","Thailand",8
+"TR","TH","Turkey","Thailand",2
+"UA","TH","Ukraine","Thailand",1
+"AE","TH","United Arab Emirates","Thailand",9
+"GB","TH","United Kingdom","Thailand",4
+"UZ","TH","Uzbekistan","Thailand",1
+"VN","TH","Vietnam","Thailand",10
+"BJ","TG","Benin","Togo",3
+"BR","TG","Brazil","Togo",1
+"BF","TG","Burkina Faso","Togo",2
+"CM","TG","Cameroon","Togo",1
+"CI","TG","Cote d'Ivoire","Togo",5
+"ET","TG","Ethiopia","Togo",1
+"FR","TG","France","Togo",1
+"GA","TG","Gabon","Togo",1
+"GH","TG","Ghana","Togo",1
+"GN","TG","Guinea","Togo",1
+"ML","TG","Mali","Togo",1
+"MA","TG","Morocco","Togo",1
+"NG","TG","Nigeria","Togo",2
+"AU","TO","Australia","Tonga",1
+"FJ","TO","Fiji","Tonga",2
+"NZ","TO","New Zealand","Tonga",2
+"AG","TT","Antigua and Barbuda","Trinidad and Tobago",2
+"BB","TT","Barbados","Trinidad and Tobago",1
+"CA","TT","Canada","Trinidad and Tobago",2
+"DE","TT","Germany","Trinidad and Tobago",1
+"GD","TT","Grenada","Trinidad and Tobago",3
+"GY","TT","Guyana","Trinidad and Tobago",1
+"JM","TT","Jamaica","Trinidad and Tobago",1
+"AN","TT","Netherlands Antilles","Trinidad and Tobago",3
+"PA","TT","Panama","Trinidad and Tobago",2
+NA,"TT","Saint Lucia","Trinidad and Tobago",4
+NA,"TT","Saint Vincent and the Grenadines","Trinidad and Tobago",1
+"SR","TT","Suriname","Trinidad and Tobago",3
+"GB","TT","United Kingdom","Trinidad and Tobago",1
+"US","TT","United States","Trinidad and Tobago",11
+"VE","TT","Venezuela","Trinidad and Tobago",2
+"DZ","TN","Algeria","Tunisia",3
+"AT","TN","Austria","Tunisia",1
+"BE","TN","Belgium","Tunisia",4
+"BF","TN","Burkina Faso","Tunisia",1
+"CA","TN","Canada","Tunisia",1
+"CI","TN","Cote d'Ivoire","Tunisia",1
+"EG","TN","Egypt","Tunisia",2
+"FR","TN","France","Tunisia",45
+"DE","TN","Germany","Tunisia",32
+"IT","TN","Italy","Tunisia",8
+"JO","TN","Jordan","Tunisia",1
+"KW","TN","Kuwait","Tunisia",1
+"LB","TN","Lebanon","Tunisia",2
+"LY","TN","Libya","Tunisia",22
+"LU","TN","Luxembourg","Tunisia",1
+"ML","TN","Mali","Tunisia",1
+"MT","TN","Malta","Tunisia",2
+"MR","TN","Mauritania","Tunisia",1
+"MA","TN","Morocco","Tunisia",2
+"NL","TN","Netherlands","Tunisia",1
+"PT","TN","Portugal","Tunisia",1
+"QA","TN","Qatar","Tunisia",1
+"RU","TN","Russia","Tunisia",6
+"SA","TN","Saudi Arabia","Tunisia",3
+"SN","TN","Senegal","Tunisia",1
+"RS","TN","Serbia","Tunisia",1
+"ES","TN","Spain","Tunisia",3
+"CH","TN","Switzerland","Tunisia",6
+"TR","TN","Turkey","Tunisia",2
+"AE","TN","United Arab Emirates","Tunisia",2
+"GB","TN","United Kingdom","Tunisia",22
+"AF","TR","Afghanistan","Turkey",3
+"AL","TR","Albania","Turkey",2
+"DZ","TR","Algeria","Turkey",6
+"AT","TR","Austria","Turkey",19
+"AZ","TR","Azerbaijan","Turkey",6
+"BH","TR","Bahrain","Turkey",2
+"BD","TR","Bangladesh","Turkey",1
+"BY","TR","Belarus","Turkey",2
+"BE","TR","Belgium","Turkey",8
+"BA","TR","Bosnia and Herzegovina","Turkey",4
+"BR","TR","Brazil","Turkey",1
+"BG","TR","Bulgaria","Turkey",1
+"BF","TR","Burkina Faso","Turkey",1
+"CM","TR","Cameroon","Turkey",1
+"CA","TR","Canada","Turkey",2
+"TD","TR","Chad","Turkey",1
+"CN","TR","China","Turkey",7
+NA,"TR","Congo (Kinshasa)","Turkey",1
+"CI","TR","Cote d'Ivoire","Turkey",1
+"HR","TR","Croatia","Turkey",2
+"CY","TR","Cyprus","Turkey",14
+"CZ","TR","Czech Republic","Turkey",2
+"DK","TR","Denmark","Turkey",10
+"DJ","TR","Djibouti","Turkey",1
+"EG","TR","Egypt","Turkey",8
+"EE","TR","Estonia","Turkey",1
+"ET","TR","Ethiopia","Turkey",1
+"FI","TR","Finland","Turkey",5
+"FR","TR","France","Turkey",26
+"GA","TR","Gabon","Turkey",1
+"GE","TR","Georgia","Turkey",5
+"DE","TR","Germany","Turkey",128
+"GH","TR","Ghana","Turkey",1
+"GR","TR","Greece","Turkey",6
+"HK","TR","Hong Kong","Turkey",1
+"HU","TR","Hungary","Turkey",2
+"IN","TR","India","Turkey",4
+"IR","TR","Iran","Turkey",14
+"IQ","TR","Iraq","Turkey",15
+"IE","TR","Ireland","Turkey",2
+"IL","TR","Israel","Turkey",3
+"IT","TR","Italy","Turkey",12
+"JP","TR","Japan","Turkey",4
+"JO","TR","Jordan","Turkey",3
+"KZ","TR","Kazakhstan","Turkey",7
+"KE","TR","Kenya","Turkey",3
+"KW","TR","Kuwait","Turkey",6
+NA,"TR","Kyrgyzstan","Turkey",5
+"LV","TR","Latvia","Turkey",2
+"LB","TR","Lebanon","Turkey",3
+"LY","TR","Libya","Turkey",6
+"LT","TR","Lithuania","Turkey",1
+"LU","TR","Luxembourg","Turkey",3
+"MK","TR","Macedonia","Turkey",2
+"MY","TR","Malaysia","Turkey",2
+"MV","TR","Maldives","Turkey",1
+"MT","TR","Malta","Turkey",4
+"MD","TR","Moldova","Turkey",2
+"ME","TR","Montenegro","Turkey",1
+"MA","TR","Morocco","Turkey",3
+"NP","TR","Nepal","Turkey",1
+"NL","TR","Netherlands","Turkey",24
+"NG","TR","Nigeria","Turkey",1
+"NO","TR","Norway","Turkey",7
+"OM","TR","Oman","Turkey",2
+"PK","TR","Pakistan","Turkey",3
+"PL","TR","Poland","Turkey",2
+"PT","TR","Portugal","Turkey",2
+"QA","TR","Qatar","Turkey",4
+"RO","TR","Romania","Turkey",4
+"RU","TR","Russia","Turkey",32
+"RW","TR","Rwanda","Turkey",1
+"SA","TR","Saudi Arabia","Turkey",20
+"SN","TR","Senegal","Turkey",1
+"RS","TR","Serbia","Turkey",6
+"SG","TR","Singapore","Turkey",3
+"SI","TR","Slovenia","Turkey",2
+"ZA","TR","South Africa","Turkey",1
+"KR","TR","South Korea","Turkey",3
+"ES","TR","Spain","Turkey",7
+"SD","TR","Sudan","Turkey",1
+"SE","TR","Sweden","Turkey",6
+"CH","TR","Switzerland","Turkey",11
+"TJ","TR","Tajikistan","Turkey",3
+"TZ","TR","Tanzania","Turkey",1
+"TH","TR","Thailand","Turkey",2
+"TN","TR","Tunisia","Turkey",2
+"TM","TR","Turkmenistan","Turkey",2
+"UG","TR","Uganda","Turkey",1
+"UA","TR","Ukraine","Turkey",20
+"AE","TR","United Arab Emirates","Turkey",8
+"GB","TR","United Kingdom","Turkey",91
+"US","TR","United States","Turkey",10
+"UZ","TR","Uzbekistan","Turkey",2
+"YE","TR","Yemen","Turkey",1
+"AZ","TM","Azerbaijan","Turkmenistan",2
+"BY","TM","Belarus","Turkmenistan",1
+"CN","TM","China","Turkmenistan",1
+"DE","TM","Germany","Turkmenistan",1
+"IN","TM","India","Turkmenistan",2
+"RU","TM","Russia","Turkmenistan",2
+"TR","TM","Turkey","Turkmenistan",2
+"AE","TM","United Arab Emirates","Turkmenistan",2
+"GB","TM","United Kingdom","Turkmenistan",2
+"BS","TC","Bahamas","Turks and Caicos Islands",4
+"CA","TC","Canada","Turks and Caicos Islands",2
+"DO","TC","Dominican Republic","Turks and Caicos Islands",3
+"HT","TC","Haiti","Turks and Caicos Islands",3
+"JM","TC","Jamaica","Turks and Caicos Islands",1
+"PR","TC","Puerto Rico","Turks and Caicos Islands",1
+"US","TC","United States","Turks and Caicos Islands",14
+"FJ","TV","Fiji","Tuvalu",1
+"BI","UG","Burundi","Uganda",1
+"EG","UG","Egypt","Uganda",1
+"ET","UG","Ethiopia","Uganda",2
+"KE","UG","Kenya","Uganda",3
+"QA","UG","Qatar","Uganda",1
+"RW","UG","Rwanda","Uganda",11
+"SO","UG","Somalia","Uganda",1
+"ZA","UG","South Africa","Uganda",1
+"SS","UG","South Sudan","Uganda",2
+"TZ","UG","Tanzania","Uganda",4
+"AE","UG","United Arab Emirates","Uganda",1
+"GB","UG","United Kingdom","Uganda",2
+"AM","UA","Armenia","Ukraine",2
+"AT","UA","Austria","Ukraine",10
+"AZ","UA","Azerbaijan","Ukraine",3
+"BY","UA","Belarus","Ukraine",2
+"BE","UA","Belgium","Ukraine",2
+"CY","UA","Cyprus","Ukraine",5
+"CZ","UA","Czech Republic","Ukraine",3
+"EE","UA","Estonia","Ukraine",1
+"FI","UA","Finland","Ukraine",1
+"FR","UA","France","Ukraine",3
+"GE","UA","Georgia","Ukraine",7
+"DE","UA","Germany","Ukraine",12
+"GR","UA","Greece","Ukraine",5
+"HU","UA","Hungary","Ukraine",1
+"IL","UA","Israel","Ukraine",7
+"IT","UA","Italy","Ukraine",10
+"JO","UA","Jordan","Ukraine",1
+"KZ","UA","Kazakhstan","Ukraine",4
+"LV","UA","Latvia","Ukraine",2
+"LT","UA","Lithuania","Ukraine",2
+"MD","UA","Moldova","Ukraine",1
+"NL","UA","Netherlands","Ukraine",2
+"NO","UA","Norway","Ukraine",1
+"PL","UA","Poland","Ukraine",6
+"PT","UA","Portugal","Ukraine",2
+"RU","UA","Russia","Ukraine",38
+"ES","UA","Spain","Ukraine",11
+"CH","UA","Switzerland","Ukraine",3
+"TH","UA","Thailand","Ukraine",1
+"TR","UA","Turkey","Ukraine",20
+"AE","UA","United Arab Emirates","Ukraine",10
+"GB","UA","United Kingdom","Ukraine",3
+"US","UA","United States","Ukraine",1
+"UZ","UA","Uzbekistan","Ukraine",1
+"AF","AE","Afghanistan","United Arab Emirates",7
+"DZ","AE","Algeria","United Arab Emirates",2
+"AO","AE","Angola","United Arab Emirates",2
+"AM","AE","Armenia","United Arab Emirates",2
+"AU","AE","Australia","United Arab Emirates",16
+"AT","AE","Austria","United Arab Emirates",2
+"AZ","AE","Azerbaijan","United Arab Emirates",2
+"BH","AE","Bahrain","United Arab Emirates",16
+"BD","AE","Bangladesh","United Arab Emirates",9
+"BY","AE","Belarus","United Arab Emirates",2
+"BE","AE","Belgium","United Arab Emirates",3
+"BR","AE","Brazil","United Arab Emirates",3
+NA,"AE","Brunei","United Arab Emirates",1
+"BG","AE","Bulgaria","United Arab Emirates",1
+"CA","AE","Canada","United Arab Emirates",3
+"CN","AE","China","United Arab Emirates",14
+"CY","AE","Cyprus","United Arab Emirates",3
+"CZ","AE","Czech Republic","United Arab Emirates",2
+"DK","AE","Denmark","United Arab Emirates",2
+"DJ","AE","Djibouti","United Arab Emirates",4
+"EG","AE","Egypt","United Arab Emirates",11
+"ET","AE","Ethiopia","United Arab Emirates",3
+"FR","AE","France","United Arab Emirates",7
+"GE","AE","Georgia","United Arab Emirates",1
+"DE","AE","Germany","United Arab Emirates",23
+"GH","AE","Ghana","United Arab Emirates",1
+"GR","AE","Greece","United Arab Emirates",3
+"HK","AE","Hong Kong","United Arab Emirates",5
+"HU","AE","Hungary","United Arab Emirates",1
+"IN","AE","India","United Arab Emirates",81
+"ID","AE","Indonesia","United Arab Emirates",5
+"IR","AE","Iran","United Arab Emirates",22
+"IQ","AE","Iraq","United Arab Emirates",15
+"IE","AE","Ireland","United Arab Emirates",4
+"IT","AE","Italy","United Arab Emirates",8
+"JP","AE","Japan","United Arab Emirates",8
+"JO","AE","Jordan","United Arab Emirates",9
+"KZ","AE","Kazakhstan","United Arab Emirates",7
+"KE","AE","Kenya","United Arab Emirates",9
+"KW","AE","Kuwait","United Arab Emirates",11
+NA,"AE","Kyrgyzstan","United Arab Emirates",1
+"LB","AE","Lebanon","United Arab Emirates",6
+"LY","AE","Libya","United Arab Emirates",1
+"MK","AE","Macedonia","United Arab Emirates",1
+"MY","AE","Malaysia","United Arab Emirates",7
+"MV","AE","Maldives","United Arab Emirates",4
+"MU","AE","Mauritius","United Arab Emirates",2
+"MD","AE","Moldova","United Arab Emirates",1
+"MA","AE","Morocco","United Arab Emirates",4
+"NP","AE","Nepal","United Arab Emirates",4
+"NL","AE","Netherlands","United Arab Emirates",10
+"NG","AE","Nigeria","United Arab Emirates",2
+"OM","AE","Oman","United Arab Emirates",20
+"PK","AE","Pakistan","United Arab Emirates",51
+"PH","AE","Philippines","United Arab Emirates",7
+"PL","AE","Poland","United Arab Emirates",2
+"PT","AE","Portugal","United Arab Emirates",2
+"QA","AE","Qatar","United Arab Emirates",11
+"RO","AE","Romania","United Arab Emirates",3
+"RU","AE","Russia","United Arab Emirates",35
+"RW","AE","Rwanda","United Arab Emirates",1
+"SA","AE","Saudi Arabia","United Arab Emirates",46
+"SN","AE","Senegal","United Arab Emirates",1
+"RS","AE","Serbia","United Arab Emirates",3
+"SC","AE","Seychelles","United Arab Emirates",4
+"SG","AE","Singapore","United Arab Emirates",11
+"SO","AE","Somalia","United Arab Emirates",2
+"ZA","AE","South Africa","United Arab Emirates",10
+"KR","AE","South Korea","United Arab Emirates",5
+"SS","AE","South Sudan","United Arab Emirates",1
+"ES","AE","Spain","United Arab Emirates",2
+"LK","AE","Sri Lanka","United Arab Emirates",12
+"SD","AE","Sudan","United Arab Emirates",10
+"SE","AE","Sweden","United Arab Emirates",2
+"CH","AE","Switzerland","United Arab Emirates",7
+"TW","AE","Taiwan","United Arab Emirates",1
+"TJ","AE","Tajikistan","United Arab Emirates",3
+"TZ","AE","Tanzania","United Arab Emirates",1
+"TH","AE","Thailand","United Arab Emirates",9
+"TN","AE","Tunisia","United Arab Emirates",2
+"TR","AE","Turkey","United Arab Emirates",8
+"TM","AE","Turkmenistan","United Arab Emirates",2
+"UG","AE","Uganda","United Arab Emirates",1
+"UA","AE","Ukraine","United Arab Emirates",10
+"GB","AE","United Kingdom","United Arab Emirates",21
+"US","AE","United States","United Arab Emirates",24
+"UZ","AE","Uzbekistan","United Arab Emirates",2
+"VN","AE","Vietnam","United Arab Emirates",3
+"YE","AE","Yemen","United Arab Emirates",12
+"ZM","AE","Zambia","United Arab Emirates",1
+"AL","GB","Albania","United Kingdom",1
+"DZ","GB","Algeria","United Kingdom",3
+"AO","GB","Angola","United Kingdom",2
+"AG","GB","Antigua and Barbuda","United Kingdom",3
+"AR","GB","Argentina","United Kingdom",1
+"AT","GB","Austria","United Kingdom",11
+"AZ","GB","Azerbaijan","United Kingdom",2
+"BS","GB","Bahamas","United Kingdom",1
+"BH","GB","Bahrain","United Kingdom",4
+"BD","GB","Bangladesh","United Kingdom",1
+"BB","GB","Barbados","United Kingdom",5
+"BY","GB","Belarus","United Kingdom",1
+"BE","GB","Belgium","United Kingdom",17
+"BM","GB","Bermuda","United Kingdom",2
+"BR","GB","Brazil","United Kingdom",3
+"BG","GB","Bulgaria","United Kingdom",10
+"CA","GB","Canada","United Kingdom",41
+NA,"GB","Cape Verde","United Kingdom",9
+"CN","GB","China","United Kingdom",11
+"HR","GB","Croatia","United Kingdom",35
+"CU","GB","Cuba","United Kingdom",2
+"CY","GB","Cyprus","United Kingdom",50
+"CZ","GB","Czech Republic","United Kingdom",16
+"DK","GB","Denmark","United Kingdom",22
+"DO","GB","Dominican Republic","United Kingdom",1
+"EG","GB","Egypt","United Kingdom",34
+"EE","GB","Estonia","United Kingdom",3
+"ET","GB","Ethiopia","United Kingdom",1
+"FI","GB","Finland","United Kingdom",9
+"FR","GB","France","United Kingdom",157
+"DE","GB","Germany","United Kingdom",103
+"GH","GB","Ghana","United Kingdom",2
+"GI","GB","Gibraltar","United Kingdom",6
+"GR","GB","Greece","United Kingdom",95
+"GG","GB","Guernsey","United Kingdom",11
+"HK","GB","Hong Kong","United Kingdom",3
+"HU","GB","Hungary","United Kingdom",15
+"IS","GB","Iceland","United Kingdom",10
+"IN","GB","India","United Kingdom",15
+"IR","GB","Iran","United Kingdom",1
+"IE","GB","Ireland","United Kingdom",63
+"IM","GB","Isle of Man","United Kingdom",10
+"IL","GB","Israel","United Kingdom",6
+"IT","GB","Italy","United Kingdom",141
+"JM","GB","Jamaica","United Kingdom",3
+"JP","GB","Japan","United Kingdom",8
+"JE","GB","Jersey","United Kingdom",25
+"JO","GB","Jordan","United Kingdom",2
+"KZ","GB","Kazakhstan","United Kingdom",3
+"KE","GB","Kenya","United Kingdom",3
+"KW","GB","Kuwait","United Kingdom",3
+"LV","GB","Latvia","United Kingdom",7
+"LB","GB","Lebanon","United Kingdom",2
+"LY","GB","Libya","United Kingdom",3
+"LT","GB","Lithuania","United Kingdom",10
+"LU","GB","Luxembourg","United Kingdom",4
+"MK","GB","Macedonia","United Kingdom",1
+"MY","GB","Malaysia","United Kingdom",2
+"MV","GB","Maldives","United Kingdom",1
+"MT","GB","Malta","United Kingdom",28
+"MU","GB","Mauritius","United Kingdom",3
+"MX","GB","Mexico","United Kingdom",12
+"MD","GB","Moldova","United Kingdom",1
+"ME","GB","Montenegro","United Kingdom",2
+"MA","GB","Morocco","United Kingdom",26
+"NL","GB","Netherlands","United Kingdom",54
+"NG","GB","Nigeria","United Kingdom",4
+"NO","GB","Norway","United Kingdom",42
+"OM","GB","Oman","United Kingdom",1
+"PK","GB","Pakistan","United Kingdom",7
+"PH","GB","Philippines","United Kingdom",1
+"PL","GB","Poland","United Kingdom",67
+"PT","GB","Portugal","United Kingdom",82
+"QA","GB","Qatar","United Kingdom",4
+"RO","GB","Romania","United Kingdom",11
+"RU","GB","Russia","United Kingdom",8
+NA,"GB","Saint Lucia","United Kingdom",3
+"SA","GB","Saudi Arabia","United Kingdom",7
+"RS","GB","Serbia","United Kingdom",4
+"SL","GB","Sierra Leone","United Kingdom",2
+"SG","GB","Singapore","United Kingdom",4
+"SK","GB","Slovakia","United Kingdom",6
+"SI","GB","Slovenia","United Kingdom",2
+"ZA","GB","South Africa","United Kingdom",9
+"KR","GB","South Korea","United Kingdom",3
+"ES","GB","Spain","United Kingdom",512
+"LK","GB","Sri Lanka","United Kingdom",1
+"SE","GB","Sweden","United Kingdom",27
+"CH","GB","Switzerland","United Kingdom",24
+"TH","GB","Thailand","United Kingdom",4
+"TT","GB","Trinidad and Tobago","United Kingdom",1
+"TN","GB","Tunisia","United Kingdom",22
+"TR","GB","Turkey","United Kingdom",89
+"TM","GB","Turkmenistan","United Kingdom",2
+"UG","GB","Uganda","United Kingdom",2
+"UA","GB","Ukraine","United Kingdom",3
+"AE","GB","United Arab Emirates","United Kingdom",22
+"US","GB","United States","United Kingdom",207
+"UZ","GB","Uzbekistan","United Kingdom",1
+"AS","US","American Samoa","United States",1
+"AG","US","Antigua and Barbuda","United States",7
+"AR","US","Argentina","United States",10
+"AW","US","Aruba","United States",21
+"AU","US","Australia","United States",26
+"AT","US","Austria","United States",6
+"BS","US","Bahamas","United States",72
+"BB","US","Barbados","United States",3
+"BE","US","Belgium","United States",21
+"BZ","US","Belize","United States",10
+"BM","US","Bermuda","United States",11
+"BO","US","Bolivia","United States",2
+"BR","US","Brazil","United States",58
+"CA","US","Canada","United States",363
+NA,"US","Cape Verde","United States",1
+"KY","US","Cayman Islands","United States",16
+"CL","US","Chile","United States",10
+"CN","US","China","United States",58
+"CO","US","Colombia","United States",49
+"CK","US","Cook Islands","United States",2
+"CR","US","Costa Rica","United States",36
+"DK","US","Denmark","United States",7
+"DO","US","Dominican Republic","United States",61
+"EC","US","Ecuador","United States",8
+"EG","US","Egypt","United States",2
+"SV","US","El Salvador","United States",29
+"FJ","US","Fiji","United States",6
+"FI","US","Finland","United States",4
+"FR","US","France","United States",91
+"PF","US","French Polynesia","United States",7
+"DE","US","Germany","United States",115
+"GH","US","Ghana","United States",1
+"GR","US","Greece","United States",3
+"GD","US","Grenada","United States",4
+"GP","US","Guadeloupe","United States",2
+"GU","US","Guam","United States",1
+"GT","US","Guatemala","United States",17
+"GY","US","Guyana","United States",2
+"HT","US","Haiti","United States",13
+"HN","US","Honduras","United States",19
+"HK","US","Hong Kong","United States",16
+"IS","US","Iceland","United States",7
+"IN","US","India","United States",5
+"IE","US","Ireland","United States",35
+"IL","US","Israel","United States",7
+"IT","US","Italy","United States",53
+"JM","US","Jamaica","United States",41
+"JP","US","Japan","United States",78
+"JO","US","Jordan","United States",6
+"KI","US","Kiribati","United States",2
+"KW","US","Kuwait","United States",2
+"LV","US","Latvia","United States",1
+"MH","US","Marshall Islands","United States",1
+"MQ","US","Martinique","United States",2
+"MX","US","Mexico","United States",373
+"MA","US","Morocco","United States",1
+"NL","US","Netherlands","United States",39
+"AN","US","Netherlands Antilles","United States",23
+"NZ","US","New Zealand","United States",4
+"NI","US","Nicaragua","United States",6
+"NG","US","Nigeria","United States",3
+"NO","US","Norway","United States",5
+"PA","US","Panama","United States",30
+"PY","US","Paraguay","United States",2
+"PE","US","Peru","United States",21
+"PH","US","Philippines","United States",3
+"PL","US","Poland","United States",2
+"PT","US","Portugal","United States",14
+"PR","US","Puerto Rico","United States",53
+"QA","US","Qatar","United States",11
+"RU","US","Russia","United States",13
+NA,"US","Saint Kitts and Nevis","United States",2
+NA,"US","Saint Lucia","United States",7
+"WS","US","Samoa","United States",1
+"SA","US","Saudi Arabia","United States",5
+"SN","US","Senegal","United States",4
+"ZA","US","South Africa","United States",5
+"KR","US","South Korea","United States",39
+"ES","US","Spain","United States",57
+"SE","US","Sweden","United States",7
+"CH","US","Switzerland","United States",29
+"TW","US","Taiwan","United States",14
+"TT","US","Trinidad and Tobago","United States",11
+"TR","US","Turkey","United States",10
+"TC","US","Turks and Caicos Islands","United States",14
+"UA","US","Ukraine","United States",1
+"AE","US","United Arab Emirates","United States",24
+"GB","US","United Kingdom","United States",203
+"UY","US","Uruguay","United States",2
+"VE","US","Venezuela","United States",9
+NA,"US","Virgin Islands","United States",20
+"AR","UY","Argentina","Uruguay",9
+"BR","UY","Brazil","Uruguay",9
+"CL","UY","Chile","Uruguay",2
+"PA","UY","Panama","Uruguay",1
+"PY","UY","Paraguay","Uruguay",1
+"PE","UY","Peru","Uruguay",1
+"ES","UY","Spain","Uruguay",1
+"US","UY","United States","Uruguay",2
+"AZ","UZ","Azerbaijan","Uzbekistan",1
+"CN","UZ","China","Uzbekistan",4
+"CZ","UZ","Czech Republic","Uzbekistan",1
+"FR","UZ","France","Uzbekistan",2
+"DE","UZ","Germany","Uzbekistan",1
+"IN","UZ","India","Uzbekistan",2
+"IR","UZ","Iran","Uzbekistan",1
+"IL","UZ","Israel","Uzbekistan",1
+"IT","UZ","Italy","Uzbekistan",2
+"JP","UZ","Japan","Uzbekistan",1
+"KZ","UZ","Kazakhstan","Uzbekistan",4
+NA,"UZ","Kyrgyzstan","Uzbekistan",2
+"LV","UZ","Latvia","Uzbekistan",2
+"MY","UZ","Malaysia","Uzbekistan",2
+"RU","UZ","Russia","Uzbekistan",81
+"SG","UZ","Singapore","Uzbekistan",2
+"KR","UZ","South Korea","Uzbekistan",3
+"TH","UZ","Thailand","Uzbekistan",1
+"TR","UZ","Turkey","Uzbekistan",2
+"UA","UZ","Ukraine","Uzbekistan",1
+"AE","UZ","United Arab Emirates","Uzbekistan",2
+"GB","UZ","United Kingdom","Uzbekistan",1
+"AU","VU","Australia","Vanuatu",7
+"FJ","VU","Fiji","Vanuatu",2
+"NC","VU","New Caledonia","Vanuatu",2
+"NZ","VU","New Zealand","Vanuatu",2
+"SB","VU","Solomon Islands","Vanuatu",3
+"AR","VE","Argentina","Venezuela",2
+"AW","VE","Aruba","Venezuela",11
+"BR","VE","Brazil","Venezuela",3
+"CL","VE","Chile","Venezuela",1
+"CO","VE","Colombia","Venezuela",5
+"CU","VE","Cuba","Venezuela",3
+"DO","VE","Dominican Republic","Venezuela",1
+"EC","VE","Ecuador","Venezuela",1
+"FR","VE","France","Venezuela",1
+"DE","VE","Germany","Venezuela",1
+"GD","VE","Grenada","Venezuela",1
+"GY","VE","Guyana","Venezuela",1
+"IT","VE","Italy","Venezuela",1
+"MX","VE","Mexico","Venezuela",1
+"AN","VE","Netherlands Antilles","Venezuela",6
+"PA","VE","Panama","Venezuela",6
+"PE","VE","Peru","Venezuela",2
+"PT","VE","Portugal","Venezuela",3
+"PR","VE","Puerto Rico","Venezuela",1
+"ES","VE","Spain","Venezuela",4
+"TT","VE","Trinidad and Tobago","Venezuela",2
+"US","VE","United States","Venezuela",9
+"AU","VN","Australia","Vietnam",4
+NA,"VN","Burma","Vietnam",2
+"KH","VN","Cambodia","Vietnam",14
+"CN","VN","China","Vietnam",23
+"FR","VN","France","Vietnam",6
+"DE","VN","Germany","Vietnam",4
+"HK","VN","Hong Kong","Vietnam",10
+"ID","VN","Indonesia","Vietnam",1
+"JP","VN","Japan","Vietnam",20
+"KZ","VN","Kazakhstan","Vietnam",1
+"LA","VN","Laos","Vietnam",6
+NA,"VN","Macau","Vietnam",2
+"MY","VN","Malaysia","Vietnam",6
+"PH","VN","Philippines","Vietnam",4
+"QA","VN","Qatar","Vietnam",1
+"RU","VN","Russia","Vietnam",6
+"SG","VN","Singapore","Vietnam",12
+"KR","VN","South Korea","Vietnam",13
+"TW","VN","Taiwan","Vietnam",13
+"TH","VN","Thailand","Vietnam",10
+"AE","VN","United Arab Emirates","Vietnam",3
+"AI",NA,"Anguilla","Virgin Islands",1
+"VG",NA,"British Virgin Islands","Virgin Islands",3
+"DM",NA,"Dominica","Virgin Islands",1
+"FR",NA,"France","Virgin Islands",1
+"AN",NA,"Netherlands Antilles","Virgin Islands",3
+"PR",NA,"Puerto Rico","Virgin Islands",8
+NA,NA,"Saint Kitts and Nevis","Virgin Islands",1
+"US",NA,"United States","Virgin Islands",19
+"FJ",NA,"Fiji","Wallis and Futuna",1
+"NC",NA,"New Caledonia","Wallis and Futuna",1
+"MA","EH","Morocco","Western Sahara",4
+"ES","EH","Spain","Western Sahara",3
+"BH","YE","Bahrain","Yemen",2
+"DJ","YE","Djibouti","Yemen",3
+"EG","YE","Egypt","Yemen",5
+"ER","YE","Eritrea","Yemen",2
+"ET","YE","Ethiopia","Yemen",1
+"IN","YE","India","Yemen",2
+"JO","YE","Jordan","Yemen",5
+"KE","YE","Kenya","Yemen",1
+"KW","YE","Kuwait","Yemen",1
+"LB","YE","Lebanon","Yemen",1
+"QA","YE","Qatar","Yemen",3
+"SA","YE","Saudi Arabia","Yemen",15
+"SO","YE","Somalia","Yemen",1
+"SD","YE","Sudan","Yemen",1
+"TR","YE","Turkey","Yemen",1
+"AE","YE","United Arab Emirates","Yemen",11
+"BW","ZM","Botswana","Zambia",1
+NA,"ZM","Congo (Kinshasa)","Zambia",3
+"ET","ZM","Ethiopia","Zambia",1
+"KE","ZM","Kenya","Zambia",9
+"MW","ZM","Malawi","Zambia",5
+NA,"ZM","Namibia","Zambia",2
+"ZA","ZM","South Africa","Zambia",7
+"AE","ZM","United Arab Emirates","Zambia",1
+"ZW","ZM","Zimbabwe","Zambia",11
+"AO","ZW","Angola","Zimbabwe",1
+"BW","ZW","Botswana","Zimbabwe",2
+"ET","ZW","Ethiopia","Zimbabwe",4
+"KE","ZW","Kenya","Zimbabwe",3
+"MW","ZW","Malawi","Zimbabwe",1
+NA,"ZW","Namibia","Zimbabwe",2
+"NL","ZW","Netherlands","Zimbabwe",3
+"ZA","ZW","South Africa","Zimbabwe",9
+"TZ","ZW","Tanzania","Zimbabwe",1
+"ZM","ZW","Zambia","Zimbabwe",10
